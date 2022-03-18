@@ -29,16 +29,17 @@ Appropriate credit as per Creative Commons licenses.
 
 | Work                                                   | License        | Changes
 |:-------------------------------------------------------|:---------------|:-
-| Photo by [Jeremy Bishop][jb]                           | [Unsplash]     | Liquify filter, blur
+| Photo by [ChiemSeherin][cs]                            | [PixaBayLicense][pbl]| None
 | Photo by [Caleb George][cg]                            | [Unsplash]     | Liquify filter, patch tool, blur
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
 
-[jb]: https://unsplash.com/photos/1braZySlEKA
+[cs]: https://pixabay.com/de/photos/heidelberg-schloss-historisch-4603040/
 [cg]: https://unsplash.com/photos/AtvuPUenaeI
 [11]: https://icomoon.io/#icons-icomoon
 [12]: http://keyamoon.com/
 [41]: https://commons.wikimedia.org/wiki/File:Touch-161562.svg
+[pbl]: https://pixabay.com/de/service/license/
 
 
 ## Licenses
