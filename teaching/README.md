@@ -8,6 +8,9 @@ sitemap: true
 permalink: /teaching/
 ---
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 ## Summer Term 2022
 
 In the summer term 2022 our workgroup offers the following courses at Heidelberg University: 
