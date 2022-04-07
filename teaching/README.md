@@ -14,7 +14,7 @@ permalink: /teaching/
 ## Summer Term 2022
 
 In the summer term 2022 our workgroup offers the following courses at Heidelberg University: 
-  - Nonlinear Optimization
+  - Nonlinear Optimization[nlo]
   - Seminar on Special Topics in Continuous Optimization and Optimal Control
   - Proseminar on Matrix Analysis
 
@@ -22,4 +22,5 @@ In the summer term 2022 our workgroup offers the following courses at Heidelberg
 
 To see information about the courses I have organised previously, click [here][previous_semesters].
 
+[nlo]: ss22/nlo.md
 [previous_semesters]: previous_semesters.md
