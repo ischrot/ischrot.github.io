@@ -18,7 +18,7 @@ In the summer term 2022 our workgroup offers the following courses at Heidelberg
   - Seminar on Special Topics in Continuous Optimization and Optimal Control
   - Proseminar on Matrix Analysis
 
-## Previous Semesters
+## [Previous Semesters][previous_semesters]
 
 To see information about the courses I have organised previously, click [here][previous_semesters].
 
