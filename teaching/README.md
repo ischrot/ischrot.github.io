@@ -8,7 +8,8 @@ sitemap: true
 permalink: /teaching/
 ---
 
-0. {:toc}
+0. 
+{:toc}
 
 ## Summer Term 2022
 
