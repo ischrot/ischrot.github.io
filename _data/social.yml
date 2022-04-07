@@ -105,10 +105,6 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
-gitlab:
-  name: GitLab
-  icon: ../assets/img/gitlab_logo.svg
-  prepend: "https://gitlab.com/"
 npm:
   name: npm
   icon: icon-npm
