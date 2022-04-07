@@ -5,7 +5,6 @@ description: >
   Here you find information about the courses I have been organising previously.
 hide_description: false
 sitemap: true
-permalink: /teaching/
 ---
 
 0. I need this empty list to make the TOC work
