@@ -8,7 +8,7 @@ sitemap: true
 permalink: /teaching/
 ---
 
-0. 
+0. I need this empty list to make the TOC work
 {:toc}
 
 ## Summer Term 2022
