@@ -20,6 +20,6 @@ In the summer term 2022 our workgroup offers the following courses at Heidelberg
 
 ## Previous Semesters
 
-To see information about the courses I have organised previously, click [previous_semesters]{here}.
+To see information about the courses I have organised previously, click [here][previous_semesters].
 
 [previous_semesters]: previous_semesters.md
