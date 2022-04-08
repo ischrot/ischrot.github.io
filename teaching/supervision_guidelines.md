@@ -35,15 +35,17 @@ Ideally around 6 months before you want to register your thesis.
 
 ### What?
 
-**You:** Contact the possible supervisor and ask whether the supervisor has the capacity to supervise a thesis in the time where you wish to write your thesis. Please contact [Prof. Dr. Ekaterina A. Kostina][ekaterina] if you wish to write your thesis in our group. If you like, put me in CC, so that I can possibly contribute ideas or even supervise you. 
+**You:** 
+- [ ] Contact the possible supervisor and ask whether the supervisor has the capacity to supervise a thesis in the time where you wish to write your thesis. Please contact [Prof. Dr. Ekaterina A. Kostina][ekaterina] if you wish to write your thesis in our group. 
+- [ ] If you like, put me in CC, so that I can possibly contribute ideas or even supervise you. 
+- [ ] If you already have a wish or a suggestions for the main topic of your thesis, inform the supervisor about it.
 
-If you already have a wish or a suggestions for the main topic of your thesis, inform the supervisor about it.
-
-**Supervisor:** Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.
+**Supervisor:** 
+- [ ] Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.
 
 | You | Supervisor|
 |-----|-----------|
-|Contact the possible supervisor and ask whether the supervisor has the capacity to supervise a thesis in the time where you wish to write your thesis. Please contact [Prof. Dr. Ekaterina A. Kostina][ekaterina] if you wish to write your thesis in our group. If you like, put me in CC, so that I can possibly contribute ideas or even supervise you. | Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.| 
+| Contact the possible supervisor and ask whether the supervisor has the capacity to supervise a thesis in the time where you wish to write your thesis. Please contact [Prof. Dr. Ekaterina A. Kostina][ekaterina] if you wish to write your thesis in our group. If you like, put me in CC, so that I can possibly contribute ideas or even supervise you. | Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.| 
 
 ### What's next?
 
