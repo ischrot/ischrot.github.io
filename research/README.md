@@ -29,8 +29,8 @@ At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][
 ### Master Thesis
   - I. Schrot, *Comparative Analysis of the Restrictive Monotonicity Test and the Backward Step Control for Newton’s Method*, Master Thesis, Heidelberg University, 2019 
 
-[ekaterina] http://wwwagkostina.iwr.uni-heidelberg.de/kostina.html
-[andreas] https://www.mathematik.tu-clausthal.de/arbeitsgruppen/kontinuierliche-optimierung/team/prof-dr-andreas-potschka/
-[karl] https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/profil/fachgebiet-optimization-based-control/team/karl-worthmann
-[manuel] https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/profil/fachgebiet-optimization-based-control/team/manuel-schaller
-[cordula] https://www.tu-braunschweig.de/ipde/personal/creisch
+[ekaterina]: http://wwwagkostina.iwr.uni-heidelberg.de/kostina.html
+[andreas]: https://www.mathematik.tu-clausthal.de/arbeitsgruppen/kontinuierliche-optimierung/team/prof-dr-andreas-potschka/
+[karl]: https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/profil/fachgebiet-optimization-based-control/team/karl-worthmann
+[manuel]: https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/profil/fachgebiet-optimization-based-control/team/manuel-schaller
+[cordula]: https://www.tu-braunschweig.de/ipde/personal/creisch
