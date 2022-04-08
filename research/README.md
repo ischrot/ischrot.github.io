@@ -25,7 +25,7 @@ At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][
 
 ### Conference Proceedings
   - C. Reisch, I. Schrot: *Hierarchies of Modeling Infections: Comparison of Reaction-Diffusion System and Cellular Automaton*, ARGESIM Report 55, 49-50, Proc. MathMod2018, Wien, 2018.
-  - 
+
 ### Master Thesis
   - I. Schrot, *Comparative Analysis of the Restrictive Monotonicity Test and the Backward Step Control for Newton’s Method*, Master Thesis, Heidelberg University, 2019 
 
