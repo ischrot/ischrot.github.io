@@ -51,7 +51,7 @@ The guidelines (still under construction) can be found [here][guidelines].
 [nlo]: ss22/nlo.md
 [previous_semesters]: previous_semesters.md
 [ekaterina]: mailto:ekaterina_(dot)_kostina_(at)_iwr_(dot)_uni-heidelberg_(dot)_de
-[gl_internal]: #guidelines
+[gl_internal]: #supervision-guidelines
 [guidelines]: supervision_guidelines.md
 
 
