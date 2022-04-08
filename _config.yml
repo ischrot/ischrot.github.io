@@ -50,6 +50,8 @@ author:
 menu:
   - title:             Teaching
     url:               /teaching/
+  - title:             Research
+    url:               /research/
   - title:             About Me
     url:               /about/
 
