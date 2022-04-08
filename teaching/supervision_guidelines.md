@@ -30,11 +30,32 @@ The guidelines are mainly structured as a time line reaching from the [initial c
 
 ## Initial Contact
 
-TODO
+### When?
+Ideally around 6 months before you want to register your thesis. 
+
+### What?
+
+**You:** Contact the possible supervisor and ask whether the supervisor has the capacity to supervise a thesis in the time where you wish to write your thesis. Please contact [Prof. Dr. Ekaterina A. Kostina][ekaterina] if you wish to write your thesis in our group. If you like, put me in CC, so that I can possibly contribute ideas or even supervise you. 
+
+If you already have a wish or a suggestions for the main topic of your thesis, inform the supervisor about it.
+
+**Supervisor:** Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.
+
+### What's next?
+
+Until the first [organisational meeting][orga_meet]:
+
+**You:** Formulate wishes or even suggestions regarding the main topic of your thesis - if your supervisor wants you to do so and not done so already. If you have a wish or an idea already before the [organisational meeting][orga_meet], please inform the supervisor already before the next meeting. 
+
+**Supervisor:** Formulate suggestions regarding the main topic of the thesis or tell the student to formulate wishes or suggestions, see above. If the student has told you an idea for a topic, try to develop this idea further if necessary.
+
+## Organisational Meeting
 
 ## Defense of the Thesis
 
 TODO
 
-[init]: #initial_contact
-[defense]: #defense_of_the_thesis
+[init]: #initial-contact
+[orga_meet]: #organisational-meeting
+[defense]: #defense-of-the-thesis
+[ekaterina]: mailto:ekaterina_(dot)_kostina_(at)_iwr_(dot)_uni-heidelberg_(dot)_de
