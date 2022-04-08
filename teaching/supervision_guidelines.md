@@ -41,7 +41,7 @@ Ideally around 6 months before you want to register your thesis.
 - If you already have a wish or a suggestions for the main topic of your thesis, inform the supervisor about it.
 
 **Supervisor:** 
-- [ ] Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.
+- Decide whether you have the capacity to supervise a thesis in the time where the student wishes to write the thesis.
 
 | You | Supervisor|
 |-----|-----------|
