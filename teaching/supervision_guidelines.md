@@ -57,12 +57,29 @@ Until the first [organisational meeting][orga_meet]:
 |-----|-----------|
 | Formulate wishes or even suggestions regarding the main topic of your thesis - if your supervisor wants you to do so and not done so already. | Formulate suggestions regarding the main topic of the thesis or tell the student to formulate wishes or suggestions, see above. |
 | If you have a wish or an idea already before the [organisational meeting][orga_meet], please inform the supervisor already before the next meeting. | If the student has told you an idea for a topic, try to develop this idea further if necessary. |
+| If not done so yet, read these guidelines. | |
 
 <!-- **You:** Formulate wishes or even suggestions regarding the main topic of your thesis - if your supervisor wants you to do so and not done so already. If you have a wish or an idea already before the [organisational meeting][orga_meet], please inform the supervisor already before the next meeting. 
 
 **Supervisor:** Formulate suggestions regarding the main topic of the thesis or tell the student to formulate wishes or suggestions, see above. If the student has told you an idea for a topic, try to develop this idea further if necessary. -->
 
 ## Organisational Meeting
+
+### When?
+
+The latest 3 months before you want to register your thesis.
+
+### What?
+
+You and your supervisor meet for the first time to discuss the general conditions regarding your thesis. In particular, you discuss with your supervisor
+  - your *honest* goals for the thesis,
+  - how much time you can and want to invest into your thesis,
+  - possibly other relevant obligations of yours.
+
+Here it is important that you are honest in this discussion. It's perfectly fine if your goal is not to write the best thesis ever and invest every second of your life into it. However, it *is* problematic if you state the opposite and the expectations of you and your supervisor hence mismatch. {.note}
+
+
+### What's next?
 
 ## Defense of the Thesis
 
