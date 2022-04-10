@@ -72,6 +72,7 @@ The latest 3 months before you want to register your thesis.
 ### What?
 
 You and your supervisor meet for the first time to discuss the general conditions regarding your thesis. In particular, you discuss with your supervisor
+
 | You | Supervisor |
 |-----|------------|
 | *honest* goals for the thesis | goals regarding the students thesis and/or possibly relevance of the work within your research or larger projects
