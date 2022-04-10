@@ -92,6 +92,13 @@ Moreover, you *briefly* discuss the topic. I.e., depending on what you agreed on
 
 ### What's next?
 
+Until the [second meeting][2nd_meet] - again depending on the particular situation:
+
+| You | Supervisor |
+|-----|------------|
+| Familiarize yourself with the topic suggestions by your supervisor. | Based on the wishes of the student develop topic suggestion or adjust the topic drafts. |
+| Learn about Scientific Writing and Researching techniques. | |
+
 ## Defense of the Thesis
 
 TODO
