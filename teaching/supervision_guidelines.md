@@ -76,7 +76,10 @@ You and your supervisor meet for the first time to discuss the general condition
   - how much time you can and want to invest into your thesis,
   - possibly other relevant obligations of yours.
 
-Here it is important that you are honest in this discussion. It's perfectly fine if your goal is not to write the best thesis ever and invest every second of your life into it. However, it *is* problematic if you state the opposite and the expectations of you and your supervisor hence mismatch. {:.note}
+Here it is important that you are honest in this discussion. It's perfectly fine if your goal is not to write the best thesis ever and invest every second of your life into it. However, it *is* problematic if you state the opposite and the expectations of you and your supervisor hence mismatch. 
+
+testnotiz
+{:.note}
 
 
 ### What's next?
