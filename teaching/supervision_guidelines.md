@@ -72,13 +72,22 @@ The latest 3 months before you want to register your thesis.
 ### What?
 
 You and your supervisor meet for the first time to discuss the general conditions regarding your thesis. In particular, you discuss with your supervisor
-  - your *honest* goals for the thesis,
-  - how much time you can and want to invest into your thesis,
-  - possibly other relevant obligations of yours.
+| You | Supervisor |
+|-----|------------|
+| *honest* goals for the thesis | goals regarding the students thesis and/or possibly relevance of the work within your research or larger projects
+| how much time you can and want to invest into your thesis | how much time you can invest into the supervision
+| possibly other relevant obligations of yours | possibly state which other colleagues the student might turn to for adivce |
 
 Here it is important that you are honest in this discussion. It's perfectly fine if your goal is not to write the best thesis ever and invest every second of your life into it. However, it *is* problematic if you state the opposite and the expectations of you and your supervisor hence mismatch.
 {:.note}
 
+Moreover, you *briefly* discuss the topic. I.e., depending on what you agreed on before and have communicated before:
+
+| You | Supervisor |
+|-----|------------|
+| State your wishes regarding the topic. | Comment on the wishes or topic suggestions of the student regarding the topic. |
+| Briefly present your topic suggestions. | Briefly present your suggestions to improve a topic suggested by the student. |
+| | Briefly present your topic suggestions |
 
 ### What's next?
 
