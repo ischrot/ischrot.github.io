@@ -155,13 +155,35 @@ Rarely an exposé is close to perfect right out of the box. As it is an importan
 | Send your exposé to your supervisor. | Provide feedback to the exposé. |
 | Incorporate your supervisors feedback | Possibly suggest further literature. |
 
-This process should be repeated 
-> as often as necessary, as rarely as possible.
-{:.lead}
+This process should be repeated **as often as necessary, as rarely as possible.**
+{:.note}
 
 ### What's next?
 
-Once you have your exposé, outline, schedule and literature collection ready, it is time to really get started :upside_down_face:
+Once you have your exposé, outline, schedule and literature collection ready, it is time to [register your thesis][registration] and then to really get started :)
+<!--  :upside_down_face: -->
+
+## Preparing the Registration and the Registration
+
+### When?
+
+| Preparing the registration | Registration |
+|----------------------------|--------------|
+| Around 1 week before you want to register your thesis. | You can register your thesis at any time. So, the date of the registration is determined by the date by which you want to be done minus the available time to work on the thesis. |
+
+The time that you are allowed to work on your thesis is prescribed by the [examination regulations][po] you are enrolled in. To the best of my knowledge for Mathematics, the current regulations are that you have 3 months for a Bachelor thesis and 6 months for a master thesis. In special cases you can get an extension.
+
+Please check your [examination regulations][po] for the current official regulations!
+{:.note title="Important"}
+
+### What?
+
+| Preparing the registration | Registration |
+|----------------------------|--------------|
+| | You | Supervisor | | | You | Supervisor | |
+| |-----|------------|   |-----|------------| |
+
+### What's next?
 
 ## Regular Meetings
 
@@ -189,3 +211,4 @@ TODO
 [defense]: #defense-of-the-thesis
 [ressources]: #ressources
 [ekaterina]: mailto:ekaterina_(dot)_kostina_(at)_iwr_(dot)_uni-heidelberg_(dot)_de
+[po]: https://www.uni-heidelberg.de/de/studium/studienorganisation/downloadcenter/studien-und-pruefungsordnungen
