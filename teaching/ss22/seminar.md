@@ -40,6 +40,17 @@ Requirements
 
   You can of course still join the seminar if you are missing one of these courses, but we strongly recommend that you attend the missing course in parallel then. The experience is that students without knowledge in these areas have problems with the topics of this seminar.
   {:.note}
+  
+Registration
+: To participate in the seminar, please register for the seminar on [MÜSLI][muesli].
+
+## Kick-Off Meeting
+The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205). Here, we 
+  - discuss organizational matters,
+  - briefly present the topics,
+  - form pairs if necessary,
+  - **distribute** the topics,
+  - discuss the schedule.
 
 ## Topics
 
@@ -72,6 +83,14 @@ Further we expect
   - professional display and communication of Mathematics,
   - scientific literature work,
   - a professional presentation (the presentation technique is up to you).
+
+## Schedule
+
+**Will be discussed in the [kick-off meeting][kom]
+
+## Grading
+
+We primarly rate your talks based on [this rubric][rubric].
 
 ## Literature 
 
@@ -114,6 +133,9 @@ Computers Chem. Engng Vol.2 No. 9, pp. 1137-1158. (1998).
       
   Robust nonconvex optimization
   :   -  B. Houska. Robust Optimization of Dynamic Systems. Chapter 3-4. (2011).
-    
+
+[kom]: #kick-off-meeting
 [prosem]: ss22/proseminar.md
+[muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1507
+[rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
 
