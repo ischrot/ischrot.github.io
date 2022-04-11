@@ -28,7 +28,7 @@ Not started yet
 
 [teaching]: /teaching/README.md
 [seminar]: /teaching/ss22/seminar.md
-[seminar]: /teaching/ss22/proseminar.md
+[proseminar]: /teaching/ss22/proseminar.md
 [nlo]: /teaching/ss22/nlo.md
 [guide]: /teaching/supervision_guidelines.md
 
