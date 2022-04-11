@@ -178,10 +178,10 @@ Please check your [examination regulations][po] for the current official regulat
 
 ### What?
 
-| Preparing the registration | Registration |
-|----------------------------|--------------|
-| | You | Supervisor | | | You | Supervisor | |
-| |-----|------------|   |-----|------------| |
+| Preparing the registration| | Registration | |
+|---------------------------|-|--------------|-|
+|  You | Supervisor | You | Supervisor | 
+|------|------------|-----|------------|
 
 ### What's next?
 
