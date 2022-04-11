@@ -75,7 +75,7 @@ The following topics are preliminary only. The final topics will be discussed in
 ## Expectations
 In order to complete the seminar successfully you have to
   - attend the weekly meetings,
-  - prepare and do a presentation of 90min (+10min discussion) in pairs.
+  - prepare and do a presentation of 90min (+10min discussion) in pairs *or* 45min (+5min discussion) alone.
 
 You do not need to write an essay.
 {:.note}
@@ -88,7 +88,7 @@ Further we expect
 
 ## Schedule
 
-**Will be discussed in the [kick-off meeting][kom]
+**Will be discussed in the [kick-off meeting][kom]**
 
 ## Grading
 
