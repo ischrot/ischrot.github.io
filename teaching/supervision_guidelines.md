@@ -99,11 +99,76 @@ Until the [second meeting][2nd_meet] - again depending on the particular situati
 | Familiarize yourself with the topic suggestions by your supervisor. | Based on the wishes of the student develop topic suggestion or adjust the topic drafts. |
 | Learn about Scientific Writing and Researching techniques. | |
 
+## Second Meeting
+
+### When?
+Around 2 months before you want to register your thesis.
+
+### What?
+
+The main goals of this second meeting are:
+  1. Deciding on a topic
+  2. Discussing current open questions
+
+Depending on your and your supervisors preferences this meeting can also be replaced by an email exchange or a call. 
+{:.note}
+
+Depending on whether you or your supervisor suggested topics initially the main task is
+
+| You | Supervisor |
+|-----|------------|
+| Share for which topic suggestion you decided. | Share your feedback to the students topic suggestion. |
+| Ask currently open questions. | |
+
+### What's next?
+
+Now it is time to get started with the topic. Within around 1 month the tasks are
+
+| You | Supervisor |
+|-----|------------|
+| Write an exposé that includes a preliminary outline of your work and schedule. | Make your subject- and form related expectations for the thesis transparent. |
+| Create a first literature collection. | |
+
+A good schedule will significantly help you structuring the work you have to do during the thesis. It is important that your schedule is realistic, so be honest with yourself regarding how much time you need for the upcoming tasks.
+{:.note title="Important"}
+
+Of course it is hard to predict the schedule and outline of your thesis perfectly at the beginning, so both will usually be updated during the work on the thesis, see also the [regular meetings][reg_meet]. Nevertheless, come up with an outline and schedule that is well thought out.
+{:.note}
+
+There are many good ressources on how to write an exposé, outline and schedule. Some that I personally like are listed [below][ressources].
+{:.note title="Helpful Ressources"}
+
+## Improving the Exposé
+
+### When?
+
+### What?
+
+### What's next?
+
+## Regular Meetings
+
+TODO
+
+### When?
+
+### What?
+
+### What's next?
+
 ## Defense of the Thesis
 
 TODO
 
+## Ressources 
+
+### Writing an exposé
+TODO
+
 [init]: #initial-contact
 [orga_meet]: #organisational-meeting
+[2nd_meet]: #second-meeting
+[reg_meet]: #regular-meetings
 [defense]: #defense-of-the-thesis
+[ressources]: #ressources
 [ekaterina]: mailto:ekaterina_(dot)_kostina_(at)_iwr_(dot)_uni-heidelberg_(dot)_de
