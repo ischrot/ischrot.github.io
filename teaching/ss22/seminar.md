@@ -52,7 +52,7 @@ The following topics are preliminary only. The final topics will be discussed in
 6. Interior-point filter line-search algorithm for NLP
 7. A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control
 8. Global optimization methods
-9. Robust optimization
+9. Robust nonconvex optimization
 
 ## Goal of the Seminar
 > **Teach** your fellow students your topic in an understandable yet professional way!
@@ -74,6 +74,9 @@ Further we expect
 
 ## Literature 
 
+We expect you to identify and use further literature if necessary on your own! The following literature suggestions are to be understood as starting points.
+{:.note title="Important"}
+
 General recommendations
 :   - Nocedal, Jorge, and Stephen J. Wright, eds. Numerical optimization. New York, NY: Springer New York, 2006.
     - Ulbrich, Michael, and Stefan Ulbrich. Nichtlineare Optimierung. Springer-Verlag, 2012.
@@ -82,6 +85,34 @@ Recommendations by topics
 : CG-Methods
   :   - J. Nocedal, S.J. Wright. Numerical Optimization, Springer, 2006. Ch. 5, pp. 101–133.
       - Published papers about new research results on the field of nonlinear CG-methods
+      
+  Active set methods for NLPs with vanishing constraints
+  :   - C. Kirches, A. Potschka, H.G. Bock and S. Sager. A parametric active set method for quadratic programs with vanishing constraints.
+  
+  Penalty and augmented Lagrangian methods
+  :   -  J. Nocedal, S.J. Wright. Numerical Optimization, Springer, 2006. Ch. 17, pp. 497–527.
+  
+  SQP with indefinite Hessian approximations
+  :   - D. Janka. Sequential quadratic programming with indefinite Hessian approximations for nonlinear optimum experimental design for parameter estimation in differential–algebraic equations. PhD Thesis. Heidelberg. (2015).
+      - D. Janka, C. Kirches, S. Sager and A. Wachter. An SR1/BFGS SQP algorithm for nonconvex nonlinear programs with block-diagonal Hessian matrix (2016).
+      
+  BFGS-SQP Method for nonsmooth, nonconvex, costrained optimization
+  :   - F.E. Curtis et. al. BFGS-SQP Method for nonsmooth, nonconvex, constrained optimization and its evaluation using relative minimization profiles. Optimization Methods and Software (2017)
+  
+  Interior-point filter line-search algorithm for NLP
+  :   - A. Wachter and L.T., Biegler. On the implementation of an interior-point filter line-search algorithm for large-scale nonlinear programming. Math. Program., Ser. A (2005).
+  
+  A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control
+  :   - J. Frasch,M. Vukov, H.J. Ferreau and M. Diehl. A dual Newton strategy for the efficient solution of sparse quadratic programs arising in SQP-based nonlinear MPC.
+      - J. Frasch. Parallel Algorithms for Optimization of Dynamic Systems in Real-Time. PhD Thesis, KU Leuven and U Magdeburg, 2014.
+      
+  Global optimization methods
+  :   - C.S. Adjiman et. al. A global optimization method, $$ \alpha $$ BB, for general twice-differentiable constrained NLPs - I. Theoretical advances.
+Computers Chem. Engng Vol.2 No. 9, pp. 1137-1158. (1998).
+      - C. A. Meyer and C. A. Floudas. Convex underestimation of twice continuously differentiable functions by piecewise quadratic pertubation: spline $$ \alpha $$ BB underestimators.
+      
+  Robust nonconvex optimization
+  :   -  B. Houska. Robust Optimization of Dynamic Systems. Chapter 3-4. (2011).
     
 [prosem]: ss22/proseminar.md
 
