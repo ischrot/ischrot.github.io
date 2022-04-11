@@ -1,6 +1,11 @@
 # Homepage of Ihno Schrot
 
-## Welcome to my homepage! 
+> Welcome to my homepage!
+{:.lead}
+
+
+![Full-width image](/assets/img/construction.jpg)
+
 
 ## This page is still under development, so don't be surprised if many areas are still empty. However, you should soon find all information regarding my **teaching**.
 
