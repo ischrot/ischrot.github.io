@@ -94,10 +94,10 @@ When?
 : Around 2 months before you want to register your thesis.
 
 What?
-:  The main goals of this second meeting are:
+: The main goals of this second meeting are:
     1. Deciding on a topic
     2. Discussing current open questions
-
+    
   Depending on your and your supervisors preferences this meeting can also be replaced by an email exchange or a call. 
   {:.note}
 
@@ -146,7 +146,7 @@ What?
 What's next?
 : Once you have your exposé, outline, schedule and literature collection ready, it is time to [register your thesis][registration] and then to really get started :)
 
-## Preparing the Registration and the Registration
+## Registration
 
 When?
 : | Preparing the registration | Registration |
@@ -226,6 +226,7 @@ TODO
 [init]: #initial-contact
 [orga_meet]: #organisational-meeting
 [2nd_meet]: #second-meeting
+[registration]: #registration
 [reg_meet]: #regular-meetings
 [defense]: #defense-of-the-thesis
 [ressources]: #ressources
