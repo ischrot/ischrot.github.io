@@ -138,11 +138,26 @@ Of course it is hard to predict the schedule and outline of your thesis perfectl
 There are many good ressources on how to write an exposé, outline and schedule. Some that I personally like are listed [below][ressources].
 {:.note title="Helpful Ressources"}
 
-## Improving the Exposé
+## Submitting and Improving the Exposé
 
 ### When?
 
+| Submitting the first draft of the exposé | Improving the exposé|
+|------------------------------------------|---------------------|
+| After the [second meeting][2nd_meet] and around 1 month before you want to register your thesis. | Until around 1 week before you want to register your thesis.|
+
 ### What?
+
+Rarely an exposé is close to perfect right out of the box. As it is an important foundation on which you can build your thesis, the exposé should be improved over the next weeks.
+
+| You | Supervisor |
+|-----|------------|
+| Send your exposé to your supervisor. | Provide feedback to the exposé. |
+| Incorporate your supervisors feedback | Possibly suggest further literature. |
+
+This process should be repeated 
+> as often as necessary, as rarely as possible.
+{:.lead}
 
 ### What's next?
 
