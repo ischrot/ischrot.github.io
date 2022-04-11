@@ -20,6 +20,7 @@ Date
 
 Room
 : Seminarroom 1 (SR 1) in INF 205 
+  
   We meet in person.
   {:.note}
 
