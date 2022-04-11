@@ -14,6 +14,14 @@ sitemap: true
 
 ## General Information
 
+Organizers
+: [Prof. Dr. Ekaterina A. Kostina][ekaterina]
+  [Ihno Schrot][ihno]
+  [Marta Sauter][marta]
+  
+  Please contact [Ihno Schrot][ihno] if you have questions regarding this seminar.
+  {:.note title="Contact"}
+
 Kick-Off Meeting Date
 : Tuesday, April 26, 11:00, in SR1 (INF 205)
 
@@ -138,6 +146,9 @@ Computers Chem. Engng Vol.2 No. 9, pp. 1137-1158. (1998).
 
 [kom]: #kick-off-meeting
 [prosem]: ss22/proseminar.md
+[ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
+[ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
+[marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1507
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
 
