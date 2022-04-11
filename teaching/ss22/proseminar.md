@@ -15,9 +15,9 @@ sitemap: true
 ## General Information
 
 Organizers
-: - [Prof. Dr. Ekaterina A. Kostina][ekaterina]
-  - [Ihno Schrot][ihno]
-  - [Marta Sauter][marta]
+:   - [Prof. Dr. Ekaterina A. Kostina][ekaterina]
+    - [Ihno Schrot][ihno]
+    - [Marta Sauter][marta]
   
   Please contact [Ihno Schrot][ihno] if you have questions regarding this seminar.
   {:.note title="Contact"}
