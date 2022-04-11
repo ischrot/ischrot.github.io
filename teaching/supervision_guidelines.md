@@ -82,6 +82,11 @@ You and your supervisor meet for the first time to discuss the general condition
 Here it is important that you are honest in this discussion. It's perfectly fine if your goal is not to write the best thesis ever and invest every second of your life into it. However, it *is* problematic if you state the opposite and the expectations of you and your supervisor hence mismatch.
 {:.note}
 
+In addition to that, you should discuss with your supervisor the plan for the [regular meetings][reg_meet] that you will have later on. This includes
+  - How often do you and your supervisor want to meet?
+  - What should you prepare for the meetings?
+  - What kind of feedback do you want/can you get from your supervisor? E.g., can you send text excerpts to your supervisor to get feedback on your writing style?
+
 Moreover, you *briefly* discuss the topic. I.e., depending on what you agreed on before and have communicated before:
 
 | You | Supervisor |
@@ -186,7 +191,53 @@ Please check your [examination regulations][po] for the current official regulat
 
 ### What's next?
 
+Continuously work on your thesis and try sticking to your schedule. Prepare and attend [regular meetings][reg_meet] with your supervisor.
+
 ## Regular Meetings
+
+### When?
+
+On a **regular** basis and/or at specific milestones in the thesis, like after you have written your first chapter.
+
+I like to meet you once per month and when you need advice.
+{:.note title="My personal preference"}
+
+### What?
+
+In the meetings you and your supervisor discuss
+  - the recent progress,
+  - adjustments of the outline and schedule,
+  - open questions,
+  - suggestions for improvements,
+  - miscellaneous.
+
+To make these meetings as effective as possible, it is important that you prepare these meetings. The following tasks should help you with the preparation:
+
+| You | Supervisor |
+|-----|------------|
+| Check what tasks on your schedule you have done since the last meeting.| Check whether the student is on track to complete the thesis in time. |
+| What changes to the outline or schedule do you deem necessary and why? | Provide feedback to the proposed changes. |
+| Which open questions or problems do you currently have? | Answer open questions. |
+| If you and your supervisor agreed on this, send a text excerpt to your supervisor 1-2 weeks **before** to get feedback. | Possibly read text excerpts and provide feedback on the writing style and the content. |
+| | Possibly share relevant literature, events, etc. that you have discovered recently. |
+
+> Always be honest about your progress and problems! Nobody's perfect and it's absolutely fine if things are not going to plan. But only if you are honest about that, your supervisor can help you!
+{:.lead}
+
+Reading and providing feedback to text excerpts is a lot of work for the supervisor. So, before sending text excerpts to your supervisor kindly ask the supervisor whether this is ok, see [Organisational Meeting][orga_meet]. Moreover, be understanding if your supervisor does not agree on this.
+{:.note}
+
+### What's next?
+
+Between the regular meetings you should
+  - continuously work on your thesis, sticking to the schedule,
+  - incorporate feedback you obtained in the meetings,
+  - ask for a meeting/help when you need it!
+
+The last point is very important and goes along with the advice to always be honest about your progress and problems, see above.
+{:.note}
+
+## Final Phase before Submitting your Thesis
 
 TODO
 
