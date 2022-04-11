@@ -5,8 +5,9 @@ description: >
   Here you find information about the seminar on Special Topics in Continuous Optimization and Control in the summer term 2022.
 hide_description: false
 sitemap: true
-invert_sidebar: true
 ---
+
+<!-- invert_sidebar: true -->
 
 0. I need this empty list to make the TOC work
 {:toc}
