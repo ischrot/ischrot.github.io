@@ -161,6 +161,8 @@ This process should be repeated
 
 ### What's next?
 
+Once you have your exposé, outline, schedule and literature collection ready, it is time to really get started :upside_down_face:
+
 ## Regular Meetings
 
 TODO
