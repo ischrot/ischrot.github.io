@@ -8,7 +8,7 @@ sitemap: false
 ---
 
 * I need this empty list to make the TOC work
-{:toc}
+{:toc .large-only}
 
 **These guidelines are still under construction!**
 
