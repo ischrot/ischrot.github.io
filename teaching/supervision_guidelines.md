@@ -182,6 +182,8 @@ Please check your [examination regulations][po] for the current official regulat
 |---------------------------|-|--------------|-|
 |  You | Supervisor | You | Supervisor | 
 |------|------------|-----|------------|
+| Prefill all relevant forms. | Sign forms. | Hand in all forms | |
+| Think of title. | Think of title. | | |
 
 ### What's next?
 
