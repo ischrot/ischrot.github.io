@@ -84,23 +84,33 @@ Handwritten lecture notes are available from the course in the winter term 2020/
 
 General format
 : - **One** exercise sheet every **two** weeks
-  - Theoretical and programming exercises
+  - The first exercise sheet will be published April 29.
   - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet
-  - Release: *TBA*
-  - Submission: *TBA*
+  - Release: Fridays (biweekly) at *TBA* on *TBA*
+  - Submission deadline: Fridays (biweekly) until 08:00am 
+  - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
   - Feedback in the [tutorials][tuts]
-  - The tutor can ask/allow you to revise your programming exercise once per sheet
-  - Solutions can be written in English and German
+  - The tutor can ask/allow you to revise your programming exercise once per sheet.
+  - Solutions can be written in English and German.
+  - Plagiarism leads to 0 points for all involved teams.
   <!-- - Sample solutions? -->
   
 Programming exercises format
 : - Programming language: Python
   - You get templates that you have to complete.
   - The templates are a single Jupyter notebook for each sheet (sometimes accompanied by a Python file with auxiliary functions)
-  - The solutions have to be a single Jupyter notebook, too.
-  - The notebooks have an obligatory naming scheme. Please name your files \<sheet numer (2 digits!)\>\_\<Last name1\>(\_\<Last name2\>\_\<Last name3\>).ipynb, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
   - A Python tutorial will be available soon.
+
+Submission procedure
+: - Both the theoretical and the programming exercises are submitted digitally.
+  - The solutions to the theoretical questions have to be submitted as **one PDF** file. Solutions created in LaTeX are allowed as long as the names of the team members are also added using LateX. If you scan handwritten solutions, please make sure that the solutions remain readable and have a moderate file size! Digitally handwritten solutions are accepted, too.
+  - The programming exercises have to be submitted as **one Jupyter notebook**.
+  - The Jupyter notebooks have to include the created outputs, like plots and logging outputs.
+  - The PDF and the Jupyter notebook have then to be added to a **ZIP-archive**.
+  - The notebooks, PDFs, and archives have an obligatory naming scheme. Please name your files \<sheet numer (2 digits!)\>\_\<Last name1\>(\_\<Last name2\>\_\<Last name3\>).ipynb/pdf/zip, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
+  - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
+  - Upload your solutions until Friday (biweekly), 08:00am (where is still *TBA*)
 
 ## Tutorial Format
 
