@@ -96,7 +96,7 @@ Programming exercises format
   - You get templates that you have to complete.
   - The templates are a single Jupyter notebook for each sheet (sometimes accompanied by a Python file with auxiliary functions)
   - The solutions have to be a single Jupyter notebook, too.
-  - The notebooks have an obligatory naming scheme. Please name your files <sheet numer (2 digits!)> _ <Last name1> (_ <Last name2> _ <Last name3>).ipynb, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
+  - The notebooks have an obligatory naming scheme. Please name your files \<sheet numer (2 digits!)\>\_\<Last name1\>(\_\<Last name2\>\_\<Last name3\>).ipynb, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
 
 ## Tutorial Format
 
