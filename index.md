@@ -12,7 +12,8 @@ sitemap: false
 ![Full-width image](/assets/img/construction.jpg){:height="420px" width="420px"}
 
 
-** This page is still under development, so don't be surprised if many areas are still empty.** The current progress is
+**This page is still under development, so don't be surprised if many areas are still empty.** 
+The current progress is
 Done
 :   - [x] Teaching -> [Main Page][teaching]
     - [x] Teaching -> [Nonlinear Optimization (SS 22)][nlo]
