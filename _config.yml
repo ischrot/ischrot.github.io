@@ -87,7 +87,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
 
 # Logo shown in tab in browser:
-favicon: /assets/img/myself.jpg
+favicon: /assets/img/newton_path.jpg
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/heidelberg_schloss.jpg
