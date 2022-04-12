@@ -26,13 +26,13 @@ Organizers
   {:.note title="Contact"}
 
 Kick-Off Meeting Date
-: Monday, April 25, 14:00, in SR1 (INF 205)
+: Monday, April 25, 14:00, in SR 9 (INF 205)
 
 Date
 : Mondays, 14:00 - 16:00
 
 Room
-: Seminarroom 1 (SR 1) in INF 205 
+: Seminarroom 9 (SR 9) in INF 205 
   
   We meet in person.
   {:.note}
