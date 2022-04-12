@@ -85,7 +85,10 @@ remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
+
+# Logo shown in tab in browser:
+favicon: /assets/img/construction.jpg
+
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/heidelberg_schloss.jpg
 accent_color:          rgb(79,177,186)
