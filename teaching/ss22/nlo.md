@@ -18,7 +18,7 @@ Organizers
 : - [Prof. Dr. Ekaterina A. Kostina][ekaterina]
   - [Ihno Schrot][ihno]
   
-  Please contact [Ihno Schrot][ihno] if you have questions regarding this seminar.
+  Please contact [Ihno Schrot][ihno] if you have questions regarding this course.
   {:.note title="Contact"}
   
 Tutor:
@@ -79,22 +79,53 @@ Handwritten lecture notes are available from the course in the winter term 2020/
 
 ## Exercise Format
 
-- **One** exercise sheet every **two** weeks
-- Theoretical and programming exercises
-- Programming Language: Python
-- 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet
-- Release: *TBA*
-- Submission: *TBA*
-- Work in teams allowed **and encouraged** with up to 3 persons per team
-- Feedback in the [tutorials][tuts]
-- The tutor can ask/allow you to revise your programming exercise once per sheet
-<!-- - Sample solutions? -->
+General format
+: - **One** exercise sheet every **two** weeks
+  - Theoretical and programming exercises
+  - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet
+  - Release: *TBA*
+  - Submission: *TBA*
+  - Work in teams allowed **and encouraged** with up to 3 persons per team
+  - Feedback in the [tutorials][tuts]
+  - The tutor can ask/allow you to revise your programming exercise once per sheet
+  - Solutions can be written in English and German
+  <!-- - Sample solutions? -->
+  
+Programming exercises format
+: - Programming language: Python
+  - You get templates that you have to complete.
+  - The templates are a single Jupyter notebook for each sheet (sometimes accompanied by a Python file with auxiliary functions)
+  - The solutions have to be a single Jupyter notebook, too.
+  - The notebooks have an obligatory naming scheme. Please name your files <sheet numer (2 digits!)>_<Last name1>(__<Last name2>_<Last name3>).ipynb, i.e. for example 01_Femmer_Kostina_Schrot.ipynb. (Do not use the angle brackets and adjust the number of names according to your team size).
 
 ## Tutorial Format
 
+TODO
+
 ## Final Exam
 
+Admission Requirements
+: - at least 50% of the points in the theoretical exercises **and** 3 out of 5 programming exercises solved
+  
+  If you have an old admission, contact [me][ihno] as soon as possible.
+  {:.note}
+  
+Exam Format
+: - Written exam of 120min
+  - No programming project
+  - Theoretical and programming related questions (no coding on paper however)
+  - Date: *TBA*
+
 ## Literature and Other Materials
+
+Literature
+: - Nocedal, Wright: Numerical Optimization, Springer, 2006.
+  - Fletcher: Practical Methods of Optimization, Wiley, 2nd edition 1987.
+  - Ulbrich, Ulbrich: Nichtlineare Optimierung, Birkhäuser Verlag, 2012. (German)
+
+Other Materials
+: - [MaMpf][mampf] -> Here you find all materials from the last time that we have taught this course
+  - [Skript][skript] -> Lecture Notes from the winter term 2011 (German)
 
 [tuts]: #tutorial-format
 [material]: #literature-and-other-materials
@@ -103,3 +134,5 @@ Handwritten lecture notes are available from the course in the winter term 2020/
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
 [laura]: mailto:laura(dot)femmer(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1508
+[mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/48
+[skript]: https://mampf.mathi.uni-heidelberg.de/mediaforward/medium/16121/manuscript/2a4d254a6932ae7ef82d9bcc196d27d2.pdf
