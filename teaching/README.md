@@ -6,8 +6,10 @@ description: >
 hide_description: false
 sitemap: true
 permalink: /teaching/
-last_modified_at: 2022-04-12
 ---
+
+2022-04-12
+{:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
 {:toc}
