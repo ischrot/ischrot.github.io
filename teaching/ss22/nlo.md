@@ -82,7 +82,21 @@ The lectures take place in person and in a "classical" format, i.e. Prof. Kostin
 
 Handwritten lecture notes are available from the course in the winter term 2020/2021, see [other materials][material].
 
-## Exercise Format
+## Exercises
+
+Sheets
+: | Name | Release Date | Deadline | Sheet | Notebook template | Comments |
+  |------|--------------|----------|-------|-------------------|----------|
+  | Tutorial sheet | April 13 | None | [Tutorial sheet][sheettut] | | | Tutorial notebooks: [python_for_nlo][nbtut1], [python_tut_cebulla][nbtut2] |
+  | Sheet 1 | April 29th | May 13th, 08:00am | N/A | N/A | |
+  | Sheet 2 | May 13th | May 27th, 08:00am | N/A | N/A | |
+  | Sheet 3 | May 27th | June 10th, 08:00am | N/A | N/A | |
+  | Sheet 4 | June 10th | June 24th, 08:00am | N/A | N/A | |
+  | Sheet 5 | June 24th | July 8th, 08:00am | N/A | N/A | |
+  
+  The dates are still preliminary.
+  {:.note}
+  
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -187,6 +201,10 @@ Other Materials
 [ws]: #collaborative-working-session
 [sol]: #presentation-of-solutions
 [material]: #literature-and-other-materials
+
+[sheettut]: https://heibox.uni-heidelberg.de/f/ba748593af694234aa37/?dl=1
+[nbtut1]: https://heibox.uni-heidelberg.de/f/ae5a7ea2865d45b98620/?dl=1
+[nbtut2]: https://heibox.uni-heidelberg.de/f/bd67a5fbfa3a4021843b/?dl=1
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
