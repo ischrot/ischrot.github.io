@@ -15,3 +15,9 @@ In the summer term 2022 our workgroup offers the following courses at Heidelberg
   - [Nonlinear Optimization][nlo]
   - [Seminar on Special Topics in Continuous Optimization and Optimal Control][sem]
   - [Proseminar on Matrix Analysis][prosem]
+
+
+
+[nlo]: nlo.md
+[sem]: seminar.md
+[prosem]: proseminar.md
