@@ -12,7 +12,7 @@ ischrot:
 
   # This photo will be used in the about section
   picture:
-    path:            ../assets/img/myself.jpg
+    path:            ../assets/img/myself_small.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
 #    srcset:
 #      1x:            https://via.placeholder.com/128x128
