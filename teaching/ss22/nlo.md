@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-12
+2022-04-13
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -114,7 +114,47 @@ Submission procedure
 
 ## Tutorial Format
 
-*TBA*
+We will alternate between two different formats: A [*collaborative working session*][ws] and the [*presentation of solutions*][sol].
+
+We want to make sure that the tutorials are as effective as possible for you, so we can possibly still adjust the formats to your needs. Therefore, feedback is always welcome.
+{:.note}
+
+### Collaborative working sessions
+
+What?
+: In these sessions we invite you to come to the seminarroom to work together with your own and other groups on the exercises. Moreover, Laura and myself will be there to help if you have problems or questions. In particular, we can discuss programming related issues here.
+
+  The spirit of these sessions is less the one of a "classical" tutorial, but more the one of an interactive group meeting. Especially, Laura and I will not prepare anything unless you have asked us for something specific.
+{:.note}
+
+When?
+: In the second week after you submitted your solutions/the new exercise sheet has been published. Moreover, we have an additional meeting at the beginning and one at the end of the semester. I.e., the dates are:
+
+  | Mondays | Thursdays | Topic |
+  |---------|-----------|-------|
+  | 02.05. | 05.05. | Setting up the Conda environments and the Python tutorials; possibly we will say a few words about debugging and Git |
+  | 09.05. | 12.05. | 1st exercise sheet |
+  | 23.05. | 26.05. | 2nd exercise sheet |
+  | 06.06. | 09.06. | 3rd exercise sheet |
+  | 20.06. | 23.06. | 4th exercise sheet |
+  | 04.07. | 07.07. | 5th exercise sheet |
+  | *TBA* | *TBA* | Exam preparation |
+
+### Presentation of solutions
+
+What?
+: In these tutorials Laura will present (some of the) solutions of the previous exercise sheet.
+
+When?
+: In the first week after you submitted your solutions/the new exercise sheet has been published. I.e., the dates are:
+  
+  | Mondays | Thursdays | Topic |
+  |---------|-----------|-------|
+  | 16.05. | 19.05. | 1st exercise sheet |
+  | 30.05. | 02.06. | 2nd exercise sheet |
+  | 13.06. | 16.06. | 3rd exercise sheet |
+  | 27.06. | 30.06. | 4th exercise sheet |
+  | 11.07. | 14.07. | 5th exercise sheet |
 
 ## Final Exam
 
@@ -142,6 +182,8 @@ Other Materials
   - [Skript][skript] -> Lecture Notes from the winter term 2011 (German)
 
 [tuts]: #tutorial-format
+[ws]: #collaborative-working-session
+[sol]: #presentation-of-solutions
 [material]: #literature-and-other-materials
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
