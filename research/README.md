@@ -19,7 +19,7 @@ permalink: /research/
 Currently I am working together with
   - [Prof. Dr. Ekaterina A. Kostina][ekaterina] (Heidelberg University)
   - [Prof. Dr. Andreas Potschka][andreas] (Technical University Clausthal)
-  - [Prof. Dr. Karl Wortmann][karl] (Technical University Ilmenau)
+  - [Prof. Dr. Karl Worthmann][karl] (Technical University Ilmenau)
   - [Dr. Manuel Schaller][manuel] (Technical University Ilmenau)
 
 At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][cordula] on cellular automata in the modeling of infections. 
