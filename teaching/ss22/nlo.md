@@ -4,7 +4,8 @@ title: Nonlinear Optimization (SS 22)
 description: >
   Here you find information about the course on Nonlinear Optimization in the summer term 2022.
 hide_description: false
-image: /../../assets/img/rosenbrock.png
+image: 
+  path: /../../assets/img/rosenbrock.png
 sitemap: true
 ---
 
