@@ -86,7 +86,7 @@ Handwritten lecture notes are available from the course in the winter term 2020/
 
 Sheets
 : | Name | Release Date | Deadline | Sheet | Notebook template | Comments |
-  |------|--------------|----------|-------|-------------------|----------|
+  |------|--------------|----------|-------|-------------------|:---------|
   | Tutorial sheet | April 13 | None | [Tutorial sheet][sheettut] | | | Tutorial notebooks: [python_for_nlo][nbtut1], [python_tut_cebulla][nbtut2] |
   | Sheet 1 | April 29th | May 13th, 08:00am | N/A | N/A | |
   | Sheet 2 | May 13th | May 27th, 08:00am | N/A | N/A | |
