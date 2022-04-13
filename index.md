@@ -7,7 +7,7 @@ hide_description: false
 sitemap: false
 ---
 
-**You already find most information regarding my [teaching][teaching] [here][teaching].**
+**You already find most information regarding my [teaching here][teaching].**
 
 ![Full-width image](/assets/img/construction.jpg){:height="420px" width="420px"}
 
