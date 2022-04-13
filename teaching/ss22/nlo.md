@@ -86,8 +86,10 @@ Handwritten lecture notes are available from the course in the winter term 2020/
 
 Sheets
 : | Name | Release Date | Deadline | Sheet | Notebook template | Comments |
-  |------|--------------|----------|-------|-------------------|:---------|
-  | Tutorial sheet | April 13 | None | [Tutorial sheet][sheettut] | | | test |
+  |------|--------------|----------|-------|-------------------|----------|
+  | Tutorial sheet | April 13 | None | [Tutorial sheet][sheettut] | | | Tutorial notebooks\: |
+  | Tutorial sheet | April 13 | None | [Tutorial sheet][sheettut] | | | Tutorial notebooks\: |
+  |------+--------------+----------+-------+-------------------+----------|
   | Sheet 1 | April 29th | May 13th, 08:00am | N/A | N/A | |
   | Sheet 2 | May 13th | May 27th, 08:00am | N/A | N/A | |
   | Sheet 3 | May 27th | June 10th, 08:00am | N/A | N/A | |
@@ -96,6 +98,8 @@ Sheets
   
   The dates are still preliminary.
   {:.note}
+  
+  
   
 
 General format
