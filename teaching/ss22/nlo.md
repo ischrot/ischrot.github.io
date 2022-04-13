@@ -25,7 +25,7 @@ Organizers
   {:.note title="Contact"}
   
 Tutor:
-: - [Laura Femmer][laura]
+: [Laura Femmer][laura]
 
 First Lecture
 : Thursday, April 21, 11:00, in the lecture hall (HS) in INF 205
@@ -125,7 +125,7 @@ What?
 : In these sessions we invite you to come to the seminarroom to work together with your own and other groups on the exercises. Moreover, Laura and myself will be there to help if you have problems or questions. In particular, we can discuss programming related issues here.
 
   The spirit of these sessions is less the one of a "classical" tutorial, but more the one of an interactive group meeting. Especially, Laura and I will not prepare anything unless you have asked us for something specific.
-{:.note}
+  {:.note}
 
 When?
 : In the second week after you submitted your solutions/the new exercise sheet has been published. Moreover, we have an additional meeting at the beginning and one at the end of the semester. I.e., the dates are:
