@@ -67,8 +67,6 @@ The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205).
 
 ## Topics
 
-The following topics are preliminary only. The final topics will be discussed in the [kick-off meeting][kom].
-{:.note title="Important"}
 1. CG-Methods
 2. Active set methods for NLPs with vanishing constraints
 3. Penalty and augmented Lagrangian methods
