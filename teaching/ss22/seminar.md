@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-12
+2022-04-20
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -26,7 +26,7 @@ Organizers
   {:.note title="Contact"}
 
 Kick-Off Meeting Date
-: Tuesday, April 26, 11:00, in SR1 (INF 205)
+: Tuesday, April 26, 11:15, in SR1 (INF 205)
 
 Date
 : Tuesdays, 11:00 - 13:00
