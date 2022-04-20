@@ -140,5 +140,5 @@ Basis for all talks
 [marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1506
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
-[book]: https://heibox.uni-heidelberg.de/f/dcf0f05e2b174c3da736/
+[book]: https://heibox.uni-heidelberg.de/f/4b9685d1a1b84c3e879f/
 
