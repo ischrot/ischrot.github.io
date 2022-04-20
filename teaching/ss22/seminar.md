@@ -83,7 +83,7 @@ The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205).
 ## Expectations
 In order to complete the seminar successfully you have to
   - attend the weekly meetings,
-  - prepare and do a presentation of 90min (+10min discussion) in pairs *or* 45min (+5min discussion) alone.
+  - prepare and do a presentation of 90min (+10min discussion) in pairs <!--*or* 45min (+5min discussion) alone.-->
 
 You do not need to write an essay.
 {:.note}
