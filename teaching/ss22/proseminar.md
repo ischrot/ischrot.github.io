@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-12
+2022-04-20
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -57,22 +57,31 @@ Requirements
   {:.note}
   
 Registration
-: To participate in the proseminar, please register for the proseminar on [MÜSLI][muesli].
+: To participate in the proseminar, please register for the proseminar on [MÜSLI][muesli]. The number of participants is limited to 14.
 
 ## Kick-Off Meeting
 The kick-off meeting takes place on Monday, April 25, 14:00, in SR 1 (INF 205). Here, we 
   - discuss organizational matters,
-  - briefly present the topics,
   - form pairs if necessary,
   - **distribute** the topics,
   - discuss the schedule.
 
 ## Topics
 
-The topics are not yet decided. But, the current plan is to use the book mentioned in the [literature][literature] as a basis.
+The topics will be the chapters of the book [*Horn, Roger A., and Charles R. Johnson. Matrix analysis. Cambridge university press, 2012.*][book] Each speaker pair will choose one chapter and present parts of this chapter. 
 
-This plan might change still though.
+The book is not yet linked, we will update the link soon. The password is shared in the information email for the kick-off meeting and in the kick-off meeting.
 {:.note}
+
+The relevant chapters are:
+- Unitary Similarity and Unitary Equivalence
+- Canonical Forms for Similarity and Triangular Factorizations
+- Hermitian Matrices, Symmetric Matrices, and Congruences
+- Norms for Vectors and Matrices
+- Location and Perturbation of Eigenvalues
+- Positive Definite and Semidefinite Matrices
+- Positive and Nonnegative Matrices
+
 
 ## Goal of the Seminar
 > **Teach** your fellow students your topic in an understandable yet professional way!
@@ -94,7 +103,19 @@ Further we expect
 
 ## Schedule
 
-**Will be discussed in the [kick-off meeting][kom]**
+| Date | Topic | Speakers |
+|------|-------|----------|
+| April 25th | Kick-Off Meeting | None | 
+| May 23rd | Unitary Similarity and Unitary Equivalence | |
+| May 30th | Canonical Forms for Similarity and Triangular Factorizations | |
+| June 13th | Hermitian Matrices, Symmetric Matrices, and Congruences | |
+| June 20th | Norms for Vectors and Matrices | |
+| June 27th | Location and Perturbation of Eigenvalues | |
+| July 4th | Positive Definite and Semidefinite Matrices | |
+| July 11th | Positive and Nonnegative Matrices | |
+
+The speakers will be decided in the [kick-off meeting][kom].
+{:.note}
 
 ## Grading
 
@@ -105,8 +126,11 @@ We primarly rate your talks based on [this rubric][rubric].
 We expect you to identify and use further literature if necessary on your own! The following literature suggestions are to be understood as starting points.
 {:.note title="Important"}
 
-General recommendation
-:   - Horn, Roger A., and Charles R. Johnson. Matrix analysis. Cambridge university press, 2012.
+Basis for all talks
+:   - [Horn, Roger A., and Charles R. Johnson. Matrix analysis. Cambridge university press, 2012.][book]
+
+  The book is not yet linked, we will update the link soon. The password is shared in the information email for the kick-off meeting and in the kick-off meeting.
+  {:.note}
 
 [kom]: #kick-off-meeting
 [sem]: ss22/seminar.md
@@ -115,4 +139,5 @@ General recommendation
 [marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1506
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
+[book]: /../../404.md
 
