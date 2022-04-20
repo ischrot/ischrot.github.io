@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminar Special Topics in Continuous Optimization and Control (SS 22)
+title: Seminar Special Topics in Continuous Optimization and Optimal Control (SS 22)
 description: >
   Here you find information about the seminar on Special Topics in Continuous Optimization and Control in the summer term 2022.
 hide_description: false
@@ -99,7 +99,20 @@ Further we expect
 
 ## Schedule
 
-**Will be discussed in the [kick-off meeting][kom]**
+| Date | Topic | Speaker(s) |
+|------|-------|------------|
+| May 24th| CG-Methods | |
+| May 31st | Active set methods for NLPs with vanishing constraints | |
+| June 7th | Penalty and Augmented Lagrangian methods | |
+| June 14th | SQP with indefinite Hessian approximations | |
+| June 21th | BFGS-SQP Method for nonsmooth, nonconvex, constrained optimization | |
+| June 28th | Interior-point filter line-search algorithm for NLP | |
+| July 5th | A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control | |
+| July 12th | Global optimization methods | |
+| July 19th | Robust nonconvex optimization | |
+
+The speakers will be decided in the [kick-off meeting][kom].
+{:.note}
 
 ## Grading
 
@@ -115,6 +128,9 @@ General recommendations
     - Ulbrich, Michael, and Stefan Ulbrich. Nichtlineare Optimierung. Springer-Verlag, 2012.
     
 Recommendations by topics
+You find all the following literature online when you are connected to the University network. If you are not in the University, you can connect to the network using the VPN. You find information on the VPN [here][vpn].
+{:.note}
+
 : CG-Methods
   :   - J. Nocedal, S.J. Wright. Numerical Optimization, Springer, 2006. Ch. 5, pp. 101–133.
       - Published papers about new research results on the field of nonlinear CG-methods
@@ -154,4 +170,5 @@ Computers Chem. Engng Vol.2 No. 9, pp. 1137-1158. (1998).
 [marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1507
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
+[vpn]: https://www.urz.uni-heidelberg.de/en/service-catalogue/network/vpn-virtual-private-network
 
