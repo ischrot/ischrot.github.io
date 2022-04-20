@@ -49,6 +49,7 @@ Requirements
 : You should have attended at least the following courses:
     - Analysis 1
     - Linear Algebra 1
+    
   The following courses are recommended but less important:
     - Analysis 2
     - Introduction to Numerics
