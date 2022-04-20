@@ -60,7 +60,7 @@ Registration
 : To participate in the proseminar, please register for the proseminar on [MÜSLI][muesli]. The number of participants is limited to 14.
 
 ## Kick-Off Meeting
-The kick-off meeting takes place on Monday, April 25, 14:00, in SR 1 (INF 205). Here, we 
+The kick-off meeting takes place on Monday, April 25, 14:00, in SR 9 (INF 205). Here, we 
   - discuss organizational matters,
   - form pairs if necessary,
   - **distribute** the topics,
