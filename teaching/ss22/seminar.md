@@ -126,10 +126,10 @@ General recommendations
     - Ulbrich, Michael, and Stefan Ulbrich. Nichtlineare Optimierung. Springer-Verlag, 2012.
     
 Recommendations by topics
-You find all the following literature online when you are connected to the University network. If you are not in the University, you can connect to the network using the VPN. You find information on the VPN [here][vpn].
-{:.note}
+: You find all the following literature online when you are connected to the University network. If you are not in the University, you can connect to the network using the VPN. You find information on the VPN [here][vpn].
+  {:.note}
 
-: CG-Methods
+  CG-Methods
   :   - J. Nocedal, S.J. Wright. Numerical Optimization, Springer, 2006. Ch. 5, pp. 101–133.
       - Published papers about new research results on the field of nonlinear CG-methods
       
