@@ -77,12 +77,6 @@ Registration
   At the moment only 45 persons can hand in exercises as we were not allowed a second tutor so far. But we have already asked for an additional tutor. Moreover, usually many people still leave the course in the first weeks. Therefore, it is possible that some spots become available again. Hence, we invite you all to join for the first lecture. Of course, everybody who likes to can attend the lecture anyways (but not hand in exercises).
   {:.note title="Regarding the limited number of spots"}
 
-## Lecture Format
-
-The lectures take place in person and in a "classical" format, i.e. Prof. Kostina will present the lecture content in the lectures.
-
-Handwritten lecture notes will be uploaded on [MaMpf][mampfempty] once the course has been created there. Until then, we will link all material in the section [lecture notes][material]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
-
 ## Exercises
 
 Sheets
@@ -135,6 +129,12 @@ Submission procedure
   The current course is not yet available on [MaMpf][mampfempty]. We will update the links, once the course has been created.
   {:.note}
 
+
+## Lecture Format
+
+The lectures take place in person and in a "classical" format, i.e. Prof. Kostina will present the lecture content in the lectures.
+
+Handwritten lecture notes will be uploaded on [MaMpf][mampfempty] once the course has been created there. Until then, we will link all material in the section [lecture notes][material]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
 
 ## Tutorial Format
 
