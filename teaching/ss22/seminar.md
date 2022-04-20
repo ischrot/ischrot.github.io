@@ -101,6 +101,7 @@ Further we expect
 
 | Date | Topic | Speaker(s) |
 |------|-------|------------|
+| April 26th | Kick-off meetig | None|
 | May 24th| CG-Methods | |
 | May 31st | Active set methods for NLPs with vanishing constraints | |
 | June 7th | Penalty and Augmented Lagrangian methods | |
