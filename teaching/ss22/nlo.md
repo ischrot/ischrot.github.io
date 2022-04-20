@@ -192,7 +192,7 @@ Exam Format
 : - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
-  - Date: *TBA*
+  - *Preliminary* Date: August 1st
 
 ## Lecture Notes, Literature and Other Materials
 
