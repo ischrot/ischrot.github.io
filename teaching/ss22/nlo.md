@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-13
+2022-04-20
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -30,7 +30,7 @@ Tutor:
 : [Laura Femmer][laura]
 
 First Lecture
-: Thursday, April 21, 11:00, in the lecture hall (HS) in INF 205
+: Thursday, April 21, 11:15, in the lecture hall (HS) in INF 205
 
 Lecture Dates
 : - Mondays, 11:00 - 13:00
@@ -47,7 +47,8 @@ Tutorial Groups:
   - Thursdays, 09:15 - 10:45, SR 1
   - Thursdays, 16:15 - 17:45, SR 4
 
-  We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too.
+<!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
+  Depending on whether we get an additional tutor, we will offer tutorials at all three dates or only at two of them. We will inform you again once you can choose your tutorial group on [MÜSLI][muesli].
   {:.note}
   
 Level:
@@ -71,16 +72,16 @@ Requirements
   {:.note}
   
 Registration
-: To participate in the seminar, please register for the course on [MÜSLI][muesli].
+: To participate in the course, please register for the course on [MÜSLI][muesli].
   
-  At the moment only 45 persons can hand in exercises as we were not allowed a second tutor so far. But once enough people have signed up on the waiting list, we will ask for another tutor. Moreover, usually many people still leave the course in the first weeks. Therefore, it is possible that some spots become available again. Hence, we invite you all to join for the first lecture. Of course, everybody who likes to can attend the lecture anyways (but not hand in exercises).
+  At the moment only 45 persons can hand in exercises as we were not allowed a second tutor so far. But we have already asked for an additional tutor. Moreover, usually many people still leave the course in the first weeks. Therefore, it is possible that some spots become available again. Hence, we invite you all to join for the first lecture. Of course, everybody who likes to can attend the lecture anyways (but not hand in exercises).
   {:.note title="Regarding the limited number of spots"}
 
 ## Lecture Format
 
 The lectures take place in person and in a "classical" format, i.e. Prof. Kostina will present the lecture content in the lectures.
 
-Handwritten lecture notes are available from the course in the winter term 2020/2021, see [other materials][material].
+Handwritten lecture notes will be uploaded on [MaMpf][mampfempty] once the course has been created there. Until then, we will link all material in the section [other materials][material]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
 
 ## Exercises
 
@@ -104,8 +105,8 @@ General format
 : - **One** exercise sheet every **two** weeks
   - The first exercise sheet will be published April 29.
   - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet
-  - Release: Fridays (biweekly) at *TBA* on *TBA*
-  - Submission deadline: Fridays (biweekly) until 08:00am 
+  - Release: Fridays (biweekly) on [MaMpf][mampfempty] and in the table above.
+  - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampfempty].
   - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
   - Feedback in the [tutorials][tuts]
@@ -128,7 +129,30 @@ Submission procedure
   - The PDF and the Jupyter notebook have then to be added to a **ZIP-archive**.
   - The notebooks, PDFs, and archives have an obligatory naming scheme. Please name your files \<sheet numer (2 digits!)\>\_\<Last name1\>(\_\<Last name2\>\_\<Last name3\>).ipynb/pdf/zip, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
   - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
-  - Upload your solutions until Friday (biweekly), 08:00am (where is still *TBA*)
+  - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampfempty], see below for the instructions.
+
+How to submit solutions on [MaMpf][mampfempty]
+: - The submission procedure in MaMpf is team based! Please submit only on file per team! How you create or join teams and submission is described in the following!
+  - A comprehensive German instruction can be found here.
+  - In case you do not understand German, here a condensed instruction. Please refer to the German instruction for screenshots of the different steps
+    - First, we describe how you can join the submission of your team if one of your team partners has already created a submission.
+      1. Go to the course page in MaMpf
+      2. Click on "Assignments" in the panel on the left side. You now see the current and former submissions.
+      3. Now click on "join" at the current submission.
+      4. You will be asked to enter a code. The person of your team who first created the current submission has to tell you this code. Further information on the code are described in the next case.
+      5. By entering the code you join your teams submission. Now you see and can edit your current submission.
+
+    - Now, we describe how to create a submission, where you find the code for your team partners and how to invite team partners by mail:
+      1. Go to the course page in MaMpf
+      2. Click on "Assignments" in the panel on the left side. You now see the current and former submissions.
+      3. Now click "create" at the current submission.
+      4. Please choose the correct tutorial! The tutorial number is the number of the group you joined in MÜSLI!
+      5. If this is the first submission with that team, you cannot invite team partners by mail. Instead you have to send them a code manually. To do so, do one of the following
+        1. Upload and save your submission.
+        2. Now you see information about your submission. In the second row you see a code. Send this code to your team partners!
+      6. If you already submitted another assignment with your team partners, you can invite them by mail. To do so, proceed as follows
+        1. Before uploading your submission search for your partners name/mail in the field "Invitation to" and choose your partners there. They now receive an invitation mail
+        2. Having uploaded and saved your submission you find a field "invite" in the information about your submission. Invite your team partners there by name/mail. They now receive an invitation mail
 
 ## Tutorial Format
 
@@ -213,4 +237,5 @@ Other Materials
 [laura]: mailto:laura(dot)femmer(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1508
 [mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/48
+[mampfempty]: https://mampf.mathi.uni-heidelberg.de/
 [skript]: https://mampf.mathi.uni-heidelberg.de/mediaforward/medium/16121/manuscript/2a4d254a6932ae7ef82d9bcc196d27d2.pdf
