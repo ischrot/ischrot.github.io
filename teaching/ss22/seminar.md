@@ -55,7 +55,7 @@ Requirements
   {:.note}
   
 Registration
-: To participate in the seminar, please register for the seminar on [MÜSLI][muesli].
+: To participate in the seminar, please register for the seminar on [MÜSLI][muesli]. The number of participants is limited to 18.
 
 ## Kick-Off Meeting
 The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205). Here, we 
