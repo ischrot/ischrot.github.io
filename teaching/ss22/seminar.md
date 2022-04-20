@@ -126,7 +126,8 @@ General recommendations
     - Ulbrich, Michael, and Stefan Ulbrich. Nichtlineare Optimierung. Springer-Verlag, 2012.
     
 Recommendations by topics
-: You find all the following literature online when you are connected to the University network. If you are not in the University, you can connect to the network using the VPN. You find information on the VPN [here][vpn].
+: 
+  You find all the following literature online when you are connected to the University network. If you are not in the University, you can connect to the network using the VPN. You find information on the VPN [here][vpn].
   {:.note}
 
   CG-Methods
