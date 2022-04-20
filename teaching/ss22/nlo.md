@@ -26,7 +26,7 @@ Organizers
   Please contact [Ihno Schrot][ihno] if you have questions regarding this course.
   {:.note title="Contact"}
   
-Tutor:
+Tutor
 : [Laura Femmer][laura]
 
 First Lecture
@@ -42,16 +42,16 @@ Lecture Room
   We meet in person.
   {:.note}
 
-Tutorial Groups:
+Tutorial Groups
 : - Mondays, 16:15 - 17:45, SR 1
   - Thursdays, 09:15 - 10:45, SR 1
   - Thursdays, 16:15 - 17:45, SR 4
-
-<!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
+  
   Depending on whether we get an additional tutor, we will offer tutorials at all three dates or only at two of them. We will inform you again once you can choose your tutorial group on [MÜSLI][muesli].
   {:.note}
+  <!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
   
-Level:
+Level 
 : Bachelor and Master
 
 Language
