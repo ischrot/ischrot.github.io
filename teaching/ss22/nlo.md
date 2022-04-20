@@ -81,7 +81,7 @@ Registration
 
 The lectures take place in person and in a "classical" format, i.e. Prof. Kostina will present the lecture content in the lectures.
 
-Handwritten lecture notes will be uploaded on [MaMpf][mampfempty] once the course has been created there. Until then, we will link all material in the section [other materials][material]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
+Handwritten lecture notes will be uploaded on [MaMpf][mampfempty] once the course has been created there. Until then, we will link all material in the section [lecture notes][material]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
 
 ## Exercises
 
@@ -131,6 +131,9 @@ Submission procedure
   - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
   - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampfempty].
   - A guide how to submit solutions on [MaMpf][mampfempty] can be founde [here][subguide].
+  
+  The current course is not yet available on [MaMpf][mampfempty]. We will update the links, once the course has been created.
+  {:.note}
 
 
 ## Tutorial Format
@@ -191,7 +194,10 @@ Exam Format
   - Theoretical and programming related questions (no coding on paper however)
   - Date: *TBA*
 
-## Literature and Other Materials
+## Lecture Notes, Literature and Other Materials
+
+Lecture Notes
+: The lecture notes will be uploaded on [MaMpf][mampfempty]. Until the course has been created on [MaMpf][mampfempty], you find the lecture notes here. So far no lecture has taken place.
 
 Literature
 : - Nocedal, Wright: Numerical Optimization, Springer, 2006.
@@ -205,7 +211,7 @@ Other Materials
 [tuts]: #tutorial-format
 [ws]: #collaborative-working-session
 [sol]: #presentation-of-solutions
-[material]: #literature-and-other-materials
+[material]: #lecture-notes,-literature-and-other-materials
 
 [sheettut]: https://heibox.uni-heidelberg.de/f/ba748593af694234aa37/?dl=1
 [nbtut1]: https://heibox.uni-heidelberg.de/f/ae5a7ea2865d45b98620/?dl=1
