@@ -129,30 +129,9 @@ Submission procedure
   - The PDF and the Jupyter notebook have then to be added to a **ZIP-archive**.
   - The notebooks, PDFs, and archives have an obligatory naming scheme. Please name your files \<sheet numer (2 digits!)\>\_\<Last name1\>(\_\<Last name2\>\_\<Last name3\>).ipynb/pdf/zip, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
   - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
-  - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampfempty], see below for the instructions.
+  - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampfempty].
+  - A guide how to submit solutions on [MaMpf][mampfempty] can be founde [here][subguide].
 
-How to submit solutions on [MaMpf][mampfempty]
-: - The submission procedure in MaMpf is team based! Please submit only on file per team! How you create or join teams and submission is described in the following!
-  - A comprehensive German instruction can be found here.
-  - In case you do not understand German, here a condensed instruction. Please refer to the German instruction for screenshots of the different steps
-    - First, we describe how you can join the submission of your team if one of your team partners has already created a submission.
-      1. Go to the course page in MaMpf
-      2. Click on "Assignments" in the panel on the left side. You now see the current and former submissions.
-      3. Now click on "join" at the current submission.
-      4. You will be asked to enter a code. The person of your team who first created the current submission has to tell you this code. Further information on the code are described in the next case.
-      5. By entering the code you join your teams submission. Now you see and can edit your current submission.
-
-    - Now, we describe how to create a submission, where you find the code for your team partners and how to invite team partners by mail:
-      1. Go to the course page in MaMpf
-      2. Click on "Assignments" in the panel on the left side. You now see the current and former submissions.
-      3. Now click "create" at the current submission.
-      4. Please choose the correct tutorial! The tutorial number is the number of the group you joined in MÜSLI!
-      5. If this is the first submission with that team, you cannot invite team partners by mail. Instead you have to send them a code manually. To do so, do one of the following
-        1. Upload and save your submission.
-        2. Now you see information about your submission. In the second row you see a code. Send this code to your team partners!
-      6. If you already submitted another assignment with your team partners, you can invite them by mail. To do so, proceed as follows
-        1. Before uploading your submission search for your partners name/mail in the field "Invitation to" and choose your partners there. They now receive an invitation mail
-        2. Having uploaded and saved your submission you find a field "invite" in the information about your submission. Invite your team partners there by name/mail. They now receive an invitation mail
 
 ## Tutorial Format
 
@@ -239,3 +218,4 @@ Other Materials
 [mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/48
 [mampfempty]: https://mampf.mathi.uni-heidelberg.de/
 [skript]: https://mampf.mathi.uni-heidelberg.de/mediaforward/medium/16121/manuscript/2a4d254a6932ae7ef82d9bcc196d27d2.pdf
+[subguide]: https://mampf.blog/handing-in-homework-assignments/
