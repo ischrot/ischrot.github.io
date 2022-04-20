@@ -60,7 +60,6 @@ Registration
 ## Kick-Off Meeting
 The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205). Here, we 
   - discuss organizational matters,
-  - briefly present the topics,
   - form pairs if necessary,
   - **distribute** the topics,
   - discuss the schedule.
