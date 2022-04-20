@@ -58,7 +58,7 @@ Registration
 : To participate in the seminar, please register for the seminar on [MÜSLI][muesli]. The number of participants is limited to 18.
 
 ## Kick-Off Meeting
-The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205). Here, we 
+The kick-off meeting takes place on Tuesday, April 26, 11:15, in SR 1 (INF 205). Here, we 
   - discuss organizational matters,
   - form pairs if necessary,
   - **distribute** the topics,
@@ -68,7 +68,7 @@ The kick-off meeting takes place on Tuesday, April 26, 11:00, in SR 1 (INF 205).
 
 1. CG-Methods
 2. Active set methods for NLPs with vanishing constraints
-3. Penalty and augmented Lagrangian methods
+3. Penalty and Augmented Lagrangian methods
 4. SQP with indefinite Hessian approximations
 5. BFGS-SQP Method for nonsmooth, nonconvex, constrained optimization
 6. Interior-point filter line-search algorithm for NLP
