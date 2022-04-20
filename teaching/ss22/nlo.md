@@ -99,8 +99,8 @@ General format
 : - **One** exercise sheet every **two** weeks
   - The first exercise sheet will be published April 29.
   - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet
-  - Release: Fridays (biweekly) on [MaMpf][mampfempty] and in the table above.
-  - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampfempty].
+  - Release: Fridays (biweekly) on [MaMpf][mampf] and in the table above.
+  - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampf]
   - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
   - Feedback in the [tutorials][tuts]
@@ -123,18 +123,16 @@ Submission procedure
   - The PDF and the Jupyter notebook have then to be added to a **ZIP-archive**.
   - The notebooks, PDFs, and archives have an obligatory naming scheme. Please name your files \<sheet numer (2 digits!)\>\_\<Last name1\>(\_\<Last name2\>\_\<Last name3\>).ipynb/pdf/zip, i.e. for example **01_Femmer_Kostina_Schrot.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
   - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
-  - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampfempty].
-  - A guide how to submit solutions on [MaMpf][mampfempty] can be founde [here][subguide].
+  - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampf].
+  - A guide how to submit solutions on [MaMpf][mampf] can be found [here][subguide].
   
-  The current course is not yet available on [MaMpf][mampfempty]. We will update the links, once the course has been created.
-  {:.note}
 
 
 ## Lecture Format
 
 The lectures take place in person and in a "classical" format, i.e. Prof. Kostina will present the lecture content in the lectures.
 
-Handwritten lecture notes will be uploaded on [MaMpf][mampfempty] once the course has been created there. Until then, we will link all material in the section [lecture notes][material]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
+Handwritten lecture notes will be uploaded on [MaMpf][mampf]. Moreover, lecture notes from the course in the winter term 2020/2021 are available, see [other materials][material].
 
 ## Tutorial Format
 
@@ -197,7 +195,7 @@ Exam Format
 ## Lecture Notes, Literature and Other Materials
 
 Lecture Notes
-: The lecture notes will be uploaded on [MaMpf][mampfempty]. Until the course has been created on [MaMpf][mampfempty], you find the lecture notes here. So far no lecture has taken place.
+: The lecture notes will be uploaded on [MaMpf][mampf]. So far no lecture has taken place.
 
 Literature
 : - Nocedal, Wright: Numerical Optimization, Springer, 2006.
@@ -205,7 +203,7 @@ Literature
   - Ulbrich, Ulbrich: Nichtlineare Optimierung, Birkhäuser Verlag, 2012. (German)
 
 Other Materials
-: - [MaMpf][mampf] -> Here you find all materials from the last time that we have taught this course
+: - [MaMpf (WS 20/21)][mampfold] -> Here you find all materials from the last time that we have taught this course
   - [Skript][skript] -> Lecture Notes from the winter term 2011 (German)
 
 [tuts]: #tutorial-format
@@ -221,7 +219,7 @@ Other Materials
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
 [laura]: mailto:laura(dot)femmer(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1508
-[mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/48
-[mampfempty]: https://mampf.mathi.uni-heidelberg.de/
+[mampfold]: https://mampf.mathi.uni-heidelberg.de/lectures/48
+[mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/124
 [skript]: https://mampf.mathi.uni-heidelberg.de/mediaforward/medium/16121/manuscript/2a4d254a6932ae7ef82d9bcc196d27d2.pdf
 [subguide]: https://mampf.blog/handing-in-homework-assignments/
