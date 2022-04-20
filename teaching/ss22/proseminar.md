@@ -70,7 +70,7 @@ The kick-off meeting takes place on Monday, April 25, 14:00, in SR 1 (INF 205). 
 
 The topics will be the chapters of the book [*Horn, Roger A., and Charles R. Johnson. Matrix analysis. Cambridge university press, 2012.*][book] Each speaker pair will choose one chapter and present parts of this chapter. 
 
-The book is not yet linked, we will update the link soon. The password is shared in the information email for the kick-off meeting and in the kick-off meeting.
+The password will be shared in the information email for the kick-off meeting and in the kick-off meeting.
 {:.note}
 
 The relevant chapters are:
@@ -90,7 +90,7 @@ The relevant chapters are:
 ## Expectations
 In order to complete the seminar successfully you have to
   - attend the weekly meetings,
-  - prepare and do a presentation of 90min (+10min discussion) in pairs *or* 45min (+5min discussion) alone
+  - prepare and do a presentation of 90min (+10min discussion) in pairs <!--*or* 45min (+5min discussion) alone-->
 
 You do not need to write an essay.
 {:.note}
@@ -129,7 +129,7 @@ We expect you to identify and use further literature if necessary on your own! T
 Basis for all talks
 :   - [Horn, Roger A., and Charles R. Johnson. Matrix analysis. Cambridge university press, 2012.][book]
 
-  The book is not yet linked, we will update the link soon. The password is shared in the information email for the kick-off meeting and in the kick-off meeting.
+  The password will be shared in the information email for the kick-off meeting and in the kick-off meeting.
   {:.note}
 
 [kom]: #kick-off-meeting
@@ -139,5 +139,5 @@ Basis for all talks
 [marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1506
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
-[book]: /../../404.md
+[book]: https://heibox.uni-heidelberg.de/f/dcf0f05e2b174c3da736/
 
