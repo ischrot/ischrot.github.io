@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-20
+2022-04-21
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -50,7 +50,10 @@ Tutorial Groups
   Depending on whether we get an additional tutor, we will offer tutorials at all three dates or only at two of them. We will inform you again once you can choose your tutorial group on [MÜSLI][muesli].
   {:.note}
   <!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
-  
+
+Platform for anonymous questions and feedback
+: We understand that sometimes you would like to ask a question or provide feedback anonymously. You can do that on [Particify][ars]. Just enter the code *3535 6496* or go directly to [our room][arsroom] and then post your question or feedback in the Q\&A section. We will regularly check the Q\&A section and answer your questions there.
+
 Level 
 : Bachelor and Master
 
@@ -223,3 +226,5 @@ Other Materials
 [mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/124
 [skript]: https://mampf.mathi.uni-heidelberg.de/mediaforward/medium/16121/manuscript/2a4d254a6932ae7ef82d9bcc196d27d2.pdf
 [subguide]: https://mampf.blog/handing-in-homework-assignments/
+[ars]: https://ars.particify.de/
+[arsroom]: https://ars.particify.de/p/35356496
