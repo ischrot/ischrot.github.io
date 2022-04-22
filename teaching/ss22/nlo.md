@@ -77,7 +77,7 @@ Requirements
 Registration
 : To participate in the course, please register for the course on [MÜSLI][muesli].
   
-  At the moment only 45 persons can hand in exercises as we were not allowed a second tutor so far. But we have already asked for an additional tutor. Moreover, usually many people still leave the course in the first weeks. Therefore, it is possible that some spots become available again. Hence, we invite you all to join for the first lecture. Of course, everybody who likes to can attend the lecture anyways (but not hand in exercises).
+  We have decided to include everybody in the course. Please take a look at the grading, correction and feedback of the exercise sheets below though.
   {:.note title="Regarding the limited number of spots"}
 
 ## Exercises
