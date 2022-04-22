@@ -77,7 +77,7 @@ Requirements
 Registration
 : To participate in the course, please register for the course on [MÜSLI][muesli].
   
-  At the moment only 45 persons can hand in exercises as we were not allowed a second tutor so far. But we have already asked for an additional tutor. Moreover, usually many people still leave the course in the first weeks. Therefore, it is possible that some spots become available again. Hence, we invite you all to join for the first lecture. Of course, everybody who likes to can attend the lecture anyways (but not hand in exercises).
+  We have decided to include everybody in the course. Please take a look at the grading, correction and feedback of the exercise sheets below though.
   {:.note title="Regarding the limited number of spots"}
 
 ## Exercises
@@ -92,8 +92,8 @@ Sheets
   | Sheet 4 | June 10th | June 24th, 08:00am | N/A | N/A | |
   | Sheet 5 | June 24th | July 8th, 08:00am | N/A | N/A | |
   
-  The dates are still preliminary.
-  {:.note}
+<!--   The dates are still preliminary.
+  {:.note} -->
   
   
   
@@ -101,15 +101,15 @@ Sheets
 General format
 : - **One** exercise sheet every **two** weeks
   - The first exercise sheet will be published April 29.
-  - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet
+  - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet. See below for more information on the grading.
   - Release: Fridays (biweekly) on [MaMpf][mampf] and in the table above.
   - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampf]
   - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
-  - Feedback in the [tutorials][tuts]
-  - The tutor can ask/allow you to revise your programming exercise once per sheet.
+  - Information on the correction and the feedback see below.
+<!--   - The tutor can ask/allow you to revise your programming exercise once per sheet. -->
   - Solutions can be written in English and German.
-  - Plagiarism leads to 0 points for all involved teams.
+  - Plagiarism leads to 0 points for all involved teams (that also applies to plagiarism of the solutions from the winter term 20/21)!
   <!-- - Sample solutions? -->
   
 Programming exercises format
@@ -128,7 +128,17 @@ Submission procedure
   - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
   - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampf].
   - A guide how to submit solutions on [MaMpf][mampf] can be found [here][subguide].
+
+Grading, correction and feedback
+: Due to the high number of participants, we cannot correct and provide individual feedback to all submissions. Instead we apply the following procedure:
+  - For each sheet we choose a number of submissions for correction of the theoretical exercises on a random basis.
+  - The selected submissions will be corrected as usual. This means in particular that you will receive some written feedback to your solutions.
+  - For all other submissions we only check to which exercises you have provided (reasonable) solution attempts and award the full amount of points for these exercises. 
+  - We will check the programming exercises of all submissions. But, to reduce the workload for Laura, you don't get feedback to your programming exercises. Moreover, there will not be the option to revise your programming exercise. Instead, you either get 1P if everything is fine, 0.5P if most parts of the exercise have been solved and there are only minor flaws, 0P otherwise.
+  - We will upload the solutions to both the theoretical and programming exercises after you have submitted your solutions so that you can compare your own solutions with the suggested solutions. We will dedicate some time in the tutorials to then answer specific questions regarding your solutions. **Send your questions to [Laura][laura] at least three days before the tutorial.** 
   
+  To make sure that the grading of the theoretical exercises is as fair as possible, we will make sure that each group has its solutions checked similarly often.
+  {:.note}
 
 
 ## Lecture Format
@@ -158,33 +168,33 @@ When?
   | Mondays | Thursdays | Topic |
   |---------|-----------|-------|
   | 02.05. | 05.05. | Setting up the Conda environments and the Python tutorials; possibly we will say a few words about debugging and Git |
-  | 09.05. | 12.05. | 1st exercise sheet |
-  | 23.05. | 26.05. | 2nd exercise sheet |
-  | 06.06. | 09.06. | 3rd exercise sheet |
-  | 20.06. | 23.06. | 4th exercise sheet |
-  | 04.07. | 07.07. | 5th exercise sheet |
+  | 09.05. | 12.05. | Working on the 1st exercise sheet |
+  | 23.05. | 26.05. | Working on the 2nd exercise sheet |
+  | 06.06. | 09.06. | Working on the 3rd exercise sheet |
+  | 20.06. | 23.06. | Working on the 4th exercise sheet |
+  | 04.07. | 07.07. | Working on the 5th exercise sheet |
   | *TBA* | *TBA* | Exam preparation |
 
 ### Presentation of solutions
 
 What?
-: In these tutorials Laura will present (some of the) solutions of the previous exercise sheet.
+: In these tutorials Laura will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions. **Send your questions to [Laura][laura] at least three days before the tutorial.** 
 
 When?
 : In the first week after you submitted your solutions/the new exercise sheet has been published. I.e., the dates are:
   
   | Mondays | Thursdays | Topic |
   |---------|-----------|-------|
-  | 16.05. | 19.05. | 1st exercise sheet |
-  | 30.05. | 02.06. | 2nd exercise sheet |
-  | 13.06. | 16.06. | 3rd exercise sheet |
-  | 27.06. | 30.06. | 4th exercise sheet |
-  | 11.07. | 14.07. | 5th exercise sheet |
+  | 16.05. | 19.05. | Discussing solutions of the 1st exercise sheet |
+  | 30.05. | 02.06. | Discussing solutions of the 2nd exercise sheet |
+  | 13.06. | 16.06. | Discussing solutions of the 3rd exercise sheet |
+  | 27.06. | 30.06. | Discussing solutions of the 4th exercise sheet |
+  | 11.07. | 14.07. | Discussing solutions of the 5th exercise sheet |
 
 ## Final Exam
 
 Admission Requirements
-: - at least 50% of the points in the theoretical exercises **and** 3 out of 5 programming exercises solved
+: - at least 50% of the points in the theoretical exercises **and** 3 points in the programming exercises.
   
   If you have an old admission, contact [me][ihno] as soon as possible.
   {:.note}
