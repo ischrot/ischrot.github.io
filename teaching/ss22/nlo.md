@@ -131,7 +131,7 @@ Submission procedure
 
 Grading, correction and feedback
 : Due to the high number of participants, we cannot correct and provide individual feedback to all submissions. Instead we apply the following procedure:
-  - For each sheet we choose a number of submissions for correction of the theoretciale exercises on a random basis.
+  - For each sheet we choose a number of submissions for correction of the theoretical exercises on a random basis.
   - The selected submissions will be corrected as usual. This means in particular that you will receive some written feedback to your solutions.
   - For all other submissions we only check to which exercises you have provided (reasonable) solution attempts and award the full amount of points for these exercises. 
   - We will check the programming exercises of all submissions. But, to reduce the workload for Laura, you don't get feedback to your programming exercises. Moreover, there will not be the option to revise your programming exercise. Instead, you either get 1P if everything is fine, 0.5P if most parts of the exercise have been solved and there are only minor flaws, 0P otherwise.
