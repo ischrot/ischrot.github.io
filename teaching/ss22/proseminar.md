@@ -115,8 +115,8 @@ Further we expect
 | July 4th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | Will be moved to June 27th presumably. |
 | July 11th | Positive and Nonnegative Matrices | None | Will be dropped presumably.  |
 
-The speakers will be decided in the [kick-off meeting][kom].
-{:.note}
+<!-- The speakers will be decided in the [kick-off meeting][kom].
+{:.note} -->
 
 ## Grading
 
