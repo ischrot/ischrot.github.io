@@ -104,16 +104,16 @@ Further we expect
 
 ## Schedule
 
-| Date | Topic | Speakers |
-|------|-------|----------|
-| April 25th | Kick-Off Meeting | None | 
-| May 23rd | Unitary Similarity and Unitary Equivalence | |
-| May 30th | Canonical Forms for Similarity and Triangular Factorizations | |
-| June 13th | Hermitian Matrices, Symmetric Matrices, and Congruences | |
-| June 20th | Norms for Vectors and Matrices | |
-| June 27th | Location and Perturbation of Eigenvalues | |
-| July 4th | Positive Definite and Semidefinite Matrices | |
-| July 11th | Positive and Nonnegative Matrices | |
+| Date | Topic | Speakers | Comments |
+|------|-------|----------|----------|
+| April 25th | Kick-Off Meeting | None | |
+| May 23rd | Unitary Similarity and Unitary Equivalence | Leo, Yoko | |
+| May 30th | Canonical Forms for Similarity and Triangular Factorizations | None | Will be dropped presumably. |
+| June 13th | Hermitian Matrices, Symmetric Matrices, and Congruences | Amelia, Mingyang | Will be moved to May 30th presumably. |
+| June 20th | Norms for Vectors and Matrices | Janina, Levente | Will be moved to June 13th presumably. |
+| June 27th | Location and Perturbation of Eigenvalues | Anna, David | Will be moved to June 20th presumably. |
+| July 4th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | Will be moved to June 27th presumably. |
+| July 11th | Positive and Nonnegative Matrices | None | Will be dropped presumably.  |
 
 The speakers will be decided in the [kick-off meeting][kom].
 {:.note}
