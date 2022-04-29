@@ -83,14 +83,14 @@ Registration
 ## Exercises
 
 Sheets
-: | Name | Release Date | Deadline | Sheet | Notebook Template | Comments |
-  |------|--------------|----------|-------|-------------------|----------|
-  | Tutorial sheet | April 13 | None | [Tutorial sheet][sheettut] | | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] |
-  | Sheet 1 | April 29th | May 13th, 08:00am | [Sheet 01][sheet1] | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | |
-  | Sheet 2 | May 13th | May 27th, 08:00am | N/A | N/A | |
-  | Sheet 3 | May 27th | June 10th, 08:00am | N/A | N/A | |
-  | Sheet 4 | June 10th | June 24th, 08:00am | N/A | N/A | |
-  | Sheet 5 | June 24th | July 8th, 08:00am | N/A | N/A | |
+: | Name | Deadline | Sheet | Notebook Template | Solutions | Comments |
+  |------|----------|-------|-------------------|-----------|----------|
+  | Tutorial sheet | None | [Tutorial sheet][sheettut] | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] |
+  | Sheet 1 | May 13th, 08:00am | [Sheet 01][sheet1] | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | | |
+  | Sheet 2 | May 27th, 08:00am | N/A | N/A | | |
+  | Sheet 3 | June 10th, 08:00am | N/A | N/A | | |
+  | Sheet 4 | June 24th, 08:00am | N/A | N/A | | |
+  | Sheet 5 | July 8th, 08:00am | N/A | N/A | | |
   
 <!--   The dates are still preliminary.
   {:.note} -->
