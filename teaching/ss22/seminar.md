@@ -98,7 +98,7 @@ Further we expect
 
 | Date | Topic | Speaker(s) |
 |------|-------|------------|
-| April 26th | Kick-off meetig | None|
+| April 26th | Kick-off meetig | None |
 | May 24th | Active set methods for NLPs with vanishing constraints | Laura, Lotta |
 | May 31st | A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control | Jörn, Szymon |
 | June 7th | An approximation technique for robust nonlinear optimization | Aarya |
@@ -161,6 +161,7 @@ Computers Chem. Engng Vol.2 No. 9, pp. 1137-1158. (1998).
   
   An approximation technique for robust nonlinear optimization
   :   -  M. Diehl, H.G. Bock, E. Kostina. An approximation technique for robust nonlinear optimization. Math. Program. 107, 213–230 (2006).
+  
   Robust nonconvex optimization
   :   -  B. Houska. Robust Optimization of Dynamic Systems. Chapter 3-4. (2011).
 
