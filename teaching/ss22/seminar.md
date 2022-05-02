@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-20
+2022-05-02
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -99,18 +99,17 @@ Further we expect
 | Date | Topic | Speaker(s) |
 |------|-------|------------|
 | April 26th | Kick-off meetig | None|
-| May 24th| CG-Methods | |
-| May 31st | Active set methods for NLPs with vanishing constraints | |
-| June 7th | Penalty and Augmented Lagrangian methods | |
-| June 14th | SQP with indefinite Hessian approximations | |
-| June 21th | BFGS-SQP Method for nonsmooth, nonconvex, constrained optimization | |
-| June 28th | Interior-point filter line-search algorithm for NLP | |
-| July 5th | A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control | |
-| July 12th | Global optimization methods | |
-| July 19th | Robust nonconvex optimization | |
-
-The speakers will be decided in the [kick-off meeting][kom].
-{:.note}
+| May 24th | Active set methods for NLPs with vanishing constraints | Laura, Lotta |
+| May 31st | A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control | Jörn, Szymon |
+| None | CG-Methods | None |
+| None | Penalty and Augmented Lagrangian methods | None |
+| None | SQP with indefinite Hessian approximations | None |
+| None | BFGS-SQP Method for nonsmooth, nonconvex, constrained optimization | None |
+| None | Interior-point filter line-search algorithm for NLP | None |
+| None | Global optimization methods | None |
+| None | Robust nonconvex optimization | None |
+<!-- The speakers will be decided in the [kick-off meeting][kom].
+{:.note} -->
 
 ## Grading
 
