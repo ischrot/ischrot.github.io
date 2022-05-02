@@ -26,8 +26,9 @@ Organizers
   Please contact [Ihno Schrot][ihno] if you have questions regarding this course.
   {:.note title="Contact"}
   
-Tutor
-: [Laura Femmer][laura]
+Tutors
+: - [Laura Femmer][laura]
+  - [Jörn Buchwald][joern]
 
 First Lecture
 : Thursday, April 21, 11:15, in the lecture hall (HS) in INF 205
@@ -43,11 +44,13 @@ Lecture Room
   {:.note}
 
 Tutorial Groups
-: - Mondays, 16:15 - 17:45, SR 1
-  - Thursdays, 09:15 - 10:45, SR 1
-  - Thursdays, 16:15 - 17:45, SR 4
+: | Day | Time | Room | Tutor |
+  |-----|------|------|-------|
+  | Monday | 16:15 - 17:45 | SR 1 | [Jörn][joern] |
+  | Thursday | 09:15 - 10:45 | SR 1 | [Laura][laura] |
+  | Thursday | 16:15 - 17:45 | SR 4 | [Laura][laura] |
   
-  Depending on whether we get an additional tutor, we will offer tutorials at all three dates or only at two of them. We will inform you again once you can choose your tutorial group on [MÜSLI][muesli].
+  We will inform you again once you can choose your tutorial group on [MÜSLI][muesli].
   {:.note}
   <!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
 
@@ -105,7 +108,7 @@ General format
 <!--   - The tutor can ask/allow you to revise your programming exercise once per sheet. -->
   - Solutions can be written in English and German.
   - Plagiarism leads to 0 points for all involved teams (that also applies to plagiarism of the solutions from the winter term 20/21)!
-  <!-- - Sample solutions? -->
+  - Sample solutions will be uploaded in [MaMpf][mampf] and linked in the table above.
   
 Programming exercises format
 : - Programming language: Python
@@ -125,6 +128,8 @@ Submission procedure
   - A guide how to submit solutions on [MaMpf][mampf] can be found [here][subguide].
 
 Grading, correction and feedback
+: Fortunately, we have found a second tutor such that the grading, correction and feedback works as usual. I.e., all submissions will be corrected and graded and you will receive a commented version of your submission in [MaMpf][mampf].
+<!-- Grading, correction and feedback
 : Due to the high number of participants, we cannot correct and provide individual feedback to all submissions. Instead we apply the following procedure:
   - For each sheet we choose a number of submissions for correction of the theoretical exercises on a random basis.
   - The selected submissions will be corrected as usual. This means in particular that you will receive some written feedback to your solutions.
@@ -133,7 +138,7 @@ Grading, correction and feedback
   - We will upload the solutions to both the theoretical and programming exercises after you have submitted your solutions so that you can compare your own solutions with the suggested solutions. We will dedicate some time in the tutorials to then answer specific questions regarding your solutions. **Send your questions to [Laura][laura] at least three days before the tutorial.** 
   
   To make sure that the grading of the theoretical exercises is as fair as possible, we will make sure that each group has its solutions checked similarly often.
-  {:.note}
+  {:.note} -->
 
 
 ## Lecture Format
@@ -230,6 +235,7 @@ Other Materials
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
 [laura]: mailto:laura(dot)femmer(at)stud(dot)uni-heidelberg(dot)de
+[joern]: mailto:buchwald(dot)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1508
 [mampfold]: https://mampf.mathi.uni-heidelberg.de/lectures/48
 [mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/124
