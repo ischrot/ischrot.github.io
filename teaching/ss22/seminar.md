@@ -108,6 +108,7 @@ Further we expect
 | None | BFGS-SQP Method for nonsmooth, nonconvex, constrained optimization | None |
 | None | Interior-point filter line-search algorithm for NLP | None |
 | None | Global optimization methods | None |
+
 <!-- | None | Robust nonconvex optimization | None | -->
 <!-- The speakers will be decided in the [kick-off meeting][kom].
 {:.note} -->
