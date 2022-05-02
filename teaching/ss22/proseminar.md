@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-04-25
+2022-05-02
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -108,12 +108,12 @@ Further we expect
 |------|-------|----------|----------|
 | April 25th | Kick-Off Meeting | None | |
 | May 23rd | Unitary Similarity and Unitary Equivalence | Leo, Yoko | |
-| May 30th | Canonical Forms for Similarity and Triangular Factorizations | None | Will be dropped presumably. |
-| June 13th | Hermitian Matrices, Symmetric Matrices, and Congruences | Amelia, Mingyang | Will be moved to May 30th presumably. |
-| June 20th | Norms for Vectors and Matrices | Janina, Levente | Will be moved to June 13th presumably. |
-| June 27th | Location and Perturbation of Eigenvalues | Anna, David | Will be moved to June 20th presumably. |
-| July 4th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | Will be moved to June 27th presumably. |
-| July 11th | Positive and Nonnegative Matrices | None | Will be dropped presumably.  |
+| May 30th | Hermitian Matrices, Symmetric Matrices, and Congruences | Amelia, Mingyang | |
+| June 13th | Norms for Vectors and Matrices | Janina, Levente | |
+| June 20th | Location and Perturbation of Eigenvalues | Anna, David | |
+| June 27th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | |
+| None | Canonical Forms for Similarity and Triangular Factorizations | None | |
+| None | Positive and Nonnegative Matrices | None | This talk has been dropped. |
 
 <!-- The speakers will be decided in the [kick-off meeting][kom].
 {:.note} -->
