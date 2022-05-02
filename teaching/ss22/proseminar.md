@@ -112,7 +112,7 @@ Further we expect
 | June 13th | Norms for Vectors and Matrices | Janina, Levente | |
 | June 20th | Location and Perturbation of Eigenvalues | Anna, David | |
 | June 27th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | |
-| None | Canonical Forms for Similarity and Triangular Factorizations | None | |
+| None | Canonical Forms for Similarity and Triangular Factorizations | None | This talk has been dropped. |
 | None | Positive and Nonnegative Matrices | None | This talk has been dropped. |
 
 <!-- The speakers will be decided in the [kick-off meeting][kom].
