@@ -50,7 +50,7 @@ Tutorial Groups
   | Thursday | 09:15 - 10:45 | SR 1 | [Laura][laura] |
   | Thursday | 16:15 - 17:45 | SR 4 | [Laura][laura] |
   
-  We will inform you again once you can choose your tutorial group on [MÜSLI][muesli].
+  The registration for the tutorial groups starts **Monday, May 9, at 13:00 on [MÜSLI][muesli]**.
   {:.note}
   <!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
 
