@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-05-02
+2022-05-09
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -129,6 +129,7 @@ Submission procedure
 
 Grading, correction and feedback
 : Fortunately, we have found a second tutor such that the grading, correction and feedback works as usual. I.e., all submissions will be corrected and graded and you will receive a commented version of your submission in [MaMpf][mampf].
+
 <!-- Grading, correction and feedback
 : Due to the high number of participants, we cannot correct and provide individual feedback to all submissions. Instead we apply the following procedure:
   - For each sheet we choose a number of submissions for correction of the theoretical exercises on a random basis.
@@ -159,7 +160,7 @@ We want to make sure that the tutorials are as effective as possible for you, so
 What?
 : In these sessions we invite you to come to the seminarroom to work together with your own and other groups on the exercises. Moreover, Laura and myself will be there to help if you have problems or questions. In particular, we can discuss programming related issues here.
 
-  The spirit of these sessions is less the one of a "classical" tutorial, but more the one of an interactive group meeting. Especially, Laura and I will not prepare anything unless you have asked us for something specific.
+  The spirit of these sessions is less the one of a "classical" tutorial, but more the one of an interactive group meeting. Especially, we will not prepare anything unless you have asked us for something specific.
   {:.note}
 
 When?
@@ -178,7 +179,7 @@ When?
 ### Presentation of solutions
 
 What?
-: In these tutorials Laura will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions. **Send your questions to [Laura][laura] at least three days before the tutorial.** 
+: In these tutorials Laura will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions.
 
 When?
 : In the first week after you submitted your solutions/the new exercise sheet has been published. I.e., the dates are:
@@ -208,7 +209,7 @@ Exam Format
 ## Lecture Notes, Literature and Other Materials
 
 Lecture Notes
-: The lecture notes will be uploaded on [MaMpf][mampf]. So far no lecture has taken place.
+: The lecture notes will be uploaded on [MaMpf][mampf].
 
 Literature
 : - Nocedal, Wright: Numerical Optimization, Springer, 2006.
