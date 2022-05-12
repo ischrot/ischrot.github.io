@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-05-09
+2022-05-12
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -90,7 +90,7 @@ Sheets
   |-------|----------|-------------------|-----------|----------|
   | [Tutorial sheet][sheettut] | None | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 1][sheet1]  | May 13th, 08:00am | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | | Typo in Exe.1.8 (b) fixed on May 2nd. |
-  | Sheet 2 | May 27th, 08:00am | | | |
+  | [Sheet 2][sheet2]  | May 27th, 08:00am | [Template 02][temp2], [Auxiliary Functions 02][aux2]  | | The deadline for the programming exercise might be extended. We will inform you again. |
   | Sheet 3 | June 10th, 08:00am | | | |
   | Sheet 4 | June 24th, 08:00am | | | |
   | Sheet 5 | July 8th, 08:00am  | | | |
@@ -232,6 +232,9 @@ Other Materials
 [sheet1]: https://heibox.uni-heidelberg.de/f/06e19174468a4e1cb8e2/
 [temp1]: https://heibox.uni-heidelberg.de/f/d228130612a242749c4c/?dl=1 
 [aux1]: https://heibox.uni-heidelberg.de/f/1a918dc82b2a485c966e/?dl=1
+[sheet2]: https://heibox.uni-heidelberg.de/f/4440d7f540e24907a107/
+[temp2]:     https://heibox.uni-heidelberg.de/f/72123d64016445e68841/?dl=1
+[aux2]: https://heibox.uni-heidelberg.de/f/47d117e2dc9e4b9fad67/?dl=1
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
