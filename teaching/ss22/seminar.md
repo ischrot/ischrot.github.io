@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-05-02
+2022-05-12
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -99,7 +99,7 @@ Further we expect
 | Date | Topic | Speaker(s) |
 |------|-------|------------|
 | April 26th | Kick-off meetig | None |
-| May 24th | Active set methods for NLPs with vanishing constraints | Laura, Lotta |
+| May 24th | Active set methods for NLPs with vanishing constraints | Laura |
 | May 31st | A dual Newton strategy for the efficient soulution of sparse QPs arising in SQP-based nonlinear model predictive control | Jörn, Szymon |
 | June 7th | An approximation technique for robust nonlinear optimization | Aarya |
 | None | CG-Methods | None |
