@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-05-12
+2022-05-13
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -49,10 +49,7 @@ Tutorial Groups
   | Monday | 16:15 - 17:45 | SR 1 | [Jörn][joern] |
   | Thursday | 09:15 - 10:45 | SR 1 | [Laura][laura] |
   | Thursday | 16:15 - 17:45 | SR 4 | [Laura][laura] |
-  
-  The registration for the tutorial groups starts **Monday, May 9, at 13:00 on [MÜSLI][muesli]**.
-  {:.note}
-  <!--   We will choose two out of these three dates based on the outcome of a poll that we will launch in the first lecture and that will be linked here, too. -->
+
 
 Platform for anonymous questions and feedback
 : We understand that sometimes you would like to ask a question or provide feedback anonymously. You can do that on [Particify][ars]. Just enter the code *3535 6496* or go directly to [our room][arsroom] and then post your question or feedback in the Q\&A section. We will regularly check the Q\&A section and answer your questions there.
@@ -79,9 +76,6 @@ Requirements
   
 Registration
 : To participate in the course, please register for the course on [MÜSLI][muesli].
-  
-  We have decided to include everybody in the course. Please take a look at the grading, correction and feedback of the exercise sheets below though.
-  {:.note title="Regarding the limited number of spots"}
 
 ## Exercises
 
@@ -129,17 +123,6 @@ Submission procedure
 
 Grading, correction and feedback
 : Fortunately, we have found a second tutor such that the grading, correction and feedback works as usual. I.e., all submissions will be corrected and graded and you will receive a commented version of your submission in [MaMpf][mampf].
-
-<!-- Grading, correction and feedback
-: Due to the high number of participants, we cannot correct and provide individual feedback to all submissions. Instead we apply the following procedure:
-  - For each sheet we choose a number of submissions for correction of the theoretical exercises on a random basis.
-  - The selected submissions will be corrected as usual. This means in particular that you will receive some written feedback to your solutions.
-  - For all other submissions we only check to which exercises you have provided (reasonable) solution attempts and award the full amount of points for these exercises. 
-  - We will check the programming exercises of all submissions. But, to reduce the workload for Laura, you don't get feedback to your programming exercises. Moreover, there will not be the option to revise your programming exercise. Instead, you either get 1P if everything is fine, 0.5P if most parts of the exercise have been solved and there are only minor flaws, 0P otherwise.
-  - We will upload the solutions to both the theoretical and programming exercises after you have submitted your solutions so that you can compare your own solutions with the suggested solutions. We will dedicate some time in the tutorials to then answer specific questions regarding your solutions. **Send your questions to [Laura][laura] at least three days before the tutorial.** 
-  
-  To make sure that the grading of the theoretical exercises is as fair as possible, we will make sure that each group has its solutions checked similarly often.
-  {:.note} -->
 
 
 ## Lecture Format
