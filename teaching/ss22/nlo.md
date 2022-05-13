@@ -51,7 +51,7 @@ Tutorial Groups
   | Thursday | 16:15 - 17:45 | SR 4 | [Laura][laura] |
   
 Collaborative Working Sessions
-: The collaborative working sessions take place in SR 1 on Thursday at 09:15am. More details on the format can be found [below][ws].
+: The collaborative working sessions take place **in SR 1 on Thursday at 09:15am**. More details on the format can be found [below][ws].
 
 
 Platform for anonymous questions and feedback
