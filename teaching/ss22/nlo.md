@@ -54,8 +54,8 @@ Collaborative Working Sessions
 : The collaborative working sessions take place **in SR 1 on Thursday at 09:15am**. More details on the format can be found [below][ws].
 
 
-Platform for anonymous questions and feedback
-: We understand that sometimes you would like to ask a question or provide feedback anonymously. You can do that on [Particify][ars]. Just enter the code *3535 6496* or go directly to [our room][arsroom] and then post your question or feedback in the Q\&A section. We will regularly check the Q\&A section and answer your questions there.
+<!-- Platform for anonymous questions and feedback
+: We understand that sometimes you would like to ask a question or provide feedback anonymously. You can do that on [Particify][ars]. Just enter the code *3535 6496* or go directly to [our room][arsroom] and then post your question or feedback in the Q\&A section. We will regularly check the Q\&A section and answer your questions there. -->
 
 Level 
 : Bachelor and Master
