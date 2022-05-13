@@ -49,6 +49,9 @@ Tutorial Groups
   | Monday | 16:15 - 17:45 | SR 1 | [Jörn][joern] |
   | Thursday | 09:15 - 10:45 | SR 1 | [Laura][laura] |
   | Thursday | 16:15 - 17:45 | SR 4 | [Laura][laura] |
+  
+Collaborative Working Sessions
+: The collaborative working sessions take place in SR 1 on Thursday at 09:15am. More details on the format can be found [below][ws].
 
 
 Platform for anonymous questions and feedback
@@ -147,22 +150,22 @@ What?
   {:.note}
 
 When?
-: In the second week after you submitted your solutions/the new exercise sheet has been published. Moreover, we have an additional meeting at the beginning and one at the end of the semester. I.e., the dates are:
+: In the second week after you submitted your solutions/the new exercise sheet has been published **in SR 1 on Thursday, 09:15am**. Moreover, we have an additional meeting at the beginning and one at the end of the semester. I.e., the dates are:
 
-  | Mondays | Thursdays | Topic |
+  | Date | Topic |
   |---------|-----------|-------|
-  | 02.05. | 05.05. | Setting up the Conda environments and the Python tutorials; possibly we will say a few words about debugging and Git |
-  | 09.05. | 12.05. | Working on the 1st exercise sheet |
-  | 23.05. | 26.05. | Working on the 2nd exercise sheet |
-  | 06.06. | 09.06. | Working on the 3rd exercise sheet |
-  | 20.06. | 23.06. | Working on the 4th exercise sheet |
-  | 04.07. | 07.07. | Working on the 5th exercise sheet |
-  | *TBA* | *TBA* | Exam preparation |
+  | 02.05./05.05. | Setting up the Conda environments and the Python tutorials; possibly we will say a few words about debugging and Git |
+  | 09.05./12.05. | Working on the 1st exercise sheet |
+  | 26.05. | Working on the 2nd exercise sheet |
+  | 09.06. | Working on the 3rd exercise sheet |
+  | 23.06. | Working on the 4th exercise sheet |
+  | 07.07. | Working on the 5th exercise sheet |
+  | *TBA*  | Exam preparation |
 
 ### Presentation of solutions
 
 What?
-: In these tutorials Laura will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions.
+: In these tutorials Laura and Jörn will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions.
 
 When?
 : In the first week after you submitted your solutions/the new exercise sheet has been published. I.e., the dates are:
