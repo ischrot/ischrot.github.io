@@ -227,7 +227,7 @@ Other Materials
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
 [laura]: mailto:laura(dot)femmer(at)stud(dot)uni-heidelberg(dot)de
-[joern]: mailto:buchwald(dot)stud(dot)uni-heidelberg(dot)de
+[joern]: mailto:buchwald(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1508
 [mampfold]: https://mampf.mathi.uni-heidelberg.de/lectures/48
 [mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/124
