@@ -51,7 +51,8 @@ Tutorial Groups
   | Thursday | 16:15 - 17:45 | SR 4 | [Laura][laura] |
   
 Collaborative Working Sessions
-: The collaborative working sessions take place **in SR 1 on Thursday at 09:15am**. More details on the format can be found [below][ws].
+: The collaborative working sessions take place **in SR 1 on Thursday at 09:15am**. If Thursday is a public holiday, the collaborative working session takes place in SR 1 on Mondays at 16:15. More details on the format can be found [below][ws].
+
 
 
 <!-- Platform for anonymous questions and feedback
@@ -152,15 +153,15 @@ What?
 When?
 : In the second week after you submitted your solutions/the new exercise sheet has been published **in SR 1 on Thursday, 09:15am**. Moreover, we have an additional meeting at the beginning and one at the end of the semester. I.e., the dates are:
 
-  | Date | Topic |
+  | Date | Topic | Comments |
   |---------|-----------|-------|
-  | 02.05./05.05. | Setting up the Conda environments and the Python tutorials; possibly we will say a few words about debugging and Git |
-  | 09.05./12.05. | Working on the 1st exercise sheet |
-  | 26.05. | Working on the 2nd exercise sheet |
-  | 09.06. | Working on the 3rd exercise sheet |
-  | 23.06. | Working on the 4th exercise sheet |
-  | 07.07. | Working on the 5th exercise sheet |
-  | *TBA*  | Exam preparation |
+  | 02.05./05.05. | Setting up the Conda environments and the Python tutorials; possibly we will say a few words about debugging and Git | |
+  | 09.05./12.05. | Working on the 1st exercise sheet | |
+  | 23.05. | Working on the 2nd exercise sheet | Monday 16:15 instead of Thursday! |
+  | 09.06. | Working on the 3rd exercise sheet | |
+  | 23.06. | Working on the 4th exercise sheet | |
+  | 07.07. | Working on the 5th exercise sheet | |
+  | *TBA*  | Exam preparation | |
 
 ### Presentation of solutions
 
