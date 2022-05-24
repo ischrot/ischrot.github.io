@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-05-02
+2022-05-24
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -110,8 +110,8 @@ Further we expect
 | May 23rd | Unitary Similarity and Unitary Equivalence | Leo, Yoko | |
 | May 30th | Hermitian Matrices, Symmetric Matrices, and Congruences | Amelia, Mingyang | |
 | June 13th | Norms for Vectors and Matrices | Janina, Levente | |
-| June 20th | Location and Perturbation of Eigenvalues | Anna, David | |
-| June 27th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | |
+| June 27th | Location and Perturbation of Eigenvalues | Anna, David | This talk has been postponed by one week. |
+| July 04th | Positive Definite and Semidefinite Matrices |Roujing, Valentin | This talk has been postponed by one week. |
 | None | Canonical Forms for Similarity and Triangular Factorizations | None | This talk has been dropped. |
 | None | Positive and Nonnegative Matrices | None | This talk has been dropped. |
 
