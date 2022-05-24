@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-05-22
+2022-05-24
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -88,7 +88,7 @@ Sheets
   |-------|----------|-------------------|-----------|----------|
   | [Tutorial sheet][sheettut] | None | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 1][sheet1]  | May 13th, 08:00am | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | [Solutions 1][sol1], [Prog. Solutions][progsol1] | Typo in Exe.1.8 (b) fixed on May 2nd. |
-  | [Sheet 2][sheet2]  | May 27th, 08:00am | [Template 02][temp2], [Auxiliary Functions 02][aux2]  | | The deadline of the programming exercise has been extended to June 10th. |
+  | [Sheet 2][sheet2]  | May 27th, 08:00am | [Template 02][temp2], [Auxiliary Functions 02][aux2]  | | The deadline of the programming exercise has been extended to June 10th. As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
   | Sheet 3 | June 10th, 08:00am | | | |
   | Sheet 4 | June 24th, 08:00am | | | |
   | Sheet 5 | July 8th, 08:00am  | | | |
