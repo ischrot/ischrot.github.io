@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-06-07
+2022-06-09
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -90,7 +90,7 @@ Sheets
   | [Sheet 1][sheet1]  | May 13th, 08:00am | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | [Solutions 1][sol1], [Prog. Solutions][progsol1] | Typo in Exe.1.8 (b) fixed on May 2nd. |
   | [Sheet 2][sheet2]  | May 27th, 08:00am | The programming exercise has been moved to Sheet 3.  | | As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
   | [Sheet 3][sheet3] | June 10th, 08:00am | [Template 03][temp3], [Auxiliary Functions 03][aux3] | | You find the definition of Newtons method on p. 90 in the lecture notes. This short definition is sufficient to solve the exercises on this sheet. |
-  | Sheet 4 | June 24th, 08:00am | | | |
+  | [Sheet 4][sheet4] | June 24th, 08:00am | [Template 04][temp4], [Auxiliary Functions 04][aux4] | | |
   | Sheet 5 | July 8th, 08:00am  | | | |
   
 
@@ -182,7 +182,7 @@ When?
 ## Final Exam
 
 Admission Requirements
-: - at least 50% of the points in the theoretical exercises **and** 3 points in the programming exercises.
+: - at least 50% of the points in the theoretical exercises **and** 2 points in the programming exercises.
   
   If you have an old admission, contact [me][ihno] as soon as possible.
   {:.note}
@@ -224,9 +224,14 @@ Other Materials
 [sheet2]: https://heibox.uni-heidelberg.de/f/4440d7f540e24907a107/
 [temp2]:     https://heibox.uni-heidelberg.de/f/72123d64016445e68841/?dl=1
 [aux2]: https://heibox.uni-heidelberg.de/f/47d117e2dc9e4b9fad67/?dl=1
+[sol2]:
+[progsol2]:
 [sheet3]: https://heibox.uni-heidelberg.de/f/d8f1bc27a0f14c64a3b1/
 [temp3]: https://heibox.uni-heidelberg.de/f/10370e0eb5b4445c9a05/?dl=1
 [aux3]: https://heibox.uni-heidelberg.de/f/0e1cb702b84e4d909648/?dl=1
+[sheet4]: https://heibox.uni-heidelberg.de/f/3dbc366466b54039ade1/
+[temp4]: https://heibox.uni-heidelberg.de/f/a0e1e3b8c2af4fb4b237/?dl=1
+[aux4]: https://heibox.uni-heidelberg.de/f/c5cc1cccc9fe4ab0bee6/?dl=1 
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
