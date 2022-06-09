@@ -87,7 +87,7 @@ Sheets
 : | Sheet | Deadline | Notebook Template | Solutions | Comments |
   |-------|----------|-------------------|-----------|----------|
   | [Tutorial sheet][sheettut] | None | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] |
-  | [Sheet 1][sheet1]  | May 13th, 08:00am | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | [Solutions 1][sol1], [Prog. Solutions][progsol1] | Typo in Exe.1.8 (b) fixed on May 2nd. |
+  | [Sheet 1][sheet1]  | May 13th, 08:00am | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | [Solutions 1][sol1], [Prog. Solution 1][progsol1] | Typo in Exe.1.8 (b) fixed on May 2nd. |
   | [Sheet 2][sheet2]  | May 27th, 08:00am | The programming exercise has been moved to Sheet 3.  | [Solutions 2][sol2] | As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
   | [Sheet 3][sheet3] | June 10th, 08:00am | [Template 03][temp3], [Auxiliary Functions 03][aux3] | | You find the definition of Newtons method on p. 90 in the lecture notes. This short definition is sufficient to solve the exercises on this sheet. |
   | [Sheet 4][sheet4] | June 24th, 08:00am | [Template 04][temp4], [Auxiliary Functions 04][aux4] | | |
@@ -175,7 +175,7 @@ When?
   |---------|-----------|-------|
   | 16.05. | 19.05. | Discussing solutions of the 1st exercise sheet |
   | 30.05. | 02.06. | Discussing solutions of the 2nd exercise sheet |
-  | 13.06. | 16.06. | Discussing solutions of the 3rd exercise sheet |
+  | 13.06. | (Public Holiday) | Discussing solutions of the 3rd exercise sheet |
   | 27.06. | 30.06. | Discussing solutions of the 4th exercise sheet |
   | 11.07. | 14.07. | Discussing solutions of the 5th exercise sheet |
 
