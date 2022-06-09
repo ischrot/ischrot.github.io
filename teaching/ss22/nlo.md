@@ -224,8 +224,6 @@ Other Materials
 [sheet2]: https://heibox.uni-heidelberg.de/f/4440d7f540e24907a107/
 [temp2]:     https://heibox.uni-heidelberg.de/f/72123d64016445e68841/?dl=1
 [aux2]: https://heibox.uni-heidelberg.de/f/47d117e2dc9e4b9fad67/?dl=1
-[sol2]:
-[progsol2]:
 [sheet3]: https://heibox.uni-heidelberg.de/f/d8f1bc27a0f14c64a3b1/
 [temp3]: https://heibox.uni-heidelberg.de/f/10370e0eb5b4445c9a05/?dl=1
 [aux3]: https://heibox.uni-heidelberg.de/f/0e1cb702b84e4d909648/?dl=1
