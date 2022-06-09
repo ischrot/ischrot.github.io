@@ -88,7 +88,7 @@ Sheets
   |-------|----------|-------------------|-----------|----------|
   | [Tutorial sheet][sheettut] | None | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 1][sheet1]  | May 13th, 08:00am | [Template 01][temp1], [Auxiliary Functions 01][aux1]  | [Solutions 1][sol1], [Prog. Solutions][progsol1] | Typo in Exe.1.8 (b) fixed on May 2nd. |
-  | [Sheet 2][sheet2]  | May 27th, 08:00am | The programming exercise has been moved to Sheet 3.  | | As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
+  | [Sheet 2][sheet2]  | May 27th, 08:00am | The programming exercise has been moved to Sheet 3.  | [Solutions 2][sol2] | As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
   | [Sheet 3][sheet3] | June 10th, 08:00am | [Template 03][temp3], [Auxiliary Functions 03][aux3] | | You find the definition of Newtons method on p. 90 in the lecture notes. This short definition is sufficient to solve the exercises on this sheet. |
   | [Sheet 4][sheet4] | June 24th, 08:00am | [Template 04][temp4], [Auxiliary Functions 04][aux4] | | |
   | Sheet 5 | July 8th, 08:00am  | | | |
@@ -224,6 +224,7 @@ Other Materials
 [sheet2]: https://heibox.uni-heidelberg.de/f/4440d7f540e24907a107/
 [temp2]:     https://heibox.uni-heidelberg.de/f/72123d64016445e68841/?dl=1
 [aux2]: https://heibox.uni-heidelberg.de/f/47d117e2dc9e4b9fad67/?dl=1
+[sol2]: https://heibox.uni-heidelberg.de/f/d278e3bad2094f37ab36/ 
 [sheet3]: https://heibox.uni-heidelberg.de/f/d8f1bc27a0f14c64a3b1/
 [temp3]: https://heibox.uni-heidelberg.de/f/10370e0eb5b4445c9a05/?dl=1
 [aux3]: https://heibox.uni-heidelberg.de/f/0e1cb702b84e4d909648/?dl=1
