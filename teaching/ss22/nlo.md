@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-06-09
+2022-06-20
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -191,7 +191,10 @@ Exam Format
 : - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
-  - *Preliminary* Date: August 1st
+  - Date: August 1st
+
+  The date is now fixed.
+  {:.note}
 
 ## Lecture Notes, Literature and Other Materials
 
