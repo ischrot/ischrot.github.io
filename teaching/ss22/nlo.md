@@ -182,7 +182,7 @@ When?
 ## Final Exam
 
 Admission Requirements
-: - at least 50% of the points in the theoretical exercises **and** 2 points in the programming exercises.
+: - at least 50% of the points (=95 points) in the theoretical exercises **and** 2 points in the programming exercises.
   
   If you have an old admission, contact [me][ihno] as soon as possible.
   {:.note}
@@ -191,7 +191,8 @@ Exam Format
 : - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
-  - Date: August 1st
+  - Date: August 1st, from 11:00 - 13:00
+  - Room: Lecture Hall (HS) in INF 205
 
   The date is now fixed.
   {:.note}
