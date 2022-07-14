@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-07-12
+2022-07-14
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -92,6 +92,7 @@ Sheets
   | [Sheet 3][sheet3] | June 10th, 08:00am | [Template 03][temp3], [Auxiliary Functions 03][aux3] | [Solutions 3][sol3], [Prog. Solution 3][progsol3] | You find the definition of Newtons method on p. 90 in the lecture notes. This short definition is sufficient to solve the exercises on this sheet. |
   | [Sheet 4][sheet4] | June 24th, 08:00am | [Template 04][temp4], [Auxiliary Functions 04][aux4] | [Solutions 4][sol4], [Prog. Solution 4][progsol4] | |
   | [Sheet 5][sheet5] | July 15th, 08:00am  | [Template 05][temp5], [Auxiliary Functions 05][aux5]| | The deadline has been extended to July 15. |
+  | [SQP Exercises][sqp] | None  | | [SQP Solutions][sqpsol] | This sheet shall not be handed in. |
   
 
 General format
@@ -193,9 +194,7 @@ Exam Format
   - Theoretical and programming related questions (no coding on paper however)
   - Date: August 1st, from 11:00 - 13:00
   - Room: Lecture Hall (HS) in INF 205
-
-  The date is now fixed.
-  {:.note}
+  - [Exam Information/Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions.
 
 ## Lecture Notes, Literature and Other Materials
 
@@ -242,6 +241,10 @@ Other Materials
 [sheet5]: https://heibox.uni-heidelberg.de/f/f9753323b1ba469dbf59/
 [temp5]: https://heibox.uni-heidelberg.de/f/a5bba0763dd6458bbf6a/?dl=1
 [aux5]: https://heibox.uni-heidelberg.de/f/3c89198746a54450b4a3/?dl=1
+[sqp]: https://heibox.uni-heidelberg.de/f/3104b2671ff94f04ba86/ 
+[sqpsol]: https://heibox.uni-heidelberg.de/f/aaf4e3c33a324cf1b82c/
+
+[exprep]: https://heibox.uni-heidelberg.de/f/a4416d9f3ea54d6ca9d1/
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
