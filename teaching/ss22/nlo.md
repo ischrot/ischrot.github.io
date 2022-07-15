@@ -91,7 +91,7 @@ Sheets
   | [Sheet 2][sheet2]  | May 27th, 08:00am | The programming exercise has been moved to Sheet 3.  | [Solutions 2][sol2] | As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
   | [Sheet 3][sheet3] | June 10th, 08:00am | [Template 03][temp3], [Auxiliary Functions 03][aux3] | [Solutions 3][sol3], [Prog. Solution 3][progsol3] | You find the definition of Newtons method on p. 90 in the lecture notes. This short definition is sufficient to solve the exercises on this sheet. |
   | [Sheet 4][sheet4] | June 24th, 08:00am | [Template 04][temp4], [Auxiliary Functions 04][aux4] | [Solutions 4][sol4], [Prog. Solution 4][progsol4] | |
-  | [Sheet 5][sheet5] | July 15th, 08:00am  | [Template 05][temp5], [Auxiliary Functions 05][aux5]| | The deadline has been extended to July 15. |
+  | [Sheet 5][sheet5] | July 15th, 08:00am  | [Template 05][temp5], [Auxiliary Functions 05][aux5]| [Solutions 5][sol4], [Prog. Solution 5][progsol4] | The deadline has been extended to July 15. |
   | [SQP Exercises][sqp] | None  | | [SQP Solutions][sqpsol] | This sheet shall not be handed in. |
   
 
@@ -241,6 +241,8 @@ Other Materials
 [sheet5]: https://heibox.uni-heidelberg.de/f/f9753323b1ba469dbf59/
 [temp5]: https://heibox.uni-heidelberg.de/f/a5bba0763dd6458bbf6a/?dl=1
 [aux5]: https://heibox.uni-heidelberg.de/f/3c89198746a54450b4a3/?dl=1
+[sol5]: https://heibox.uni-heidelberg.de/f/7d0bbb0c142742e29cff/
+[progsol5]: https://heibox.uni-heidelberg.de/f/46eb537be2be46339008/?dl=1
 [sqp]: https://heibox.uni-heidelberg.de/f/3104b2671ff94f04ba86/ 
 [sqpsol]: https://heibox.uni-heidelberg.de/f/aaf4e3c33a324cf1b82c/
 
