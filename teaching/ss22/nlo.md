@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-07-15
+2022-07-18
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -189,11 +189,12 @@ Admission Requirements
   {:.note}
   
 Exam Format
-: - Written exam of 120min
+: - Date: **August 1st, from 11:00 - 13:00**
+  - Room: **Lecture Hall (HS) in INF 205**
+  - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
-  - Date: August 1st, from 11:00 - 13:00
-  - Room: Lecture Hall (HS) in INF 205
+  - The exam is not an open book exam. In fact, you are not allowed to bring any materials into the exam, i.e. you are not allowed to use cheat sheets or similar.
   - [Exam Information/Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions.
 
 ## Lecture Notes, Literature and Other Materials
