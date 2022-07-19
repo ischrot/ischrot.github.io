@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-07-18
+2022-07-19
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -162,6 +162,7 @@ When?
   | 09.06. | Working on the 3rd exercise sheet | |
   | 23.06. | Working on the 4th exercise sheet | |
   | 07.07. | Working on the 5th exercise sheet | |
+  | 14.07. | Working on the 5th exercise sheet | |
   | *TBA*  | Exam preparation | |
 
 ### Presentation of solutions
@@ -178,7 +179,7 @@ When?
   | 30.05. | 02.06. | Discussing solutions of the 2nd exercise sheet |
   | 13.06. | (Public Holiday) | Discussing solutions of the 3rd exercise sheet |
   | 27.06. | 30.06. | Discussing solutions of the 4th exercise sheet |
-  | 11.07. | 14.07. | Discussing solutions of the 5th exercise sheet |
+  | - | 21.07. | Discussing solutions of the 5th exercise sheet |
 
 ## Final Exam
 
