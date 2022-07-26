@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-07-19
+2022-07-26
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -91,7 +91,7 @@ Sheets
   | [Sheet 2][sheet2]  | May 27th, 08:00am | The programming exercise has been moved to Sheet 3.  | [Solutions 2][sol2] | As we did not yet cover the MFCQ and the Abadie CQ in the lecture, we will move the exercises 2.4 (c), 2.6 (c) and 2.7 to Exercise Sheet 3.  |
   | [Sheet 3][sheet3] | June 10th, 08:00am | [Template 03][temp3], [Auxiliary Functions 03][aux3] | [Solutions 3][sol3], [Prog. Solution 3][progsol3] | You find the definition of Newtons method on p. 90 in the lecture notes. This short definition is sufficient to solve the exercises on this sheet. |
   | [Sheet 4][sheet4] | June 24th, 08:00am | [Template 04][temp4], [Auxiliary Functions 04][aux4] | [Solutions 4][sol4], [Prog. Solution 4][progsol4] | |
-  | [Sheet 5][sheet5] | July 15th, 08:00am  | [Template 05][temp5], [Auxiliary Functions 05][aux5]| [Solutions 5][sol4], [Prog. Solution 5][progsol4] | The deadline has been extended to July 15. |
+  | [Sheet 5][sheet5] | July 15th, 08:00am  | [Template 05][temp5], [Auxiliary Functions 05][aux5]| [Solutions 5][sol5], [Prog. Solution 5][progsol5] | The deadline has been extended to July 15. |
   | [SQP Exercises][sqp] | None  | | [SQP Solutions][sqpsol] | This sheet shall not be handed in. |
   
 
