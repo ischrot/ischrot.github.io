@@ -190,10 +190,11 @@ Admission Requirements
   
 Exam Format
 : - Date: **August 1st, from 11:00 - 13:00**
+    
     Please arrive at 10:45
     {:.important}
   - Room:
-  - 
+ 
     | Last Name | Room |
     |-----------|------|
     | A - L     | Lecture Hall (HS) |
