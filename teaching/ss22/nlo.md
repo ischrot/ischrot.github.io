@@ -193,10 +193,12 @@ Exam Format
     Please arrive at 10:45
     {:.important}
   - Room:
+  - 
     | Last Name | Room |
     |-----------|------|
     | A - L     | Lecture Hall (HS) |
     | N - Z     | SR C |
+    
   - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
