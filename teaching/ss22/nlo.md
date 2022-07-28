@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-07-26
+2022-07-28
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -163,7 +163,6 @@ When?
   | 23.06. | Working on the 4th exercise sheet | |
   | 07.07. | Working on the 5th exercise sheet | |
   | 14.07. | Working on the 5th exercise sheet | |
-  | *TBA*  | Exam preparation | |
 
 ### Presentation of solutions
 
@@ -191,7 +190,13 @@ Admission Requirements
   
 Exam Format
 : - Date: **August 1st, from 11:00 - 13:00**
-  - Room: **Lecture Hall (HS) in INF 205**
+    Please arrive at 10:45
+    {:.important}
+  - Room:
+    | Last Name | Room |
+    |-----------|------|
+    | A - L     | Lecture Hall (HS) |
+    | N - Z     | SR C |
   - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
