@@ -192,7 +192,7 @@ Exam Format
 : - Date: **August 1st, from 11:00 - 13:00**
     
     Please arrive at 10:45
-    {:.important}
+    :.note title="Important"
   - Room:
  
     | Last Name | Room |
