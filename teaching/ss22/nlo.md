@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-07-28
+2022-09-14
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -189,16 +189,15 @@ Admission Requirements
   {:.note}
   
 Exam Format
-: - Date: **August 1st, from 11:00 - 13:00**
+: - Date and Room: 
+
+    | Exam | Date | Room |
+    |------|------|------|
+    |1st | August 1st, from 11:00 - 13:00 | HS and SR C |
+    |2nd | October 12th, from 11:15 - 13:15 | HS |
     
-    Please arrive at 10:45
+    Please arrive 15min earlier!
     {:.note title="Important"}
-  - Room:
- 
-    | Last Name | Room |
-    |-----------|------|
-    | A - L     | Lecture Hall (HS) |
-    | N - Z     | SR C |
     
   - Written exam of 120min
   - No programming project
