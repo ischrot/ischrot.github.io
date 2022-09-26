@@ -19,7 +19,7 @@ permalink: /teaching/
 ### Winter Term 2022/23
 
 In the winter term 2023 our workgroup offers the following courses at Heidelberg University: 
-  - [Nonlinear Optimization][node]
+  - [Numerical Optimization with Differential Equations][node]
   - [Seminar on Special Topics in Continuous Optimization and Optimal Control][sem23]
   
 ### Summer Term 2022
