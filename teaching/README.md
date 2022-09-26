@@ -8,7 +8,7 @@ sitemap: true
 permalink: /teaching/
 ---
 
-2022-04-12
+2022-09-26
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -16,6 +16,12 @@ permalink: /teaching/
 
 ## Courses
 
+### Winter Term 2022/23
+
+In the winter term 2023 our workgroup offers the following courses at Heidelberg University: 
+  - [Nonlinear Optimization][node]
+  - [Seminar on Special Topics in Continuous Optimization and Optimal Control][sem23]
+  
 ### Summer Term 2022
 
 In the summer term 2022 our workgroup offers the following courses at Heidelberg University: 
@@ -50,7 +56,8 @@ when I am supervising your thesis.
 
 The guidelines (still under construction) can be found [here][guidelines].
 
-
+[node]: ws22_23/node.md
+[sem23]: ws22_23/seminar.md
 [nlo]: ss22/nlo.md
 [sem]: ss22/seminar.md
 [prosem]: ss22/proseminar.md
