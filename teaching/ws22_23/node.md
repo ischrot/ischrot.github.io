@@ -87,12 +87,14 @@ Sheets
 : | Sheet | Deadline | Notebook Template | Solutions | Comments |
   |-------|----------|-------------------|-----------|----------|
   | Tutorial Sheet | None | | None | Not yet available |
+  
 <!--   | [Tutorial sheet][sheettut] | None | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] | -->
 
   
 
 General format
 : - _TBA_
+
 <!--   - **One** exercise sheet every **two** weeks
   - The first exercise sheet will be published April 29.
   - 5 (graded) exercise sheets with 40 points of theoretical exercises and one programming exercise per sheet. See below for more information on the grading.
@@ -100,9 +102,9 @@ General format
   - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampf]
   - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
-  - Information on the correction and the feedback see below. -->
-<!--   - The tutor can ask/allow you to revise your programming exercise once per sheet. -->
-<!--   - Solutions can be written in English and German.
+  - Information on the correction and the feedback see below.
+  - The tutor can ask/allow you to revise your programming exercise once per sheet.
+  - Solutions can be written in English and German.
   - Plagiarism leads to 0 points for all involved teams (that also applies to plagiarism of the solutions from the winter term 20/21)!
   - Sample solutions will be uploaded in [MaMpf][mampf] and linked in the table above. -->
   
@@ -114,6 +116,7 @@ Programming exercises format
 
 Submission procedure
 : _TBA_
+
 <!--   - Both the theoretical and the programming exercises are submitted digitally.
   - The solutions to the theoretical questions have to be submitted as **one PDF** file. Solutions created in LaTeX are allowed as long as the names of the team members are also added using LateX. If you scan handwritten solutions, please make sure that the solutions remain readable and have a moderate file size! Digitally handwritten solutions are accepted, too.
   - The programming exercises have to be submitted as **one Jupyter notebook**.
@@ -211,6 +214,7 @@ Lecture Notes
 
 Literature
 : _TBA_
+
 <!--   - Nocedal, Wright: Numerical Optimization, Springer, 2006.
   - Fletcher: Practical Methods of Optimization, Wiley, 2nd edition 1987.
   - Ulbrich, Ulbrich: Nichtlineare Optimierung, Birkhäuser Verlag, 2012. (German) -->
