@@ -17,5 +17,5 @@ In the winter term 2023 our workgroup offers the following courses at Heidelberg
 
 
 
-[nlo]: node.md
+[node]: node.md
 [sem]: seminar.md
