@@ -140,8 +140,7 @@ General recommendations
   - Ulbrich, Michael, and Stefan Ulbrich. Nichtlineare Optimierung. Springer-Verlag, 2012.
     
 Recommendations by topics
-:
-  CG-Methods
+: CG-Methods
   : - J. Nocedal, S.J. Wright. Numerical Optimization, Springer, 2006. Ch. 5, pp. 101–133.
     - Published papers about new research results on the field of nonlinear CG-methods
   
