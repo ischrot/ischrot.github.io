@@ -170,8 +170,8 @@ _TBA_
 
 ### Model Order Reduction
 General recommendations
-: - Model Order Reduction: Volume 1: System- and Data-Driven Methods and Algorithms, Berlin, Boston: De Gruyter, 2021. https://doi.org/10.1515/9783110498967 
-  - Model Order Reduction: Volume 2: Snapshot-Based Methods and Algorithms, Berlin, Boston: De Gruyter, 2020. https://doi.org/10.1515/9783110671490 
+: - Model Order Reduction: Volume 1: System- and Data-Driven Methods and Algorithms, Berlin, Boston: De Gruyter, 2021. [https://doi.org/10.1515/9783110498967][morvol1]
+  - Model Order Reduction: Volume 2: Snapshot-Based Methods and Algorithms, Berlin, Boston: De Gruyter, 2020. [https://doi.org/10.1515/9783110671490][morvol2]
 
 Recommendations by topics
 : Proper Orthogonal Decomposition (POD)
@@ -213,5 +213,7 @@ Recommendations by topics
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
 [vpn]: https://www.urz.uni-heidelberg.de/en/service-catalogue/network/vpn-virtual-private-network
 
+[morvol1]: https://doi.org/10.1515/9783110498967
+[morvol2]: https://doi.org/10.1515/9783110671490
 [volkwein]: https://www.math.uni-konstanz.de/numerik/personen/volkwein/teaching/2017WS-LQR-POD-Skript.pdf
 
