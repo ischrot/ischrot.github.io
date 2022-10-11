@@ -79,7 +79,11 @@ We have talks from three different fields on offer. We will agree on a field in 
 7. Robust Nonconvex Optimization
 
 ### Optimization for Data Science
-_TBA_
+1. Subgradient Methods
+2. Mirror Descent
+3. Proximal Gradient Methods
+4. Accelerated Gradient Methods
+5. Smoothing for Nonsmooth Optimization
 
 ### Model Order Reduction
 1. Proper Orthogonal Decomposition (POD)
@@ -166,7 +170,38 @@ Computers Chem. Engng Vol.2 No. 9, pp. 1137-1158. (1998).
   :   -  B. Houska. Robust Optimization of Dynamic Systems. Chapter 3-4. (2011).
   
 ### Optimization for Data Science
-_TBA_
+
+Subgradient Methods
+: - Sor, Naum Z., Minimization methods for non-dierentiable functions, Springer (Berlin),
+1985 (in particular chapters 1,2, 4; available at the library in the Mathematikon)
+  - Convex Optimization Theory, Athena Scientic, 2009 by D.P. Bertsekas, MIT,
+Supplementary Chapter 6 on Convex Optimization Algorithms (2014) (in particular
+chapter 6.3)
+  - Convex Optimization: Algorithms and Complexity, S. Bubeck, Foundations and Trends in
+Machine Learning, 2015 (in particular chapter 3.1)
+
+Mirror Descent
+: - Convex Optimization: Algorithms and Complexity, S. Bubeck, Foundations and Trends in
+Machine Learning, 2015 (in particular, chapter 4)
+  - Mirror descent and nonlinear projected subgradient methods for convex optimization, A.
+Beck and M. Teboulle, Operation Research Letters, 2002
+
+Proximal Gradient Methods
+: - Amir Beck and Marc Teboulle, Gradient-Based Algorithms with Applications to Signal
+Recovery Problems (Convex optimization in signal processing and communications, 2009)
+(in particular sections 1.1 - 1.4)
+  - Neal Parikh and Stephen Boyd, Proximal Algorithms (Foundations and Trends in
+Optimization, 2014) (in particular chapters 1, 2, 4.2, 6, 7.1)
+
+Accelerated Gradient Methods
+: - Wright, Stephen J. "Optimization algorithms for data analysis." The Mathematics of Data
+25 (2018): 49. (in particular section 6)
+
+Smoothing for Nonsmooth Optimization
+: - Amir Beck and Marc Teboulle, Smoothing and First Order methods: A Unied Framework
+(SIAM Journal of Optimization, 2012)
+  - Yuri Nesterov. Smooth minimization of non-smooth functions, (Mathematical
+programming 103.1, 2005)
 
 ### Model Order Reduction
 General recommendations
