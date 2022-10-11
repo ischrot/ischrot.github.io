@@ -175,8 +175,7 @@ General recommendations
   - Model Order Reduction: Volume 2: Snapshot-Based Methods and Algorithms, Berlin, Boston: De Gruyter, 2020. https://doi.org/10.1515/9783110671490 
 
 Recommendations by topics
-:
-  Proper Orthogonal Decomposition (POD)
+: Proper Orthogonal Decomposition (POD)
   : - [Lecture Notes of Stefan Volkwein][volkwein]
     - Chapter 2 of Model Order Reduction Volume 2
   
