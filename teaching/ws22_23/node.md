@@ -86,7 +86,7 @@ General format
   - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampf]
   - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
-  - Information on the correction and the feedback see below.
+<!--   - Information on the correction and the feedback see below. -->
 <!--   - The tutor can ask/allow you to revise your programming exercise once per sheet. -->
   - Solutions can be written in English and German.
   - Plagiarism leads to 0 points for all involved teams (that also applies to plagiarism of the solutions from the summer term 2021)!
@@ -109,7 +109,7 @@ Submission procedure
   - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampf].
   - A guide how to submit solutions on [MaMpf][mampf] can be found [here][subguide].
   - You receive feedback from Laura via MaMpf, too.
-  - Solutions will be presented 
+  - Solutions will be presented in the [tutorial][tuts].
 
 ## Lecture Format
 
@@ -148,6 +148,7 @@ Admission Requirements
   
 Exam Format
 : _TBA_
+
 <!--   - Date and Room: _TBA_
   - Written exam of 120min
   - No programming project
@@ -174,7 +175,7 @@ Other Materials
 [tuts]: #tutorial-format
 [ws]: #collaborative-working-session
 [sol]: #presentation-of-solutions
-[material]: #lecture-notes,-literature-and-other-materials
+[material]: #lecture-notes-literature-and-other-materials
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
