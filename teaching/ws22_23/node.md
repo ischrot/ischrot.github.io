@@ -106,13 +106,13 @@ Submission procedure
   - You receive feedback from Laura via MaMpf, too.
   - Solutions will be presented in the [tutorial][tuts].
 
-## Lecture Format
+## Lecture
 
 The lectures take place in person and in a "classical" format, i.e. Prof. Kostina will present the lecture content in the lectures.
 
 Handwritten lecture notes will be uploaded on [MaMpf][mampf]. Moreover, lecture notes from the course in the summer term 2021 are available, see [other materials][material].
 
-## Tutorial Format
+## Tutorial
 
 What?
 : In these tutorials [Laura][laura] will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions.
@@ -171,7 +171,7 @@ Other Materials
 [nbtut1]: https://heibox.uni-heidelberg.de/f/562a0f50d9ed446e8102/?dl=1
 [nbtut2]: https://heibox.uni-heidelberg.de/f/1f37115e2ce44adda174/?dl=1
 
-[tuts]: #tutorial-format
+[tuts]: #tutorial
 [ws]: #collaborative-working-session
 [sol]: #presentation-of-solutions
 [material]: #lecture-notes-literature-and-other-materials
