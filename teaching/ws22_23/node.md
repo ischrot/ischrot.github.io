@@ -74,9 +74,7 @@ Registration
 Sheets
 : | Sheet | Deadline | Notebook Template | Solutions | Comments |
   |-------|----------|-------------------|-----------|----------|
-  | Tutorial Sheet | None | | None | Not yet available |
-  
-<!--   | [Tutorial sheet][sheettut] | None | | None | Tutorial notebooks\: [python\_for\_nlo][nbtut1] [python_tut_cebulla][nbtut2] | -->
+  | [Python tutorial][sheettut] | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] | None |  |
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -86,8 +84,6 @@ General format
   - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampf]
   - Submission procedure see below.
   - Work in teams allowed **and encouraged** with up to 3 persons per team
-<!--   - Information on the correction and the feedback see below. -->
-<!--   - The tutor can ask/allow you to revise your programming exercise once per sheet. -->
   - Solutions can be written in English and German.
   - Plagiarism leads to 0 points for all involved teams (that also applies to plagiarism of the solutions from the summer term 2021)!
   - Sample solutions will be uploaded in [MaMpf][mampf] and linked in the table above.
@@ -96,7 +92,6 @@ Programming exercises format
 : - Programming language: Python
   - You get templates that you have to complete.
   - The templates are a single Jupyter notebook for each sheet (sometimes accompanied by a Python file with auxiliary functions)
-  - A Python tutorial will be available soon.
 
 Submission procedure
 : - Both the theoretical and the programming exercises are submitted digitally.
@@ -123,11 +118,11 @@ What?
 : In these tutorials [Laura][laura] will present (some of the) solutions of the previous exercise sheet and answer specific questions to your solutions.
 
 When?
-: In the first week after you submitted your solutions/the new exercise sheet has been published. I.e., the dates are:
+: In the first week after you submitted your solutions, i.e., the dates are:
   
   | Date | Topic |
   |------|-------|
-  | _TBA_ | Help desk for the Python tutorial |
+  | October 25th | Help desk for the Python tutorial |
   | _TBA_ | Discussing solutions of the 1st exercise sheet |
   | _TBA_ | Discussing solutions of the 2nd exercise sheet |
   | _TBA_ | Discussing solutions of the 3rd exercise sheet |
@@ -171,6 +166,10 @@ Literature
 Other Materials
 : - [MaMpf (SS 21)][mampfold] -> Here you find all materials from the last time that we have taught this course
 <!--   - [Skript][skript] -> Lecture Notes from the winter term 2011 (German) -->
+
+[sheettut]: https://heibox.uni-heidelberg.de/f/d1279b19a40448b68e15/
+[nbtut1]: https://heibox.uni-heidelberg.de/f/562a0f50d9ed446e8102/?dl=1
+[nbtut2]: https://heibox.uni-heidelberg.de/f/1f37115e2ce44adda174/?dl=1
 
 [tuts]: #tutorial-format
 [ws]: #collaborative-working-session
