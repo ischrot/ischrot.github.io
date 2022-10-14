@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-10-13
+2022-10-14
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -30,7 +30,7 @@ Tutor
 : - [Laura Femmer][laura]
 
 First Lecture
-: Thursday, October 20, 11:15, in SR B in INF 205 (Mathematikon) 
+: Monday, October 17, 11:15, in SR B in INF 205 (Mathematikon) 
 
 Lecture and Tutorial Dates
 : Lectures
@@ -78,7 +78,7 @@ Sheets
 
 General format
 : - **One** exercise sheet every **two** weeks
-  - The first exercise sheet will be published _TBA_.
+  - The first exercise sheet will be published on Friday, October 28th.
   - We plan to have 6 (graded) exercise sheets with 20 points of theoretical exercises and 10 points of programming exercise per sheet.
   - Release: Fridays (biweekly) on [MaMpf][mampf] and in the table above.
   - Submission deadline: Fridays (biweekly) until 08:00am on [MaMpf][mampf]
@@ -142,14 +142,12 @@ Admission Requirements
   {:.note}
   
 Exam Format
-: _TBA_
-
-<!--   - Date and Room: _TBA_
+: - Date and Room: 16.02.22, 11:00-13:00 in SR B (INF 205)
   - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
   - The exam is not an open book exam. In fact, you are not allowed to bring any materials into the exam, i.e. you are not allowed to use cheat sheets or similar.
-  - [Exam Information/Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions. -->
+<!--   - [Exam Information/Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions. -->
 
 ## Lecture Notes, Literature and Other Materials
 
