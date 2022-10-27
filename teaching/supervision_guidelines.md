@@ -224,7 +224,7 @@ What?
 
 ## Ressources 
 
-TODO
+Still TODO
 
 [init]: #initial-contact
 [orga_meet]: #organisational-meeting
