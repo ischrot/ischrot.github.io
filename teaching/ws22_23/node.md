@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-10-14
+2022-10-28
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -72,9 +72,10 @@ Registration
 ## Exercises
 
 Sheets
-: | Sheet | Deadline | Notebook Template | Solutions | Comments |
-  |-------|----------|-------------------|-----------|----------|
-  | [Python tutorial][sheettut] | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] | None |  |
+: | Sheet | Deadline | Solutions | Comments |
+  |-------|----------|-----------|----------|
+  | [Python tutorial][sheettut] | None | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] |
+  | [Sheet 01][sheet1] | November 11th, 2022 | | |
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -87,11 +88,8 @@ General format
   - Solutions can be written in English and German.
   - Plagiarism leads to 0 points for all involved teams (that also applies to plagiarism of the solutions from the summer term 2021)!
   - Sample solutions will be uploaded in [MaMpf][mampf] and linked in the table above.
-  
-Programming exercises format
-: - Programming language: Python
-  - You get templates that you have to complete.
-  - The templates are a single Jupyter notebook for each sheet (sometimes accompanied by a Python file with auxiliary functions)
+  - Programming language: Python
+  - The programming exercises are to be solved using Jupyter notebooks.
 
 Submission procedure
 : - Both the theoretical and the programming exercises are submitted digitally.
@@ -123,9 +121,9 @@ When?
   | Date | Topic |
   |------|-------|
   | October 25th | Help desk for the Python tutorial |
-  | _TBA_ | Discussing solutions of the 1st exercise sheet |
-  | _TBA_ | Discussing solutions of the 2nd exercise sheet |
-  | _TBA_ | Discussing solutions of the 3rd exercise sheet |
+  | November 15th | Discussing solutions of the 1st exercise sheet |
+  | November 29th | Discussing solutions of the 2nd exercise sheet |
+  | December 13th | Discussing solutions of the 3rd exercise sheet |
   | _TBA_ | Discussing solutions of the 4th exercise sheet |
   | _TBA_ | Discussing solutions of the 5th exercise sheet |
   | _TBA_ | Discussing solutions of the 5th exercise sheet |
@@ -168,6 +166,7 @@ Other Materials
 [sheettut]: https://heibox.uni-heidelberg.de/f/d1279b19a40448b68e15/
 [nbtut1]: https://heibox.uni-heidelberg.de/f/562a0f50d9ed446e8102/?dl=1
 [nbtut2]: https://heibox.uni-heidelberg.de/f/1f37115e2ce44adda174/?dl=1
+[sheet1]: https://heibox.uni-heidelberg.de/f/b1f8da1b64754e17b731/
 
 [tuts]: #tutorial
 [ws]: #collaborative-working-session
