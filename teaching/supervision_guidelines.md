@@ -7,7 +7,7 @@ hide_description: false
 sitemap: false
 ---
 
-2022-10-28  
+2022-10-28
 {:.note title="Last modified at"}
 
 * I need this empty list to make the TOC work
@@ -196,7 +196,9 @@ What?
   | Which open questions or problems do you currently have? | Answer open questions. |
   | If you and your supervisor agreed on this, send a text excerpt to your supervisor 1-2 weeks **before** to get feedback. | Possibly read text excerpts and provide feedback on the writing style and the content. |
   | | Possibly share relevant literature, events, etc. that you have discovered recently. |
-
+  
+  Around 1-1.5 months before the deadline the writing process should move into the focus. Still, the regular meetings go on - the discussions just slowly focus more strongly on the writing process.
+  
   > Always be honest about your progress and problems! Nobody's perfect and it's absolutely fine if things are not going to plan. But only if you are honest about that, your supervisor can help you!
   {:.lead}
 
@@ -212,18 +214,16 @@ What's next?
   The last point is very important and goes along with the advice to always be honest about your progress and problems, see above.
   {:.note}
 
-## Final Phase before Submitting your Thesis
-
-TODO
-
-
 ## Defense of the Thesis
 
-TODO
+When?
+: Shortly before or shortly after the submission of your thesis.
+
+What?
+: In the defense of the thesis you give a presentation about your thesis and answer questions about it. As a preparation you should talk with your supervisor once - probably just in the schedule of the [regular meetings][reg_meet] - in order to discuss the formalities and expectations regarding your talk. If your supervisor has agreed to this, you might want to meet a second time for a rehearsal talk. However, the latter is rather unusual.
 
 ## Ressources 
 
-### Writing an exposé
 TODO
 
 [init]: #initial-contact
