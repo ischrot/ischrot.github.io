@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-10-28
+2022-11-04
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -140,7 +140,9 @@ Admission Requirements
   {:.note}
   
 Exam Format
-: - Date and Room: 16.02.22, 11:00-13:00 in SR B (INF 205)
+: - Date and Room: 
+      - First exam: 16.02.23, 11:00-13:00 in SR B (INF 205)
+      - Second exam: 14.04.23
   - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
