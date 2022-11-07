@@ -180,6 +180,6 @@ Other Materials
 [laura]: mailto:laura(dot)femmer(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1603
 [mampfold]: https://mampf.mathi.uni-heidelberg.de/lectures/90
-[mampf]: https://mampf.mathi.uni-heidelberg.de/
+[mampf]: https://mampf.mathi.uni-heidelberg.de/lectures/144
 [subguide]: https://mampf.blog/handing-in-homework-assignments/
 
