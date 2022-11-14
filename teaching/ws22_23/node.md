@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-11-11
+2022-11-14
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -76,6 +76,7 @@ Sheets
   |-------|----------|-----------|----------|
   | [Python tutorial][sheettut] | None | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | |
+  | [Sheet 02][sheet2] | November 25th, 2022 | | |
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -170,7 +171,9 @@ Other Materials
 [nbtut2]: https://heibox.uni-heidelberg.de/f/1f37115e2ce44adda174/?dl=1
 [sheet1]: https://heibox.uni-heidelberg.de/f/b1f8da1b64754e17b731/
 [theosol1]: https://heibox.uni-heidelberg.de/f/c23da17629df45de9448/
-[progsol1]: https://heibox.uni-heidelberg.de/f/fe7f44e4c91c4dadabb5/?dl=1 
+[progsol1]: https://heibox.uni-heidelberg.de/f/fe7f44e4c91c4dadabb5/?dl=1
+[sheet2]: https://heibox.uni-heidelberg.de/f/8aaa762fa3ad437aa312/
+
 [tuts]: #tutorial
 [ws]: #collaborative-working-session
 [sol]: #presentation-of-solutions
