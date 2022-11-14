@@ -75,7 +75,7 @@ Sheets
 : | Sheet | Deadline | Solutions | Comments |
   |-------|----------|-----------|----------|
   | [Python tutorial][sheettut] | None | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] |
-  | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | |
+  | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | Solutions updated on November 14th. |
   | [Sheet 02][sheet2] | November 25th, 2022 | | |
 
 General format
