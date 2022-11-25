@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-11-14
+2022-11-25
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -29,8 +29,8 @@ Organizers
 Tutor
 : - [Laura Femmer][laura]
 
-First Lecture
-: Monday, October 17, 11:15, in SR B in INF 205 (Mathematikon) 
+<!-- First Lecture
+: Monday, October 17, 11:15, in SR B in INF 205 (Mathematikon)  -->
 
 Lecture and Tutorial Dates
 : Lectures
