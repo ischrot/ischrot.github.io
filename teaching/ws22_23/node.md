@@ -76,7 +76,8 @@ Sheets
   |-------|----------|-----------|----------|
   | [Python tutorial][sheettut] | None | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | Solutions updated on November 14th. |
-  | [Sheet 02][sheet2] | November 25th, 2022 | | |
+  | [Sheet 02][sheet2] | November 25th, 2022 | [Theor. Exe. 02][theosol2] [Prog. Exe. 02][progsol2] | |
+  | [Sheet 03][sheet3] | December 09th, 2022 |  | |
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -173,6 +174,9 @@ Other Materials
 [theosol1]: https://heibox.uni-heidelberg.de/f/c23da17629df45de9448/
 [progsol1]: https://heibox.uni-heidelberg.de/f/fe7f44e4c91c4dadabb5/?dl=1
 [sheet2]: https://heibox.uni-heidelberg.de/f/8aaa762fa3ad437aa312/
+[theosol2]: https://heibox.uni-heidelberg.de/f/fa9b2062e91b4b629b62/
+[progsol2]: https://heibox.uni-heidelberg.de/f/2654d36491e6457f8af7/?dl=1
+[sheet3]: https://heibox.uni-heidelberg.de/f/1370fa7dff0747adbd5b/
 
 [tuts]: #tutorial
 [ws]: #collaborative-working-session
