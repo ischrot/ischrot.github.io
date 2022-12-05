@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-11-25
+2022-12-05
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -77,7 +77,7 @@ Sheets
   | [Python tutorial][sheettut] | None | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | Solutions updated on November 14th. |
   | [Sheet 02][sheet2] | November 25th, 2022 | [Theor. Exe. 02][theosol2] [Prog. Exe. 02][progsol2] | Solutions updated on November 25th. |
-  | [Sheet 03][sheet3] | December 09th, 2022 |  | |
+  | [Sheet 03][sheet3] | December 09th, 2022 |  | Updated on December 05th as there was an innacuracy in the description of the prog. exe. |
 
 General format
 : - **One** exercise sheet every **two** weeks
