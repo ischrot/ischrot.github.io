@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-12-05
+2022-12-08
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -77,7 +77,10 @@ Sheets
   | [Python tutorial][sheettut] | None | None | [python\_for\_node][nbtut1] [python_tut_cebulla][nbtut2] |
   | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | Solutions updated on November 14th. |
   | [Sheet 02][sheet2] | November 25th, 2022 | [Theor. Exe. 02][theosol2] [Prog. Exe. 02][progsol2] | Solutions updated on November 25th. |
-  | [Sheet 03][sheet3] | December 09th, 2022 |  | Updated on December 05th as there was an innacuracy in the description of the prog. exe. |
+  | [Sheet 03][sheet3] | December 09th, 2022 |  |  |
+  | Sheet 04 | January 06th, 2023 |  | We encourage you to submit by December 23rd so you can enjoy some free time over Christmas :) |
+  | Sheet 05 | January 20th, 2023 |  |  |
+  | Sheet 06 | February 03rd, 2023 |  |  |
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -126,9 +129,9 @@ When?
   | November 15th | Discussing solutions of the 1st exercise sheet |
   | November 29th | Discussing solutions of the 2nd exercise sheet |
   | December 13th | Discussing solutions of the 3rd exercise sheet |
-  | _TBA_ | Discussing solutions of the 4th exercise sheet |
-  | _TBA_ | Discussing solutions of the 5th exercise sheet |
-  | _TBA_ | Discussing solutions of the 5th exercise sheet |
+  | January 10th  | Discussing solutions of the 4th exercise sheet |
+  | January 24th  | Discussing solutions of the 5th exercise sheet |
+  | February 07th | Discussing solutions of the 6th exercise sheet |
 
 We want to make sure that the tutorials are as effective as possible for you, so we can possibly still adjust the formats to your needs. Therefore, feedback is always welcome.
 {:.note}
@@ -156,8 +159,8 @@ Exam Format
 Lecture Notes
 : The lecture notes will be uploaded on [MaMpf][mampf].
 
-Literature
-: _TBA_
+<!-- Literature
+: _TBA_ -->
 
 <!--   - Nocedal, Wright: Numerical Optimization, Springer, 2006.
   - Fletcher: Practical Methods of Optimization, Wiley, 2nd edition 1987.
