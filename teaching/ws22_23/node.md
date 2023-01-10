@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2022-12-21
+2023-01-10
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -78,8 +78,8 @@ Sheets
   | [Sheet 01][sheet1] | November 11th, 2022 | [Theor. Exe. 01][theosol1] [Prog. Exe. 01][progsol1] | Solutions updated on November 14th. |
   | [Sheet 02][sheet2] | November 25th, 2022 | [Theor. Exe. 02][theosol2] [Prog. Exe. 02][progsol2] | Solutions updated on November 25th. |
   | [Sheet 03][sheet3] | December 09th, 2022 | [Theor. Exe. 03][theosol3] [Prog. Exe. 03][progsol3] | Solutions updated on December 21st. |
-  | [Sheet 04][sheet4] | January 06th, 2023 |  | We encourage you to submit by December 23rd so you can enjoy some free time over Christmas :) |
-  | Sheet 05 | January 20th, 2023 |  |  |
+  | [Sheet 04][sheet4] | January 06th, 2023 | [Theor. Exe. 04][theosol4] [Prog. Exe. 04][progsol4] | Solutions updated on January 10th. |
+  | [Sheet 05][sheet5] | January 20th, 2023 |  |  |
   | Sheet 06 | February 03rd, 2023 |  |  |
 
 General format
@@ -182,7 +182,10 @@ Other Materials
 [sheet3]: https://heibox.uni-heidelberg.de/f/1370fa7dff0747adbd5b/
 [theosol3]: https://heibox.uni-heidelberg.de/f/af0e52c67bd7414bb450/
 [progsol3]: https://heibox.uni-heidelberg.de/f/1cedb00f1f034cf9bed7/?dl=1
-[sheet4]: https://heibox.uni-heidelberg.de/f/22ef91988ab74ff4b3d0/ 
+[sheet4]: https://heibox.uni-heidelberg.de/f/22ef91988ab74ff4b3d0/
+[theosol4]: https://heibox.uni-heidelberg.de/f/3024a79867df45e4836a/
+[progsol4]: https://heibox.uni-heidelberg.de/f/bf37f63006f64192b3f7/?dl=1
+[sheet5]: https://heibox.uni-heidelberg.de/f/298e64b3e33f47babb7f/
 
 [tuts]: #tutorial
 [ws]: #collaborative-working-session
