@@ -146,6 +146,7 @@ Admission Requirements
   
 Exam Format
 : - Date and Room:
+
     | Exam | Date | Room |
     |------|------|------|
     |1st | February 16th, from 11:00 - 13:00 | SR B (INF 205) |
