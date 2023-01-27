@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-01-10
+2023-01-27
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -79,8 +79,8 @@ Sheets
   | [Sheet 02][sheet2] | November 25th, 2022 | [Theor. Exe. 02][theosol2] [Prog. Exe. 02][progsol2] | Solutions updated on November 25th. |
   | [Sheet 03][sheet3] | December 09th, 2022 | [Theor. Exe. 03][theosol3] [Prog. Exe. 03][progsol3] | Solutions updated on December 21st. |
   | [Sheet 04][sheet4] | January 06th, 2023 | [Theor. Exe. 04][theosol4] [Prog. Exe. 04][progsol4] | Solutions updated on January 10th. |
-  | [Sheet 05][sheet5] | January 20th, 2023 |  |  |
-  | Sheet 06 | February 03rd, 2023 |  |  |
+  | [Sheet 05][sheet5] | January 20th, 2023 | [Theor. Exe. 05][theosol5] [Prog. Exe. 05][progsol5] | Solutions updated on January 27th. |
+  | [Sheet 06][sheet6] | February 10th, 2023 |  |  |
 
 General format
 : - **One** exercise sheet every **two** weeks
@@ -131,7 +131,7 @@ When?
   | December 13th | Discussing solutions of the 3rd exercise sheet |
   | January 10th  | Discussing solutions of the 4th exercise sheet |
   | January 24th  | Discussing solutions of the 5th exercise sheet |
-  | February 07th | Discussing solutions of the 6th exercise sheet |
+  | February 14th | Discussing solutions of the 6th exercise sheet or question hour |
 
 We want to make sure that the tutorials are as effective as possible for you, so we can possibly still adjust the formats to your needs. Therefore, feedback is always welcome.
 {:.note}
@@ -145,14 +145,26 @@ Admission Requirements
   {:.note}
   
 Exam Format
-: - Date and Room: 
-      - First exam: 16.02.23, 11:00-13:00 in SR B (INF 205)
-      - Second exam: 14.04.23
+: - Date and Room:
+    | Exam | Date | Room |
+    |------|------|------|
+    |1st | February 16th, from 11:00 - 13:00 | SR B (INF 205) |
+    |2nd | April 14th, from *TBA* | *TBA* |
+
+    Please arrive 15min earlier!
+    {:.note title="Important"}
+
   - Written exam of 120min
   - No programming project
   - Theoretical and programming related questions (no coding on paper however)
   - The exam is not an open book exam. In fact, you are not allowed to bring any materials into the exam, i.e. you are not allowed to use cheat sheets or similar.
-<!--   - [Exam Information/Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions. -->
+  - [Exam Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions.
+
+Registration
+: - There won't be a dedicated registration for the first exam. Instead, everyone who has passed the admission requirements for the exam, will be registered for the first exam.
+  - For the second exam, everyone who has failed the first exam or missed the exam due to illness - in this case a doctor's note is required! - or who have sent [me][ihno] an email before the first exam stating that they only want to take the second exam, will be automatically registered.
+  - Note that there will be no more exam dates than these two (16.02, 14.04). This means that if you miss the second exam due to illness, you won't have another chance to take the exam this semester.
+  - If you plan to miss an exam for which you have been registered, please send [me][ihno] an email as soon as possible.
 
 ## Lecture Notes, Literature and Other Materials
 
@@ -168,6 +180,7 @@ Lecture Notes
 
 Other Materials
 : - [MaMpf (SS 21)][mampfold] -> Here you find all materials from the last time that we have taught this course
+  - [Exam Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions.
 <!--   - [Skript][skript] -> Lecture Notes from the winter term 2011 (German) -->
 
 [sheettut]: https://heibox.uni-heidelberg.de/f/d1279b19a40448b68e15/
@@ -186,6 +199,11 @@ Other Materials
 [theosol4]: https://heibox.uni-heidelberg.de/f/3024a79867df45e4836a/
 [progsol4]: https://heibox.uni-heidelberg.de/f/bf37f63006f64192b3f7/?dl=1
 [sheet5]: https://heibox.uni-heidelberg.de/f/298e64b3e33f47babb7f/
+[theosol5]: https://heibox.uni-heidelberg.de/f/d8094f828a3049d2b9a9/
+[progsol5]: https://heibox.uni-heidelberg.de/f/4f3b6fd8a63e4cfcbbe6/?dl=1
+[sheet6]: https://heibox.uni-heidelberg.de/f/aa14587d9dfa41b18aec/
+
+[exprep]: https://heibox.uni-heidelberg.de/f/e43c79198b754515a36c/
 
 [tuts]: #tutorial
 [ws]: #collaborative-working-session
