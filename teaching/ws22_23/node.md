@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-01-27
+2023-02-06
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -80,7 +80,7 @@ Sheets
   | [Sheet 03][sheet3] | December 09th, 2022 | [Theor. Exe. 03][theosol3] [Prog. Exe. 03][progsol3] | Solutions updated on December 21st. |
   | [Sheet 04][sheet4] | January 06th, 2023 | [Theor. Exe. 04][theosol4] [Prog. Exe. 04][progsol4] | Solutions updated on January 10th. |
   | [Sheet 05][sheet5] | January 20th, 2023 | [Theor. Exe. 05][theosol5] [Prog. Exe. 05][progsol5] | Solutions updated on January 27th. |
-  | [Sheet 06][sheet6] | February 10th, 2023 |  |  |
+  | [Sheet 06][sheet6] | February 10th, 2023 |  | Update (February 06th): All exercises are considered for the evaluation. In Programming Exercise 6 the reference to the tutorial notebook, which includes an example usage of SLSQP, has been fixed. |
 
 General format
 : - **One** exercise sheet every **two** weeks
