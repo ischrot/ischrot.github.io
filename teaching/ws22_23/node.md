@@ -131,7 +131,7 @@ When?
   | December 13th | Discussing solutions of the 3rd exercise sheet |
   | January 10th  | Discussing solutions of the 4th exercise sheet |
   | January 24th  | Discussing solutions of the 5th exercise sheet |
-  | February 14th | Discussing solutions of the 6th exercise sheet or question hour |
+  | February 14th | Discussing solutions of the 6th exercise sheet |
 
 We want to make sure that the tutorials are as effective as possible for you, so we can possibly still adjust the formats to your needs. Therefore, feedback is always welcome.
 {:.note}
@@ -150,7 +150,7 @@ Exam Format
     | Exam | Date | Room |
     |------|------|------|
     |1st | February 16th, from 11:00 - 13:00 | SR B (INF 205) |
-    |2nd | April 14th, from *TBA* | *TBA* |
+    |2nd | April 14th, from 09:00 - 11:00 | Lecture Hall (HS, INF 205) |
 
     Please arrive 15min earlier!
     {:.note title="Important"}
