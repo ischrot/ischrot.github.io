@@ -11,7 +11,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-02-15
+2023-03-23
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -150,7 +150,7 @@ Exam Format
     | Exam | Date | Room |
     |------|------|------|
     |1st | February 16th, from 11:00 - 13:00 | SR B (INF 205) |
-    |2nd | April 14th, from 09:00 - 11:00 | Lecture Hall (HS, INF 205) |
+    |2nd | April 13th, from 09:00 - 11:00 | Lecture Hall (HS, INF 205) |
 
     Please arrive 15min earlier!
     {:.note title="Important"}
