@@ -247,7 +247,7 @@ Recommendations by topics
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
 [marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
-[muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1605
+[muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1692
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
 [vpn]: https://www.urz.uni-heidelberg.de/en/service-catalogue/network/vpn-virtual-private-network
 
