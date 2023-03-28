@@ -17,5 +17,5 @@ In the summer term 2023 our workgroup offers the following courses at Heidelberg
 
 
 
-[node]: numerik.md
+[num]: numerik.md
 [sem]: seminar.md
