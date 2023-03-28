@@ -88,6 +88,7 @@ Allgemeines Format
 
 Abgabeprozedur
 : *TBA*
+
 <!-- : - Both the theoretical and the programming exercises are submitted digitally.
   - The solutions to the theoretical questions have to be submitted as **one PDF** file. Solutions created in LaTeX are allowed. If you scan handwritten solutions, please make sure that the solutions remain readable and have a moderate file size! Digitally handwritten solutions are accepted, too.
   - The programming exercises have to be submitted as **one Jupyter notebook**.
