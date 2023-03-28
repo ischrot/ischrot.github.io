@@ -19,7 +19,7 @@ permalink: /teaching/
 ### Summer Term 2023
 
 In the summer term 2023 our workgroup offers the following courses at Heidelberg University: 
-  - Numerik (website is not yet available)
+  - [Numerik][num]
   - [Seminar on Special Topics in Continuous Optimization and Optimal Control][semss23]
 
 ### Winter Term 2022/23
@@ -62,6 +62,7 @@ when I am supervising your thesis.
 
 The guidelines (still under construction) can be found [here][guidelines].
 
+[num]: ss23/numerik.md
 [semss23]: ss23/seminar.md
 [node]: ws22_23/node.md
 [sem23]: ws22_23/seminar.md
