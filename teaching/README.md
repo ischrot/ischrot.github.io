@@ -60,7 +60,7 @@ when I am supervising your thesis.
 
 **At first, this might sound deterrent and like a lot of work to you, but I am deeply convinced that on the contrary these guidelines actually simplify the process of writing a thesis and reduce the overall effort!**
 
-The guidelines (still under construction) can be found [here][guidelines].
+The guidelines can be found [here][guidelines].
 
 [num]: ss23/numerik.md
 [semss23]: ss23/seminar.md
