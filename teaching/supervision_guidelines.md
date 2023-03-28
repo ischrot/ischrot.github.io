@@ -7,13 +7,13 @@ hide_description: false
 sitemap: false
 ---
 
-2022-10-28
+2023-03-28
 {:.note title="Last modified at"}
 
 * I need this empty list to make the TOC work
 {:toc}
 
-**These guidelines are still under construction!**
+<!-- **These guidelines are still under construction!** -->
 
 ## General Information
 
@@ -222,9 +222,9 @@ When?
 What?
 : In the defense of the thesis you give a presentation about your thesis and answer questions about it. As a preparation you should talk with your supervisor once - probably just in the schedule of the [regular meetings][reg_meet] - in order to discuss the formalities and expectations regarding your talk. If your supervisor has agreed to this, you might want to meet a second time for a rehearsal talk. However, the latter is rather unusual.
 
-## Ressources 
+<!-- ## Ressources 
 
-TODO
+TODO -->
 
 [init]: #initial-contact
 [orga_meet]: #organisational-meeting
