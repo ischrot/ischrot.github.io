@@ -32,8 +32,8 @@ Erste Vorlesung
 
 Veranstaltungszeiten und -räume
 : Vorlesungen
-  : - Mondays, 12:15 - 13:45, im Hörsaal West (HSW) im INF 252
-    - Thursdays, 12:15 - 13:45, im Hörsaal West (HSW) im INF 252
+  : - Montag, 12:15 - 13:45, im Hörsaal West (HSW) im INF 252
+    - Donnerstag, 12:15 - 13:45, im Hörsaal West (HSW) im INF 252
   
   Tutorien
   : - *TBA*
@@ -85,9 +85,9 @@ Allgemeines Format
   - Lösungen können auf Deutsch oder Englisch verfasst werden.
   - Plagiate führen zu 0 Punkten für alle beteiligten Teams.
   - Programmieraufgaben: *TBA*
-  - 
+
 Abgabeprozedur
-*TBA*
+: *TBA*
 <!-- : - Both the theoretical and the programming exercises are submitted digitally.
   - The solutions to the theoretical questions have to be submitted as **one PDF** file. Solutions created in LaTeX are allowed. If you scan handwritten solutions, please make sure that the solutions remain readable and have a moderate file size! Digitally handwritten solutions are accepted, too.
   - The programming exercises have to be submitted as **one Jupyter notebook**.
@@ -137,15 +137,17 @@ Prüfungsformat
     | 1. | *TBA* | *TBA* |
     | 2. | *TBA*| *TBA* |
 
-    Please arrive 15min earlier!
-    {:.note title="Important"}
+<!--     Please arrive 15min earlier!
+    {:.note title="Important"} -->
 
   - 120min schriftliche Klausur
+
 <!--   - The exam is not an open book exam. In fact, you are not allowed to bring any materials into the exam, i.e. you are not allowed to use cheat sheets or similar.
   - [Exam Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions. -->
 
 Klausuranmeldung
 : *Wird im Laufe des Semesters bekanntgegeben.*
+
 <!-- - There won't be a dedicated registration for the first exam. Instead, everyone who has passed the admission requirements for the exam, will be registered for the first exam.
   - For the second exam, everyone who has failed the first exam or missed the exam due to illness - in this case a doctor's note is required! - or who have sent [me][ihno] an email before the first exam stating that they only want to take the second exam, will be automatically registered.
   - Note that there will be no more exam dates than these two (16.02, 14.04). This means that if you miss the second exam due to illness, you won't have another chance to take the exam this semester.
