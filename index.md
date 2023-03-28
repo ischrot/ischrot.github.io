@@ -26,13 +26,13 @@ Done
     - [x] Teaching -> [Seminar Special Topics in Continuous Optimization and Control (SS 22)][seminar] 
     - [x] Teaching -> [Proseminar Matrix Analysis (SS 22)][proseminar]
     - [x] Teaching -> [Supervision Guidelines][guide]
+    - [x] Teaching -> [Previous Semesters][previous]
     - [x] Teaching -> [Main Page][teaching]
     - [x] [LICENSE][license]
     - [x] [NOTICE][notice]
   
 Currently being worked on
-:   - [ ] Teaching -> [Previous Semesters][previous]
-    - [ ] [Research]
+:   - [ ] [Research]
     - [ ] This exact page
   
 Not started yet
