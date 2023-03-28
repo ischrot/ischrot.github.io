@@ -25,13 +25,13 @@ Done
     - [x] Teaching -> [Nonlinear Optimization (SS 22)][nlo]
     - [x] Teaching -> [Seminar Special Topics in Continuous Optimization and Control (SS 22)][seminar] 
     - [x] Teaching -> [Proseminar Matrix Analysis (SS 22)][proseminar]
+    - [x] Teaching -> [Supervision Guidelines][guide]
     - [x] Teaching -> [Main Page][teaching]
     - [x] [LICENSE][license]
     - [x] [NOTICE][notice]
   
 Currently being worked on
-:   - [ ] Teaching -> [Supervision Guidelines][guide]
-    - [ ] Teaching -> [Previous Semesters][previous]
+:   - [ ] Teaching -> [Previous Semesters][previous]
     - [ ] [Research]
     - [ ] This exact page
   
