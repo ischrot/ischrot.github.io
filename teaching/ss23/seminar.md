@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-03-28
+2023-04-14
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -26,7 +26,7 @@ Organizers
   {:.note title="Contact"}
 
 Kick-Off Meeting Date
-: *TBA*
+: Monday, April 17, 14:15, in SR 2 (INF 205)
 
 <!-- Tuesday, April 26, 11:15, in SR1 (INF 205) -->
 
@@ -60,14 +60,14 @@ Registration
 ## Kick-Off Meeting
 The kick-off meeting takes place on *TBA*. Here, we 
   - discuss organizational matters,
-  - form pairs if necessary,
+<!--   - form pairs if necessary, -->
   - **distribute** the topics,
   - discuss the schedule.
 
 ## Topics
 
-The following topics are only preliminary!
-{:.note title="Important"}
+<!-- The following topics are only preliminary!
+{:.note title="Important"} -->
 
 We have talks from three different fields on offer. We will agree on a field in the [kick-off meeting][kom]. Literature suggestions can be found [below][lit].
 
@@ -104,7 +104,7 @@ We have talks from three different fields on offer. We will agree on a field in 
 ## Expectations
 In order to complete the seminar successfully you have to
   - attend the weekly meetings,
-  - prepare and do a presentation of 90min (+10min discussion) in pairs <!--*or* 45min (+5min discussion) alone.-->
+  - prepare and do a presentation of 60min (+10min discussion)
 
 You do not need to write an essay.
 {:.note}
@@ -119,7 +119,7 @@ Further we expect
 
 | Date | Topic | Speaker(s) |
 |------|-------|------------|
-| *TBA* | Kick-off meetig | None |
+| 17.04. | Kick-off meetig | None |
 
 
 <!-- | May 24th | Active set methods for NLPs with vanishing constraints | Laura |
