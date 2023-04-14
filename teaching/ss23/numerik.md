@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-03-28
+2023-04-14
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -28,7 +28,7 @@ Tutoren
 : *TBA*
 
 Erste Vorlesung
-: *TBA*, 12:15, im Hörsaal West (HSW) im INF 252
+: Montag, 17.04.2023, 12:15, im Hörsaal West (HSW) im INF 252
 
 Veranstaltungszeiten und -räume
 : Vorlesungen
@@ -75,31 +75,33 @@ Sheets
   | *TBA* | *TBA* | *TBA* |  |
 
 Allgemeines Format
-: - Ein Übungsblatt pro *TBA* Woche(n)
-  - Das erste Übungsblatt wird am *TBA* veröffentlicht.
-  - Es sind insgesamt *TBA* Übungsblätter mit insgesamt *TBA* Punkten geplant.
-  - Veröffentlichung: *TBA* auf [MaMpf][mampf] und in der obigen Tabelle.
-  - Abgabefrist: *TBA* bis 08:00am
+: - Ein Übungsblatt pro Woche
+  - Das erste Übungsblatt wird am 28.04.2023 veröffentlicht.
+  - Es sind derzeit insgesamt 12 Übungsblätter mit insgesamt *TBA* Punkten geplant.
+  - Veröffentlichung: Freitags, 10:00 Uhr auf [MaMpf][mampf] und in der obigen Tabelle.
+  - Abgabefrist: Freitags bis 08:00 Uhr
   - Abgabeprozedur siehe unten.
   - Teamarbeit ist erlaubt und empfohlen mit bis zu 3 Personen pro Team.
   - Lösungen können auf Deutsch oder Englisch verfasst werden.
   - Plagiate führen zu 0 Punkten für alle beteiligten Teams.
-  - Programmieraufgaben: *TBA*
+  - Musterlösungen werden auf [MaMpf][mampf] und in der obigen Tabelle veröffentlicht.
+  - Es wird Programmieraufgaben in **Python** geben.
+
+    Keine Sorge, wenn Ihr nur wenig Programmiererfahrung habt, die Aufgaben werden einsteigerfreundlich sein und es     wird ein Python-Tutorial zur Verfügung gestellt. 
+    {:.Hinweis}
 
 Abgabeprozedur
-: *TBA*
-
-<!-- : - Both the theoretical and the programming exercises are submitted digitally.
-  - The solutions to the theoretical questions have to be submitted as **one PDF** file. Solutions created in LaTeX are allowed. If you scan handwritten solutions, please make sure that the solutions remain readable and have a moderate file size! Digitally handwritten solutions are accepted, too.
-  - The programming exercises have to be submitted as **one Jupyter notebook**.
-  - The Jupyter notebooks have to include the created outputs, like plots and logging outputs.
-  - The PDF and the Jupyter notebook have then to be added to a **ZIP-archive**.
-  - The notebooks, PDFs, and archives have an obligatory naming scheme. Please name your files \<Last name1\>(\_\<Last name2\>\_\<Last name3\>)_\<sheet numer (2 digits!)\>\.ipynb/pdf/zip, i.e. for example **Femmer_Kostina_Schrot_01.ipynb**. (Do not use the angle brackets and adjust the number of names according to your team size).
-  - Write down your name(s) at the beginning of your theoretical solutions and at the beginning of your Jupyter notebooks. It is not sufficient to have your names only in the file name.
-  - Upload your solutions until Friday (biweekly), 08:00am on [MaMpf][mampf].
-  - A guide how to submit solutions on [MaMpf][mampf] can be found [here][subguide].
-  - You receive feedback from Laura via MaMpf, too.
-  - Solutions will be presented in the [tutorial][tuts]. -->
+: - Sowohl die theoretischen als auch die Programmieraufgaben werden digital abgegeben.
+  - Die Lösungen zu den theoretischen Fragen müssen als **eine PDF**-Datei eingereicht werden. Mit LaTeX erstellte Lösungen sind erlaubt. Wenn Sie handschriftliche Lösungen einscannen, achtet darauf, dass die Lösungen lesbar bleiben und eine moderate Dateigröße haben! Digital handgeschriebene Lösungen werden ebenfalls akzeptiert.
+  - Die Programmieraufgaben müssen als **ein Jupyter Notebook** eingereicht werden.
+  - Erzeugte Outputs wie Plots und Logging Outputs sollen in den Jupyter Notebooks enthalten sein.
+  - Das PDF und das Jupyter Notebook müssen als eine .zip-Datei zusammengefügt werden.
+  - Die Dateien sind gemäß des Benennungsschemas \<Nachname1\>(\_\<Nachname2\>\_\<Nachname3\>)_\<Blattnr. (zweistellig!)\>\.ipynb/pdf/zip, also bspw. **Benkendorf_Lenz_Schrot_01.ipynb**, zu benennen.
+  - Schreibt Eure(n) Namen an den Anfang der theoretischen Lösungen und an den Anfang der Jupyter Notebooks. Es reicht nicht aus, die Namen nur im Dateinamen zu haben.
+  - Ladet Eure Lösung bis freitags um 08:00 Uhr auf [MaMpf][mampf] hoch.
+  - Eine Anleitung zum Hochladen der Abgaben auf [MaMpf][mampf] findet Ihr [hier][subguide].
+  - Ihr erhaltet das Feedback der Tutoren ebenfalls auf [MaMpf][mampf].
+  - Musterlösungen werden in den Tutorien präsentiert.
 
 ## Vorlesungen
 
@@ -125,7 +127,7 @@ Wir wollen sicherstellen, dass die Tutorien für Euch so effektiv wie möglich s
 ## Abschlussprüfung
 
 Zulassungsvoraussetzung
-: - *TBA*
+: - Mindestens 50% der Punkte in den theoretischen Aufgaben und 50% der Punkte in den Programmieraufgaben.
   
   Falls Du eine alte Zulassung hast, kontaktiere [mich][ihno] so bald wie möglich.
   {:.note}
@@ -135,7 +137,7 @@ Prüfungsformat
 
     | Klausur | Datum | Räume |
     |------|------|------|
-    | 1. | *TBA* | *TBA* |
+    | 1. | 27.07.2023 | *TBA* |
     | 2. | *TBA*| *TBA* |
 
 <!--     Please arrive 15min earlier!
@@ -178,6 +180,6 @@ Other Materials
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1693
 [mampf]: https://mampf.mathi.uni-heidelberg.de
-[subguide]: https://mampf.blog/handing-in-homework-assignments/
+[subguide]: https://mampf.blog/zettelabgaben-fur-studierende/
 
 
