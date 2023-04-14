@@ -25,7 +25,8 @@ Organisatoren
   {:.note title="Kontakt"}
   
 Tutoren
-: *TBA*
+: - Leonard Benkendorf
+  - Luca Lenz
 
 Erste Vorlesung
 : Montag, 17.04.2023, 12:15, im Hörsaal West (HSW) im INF 252
@@ -72,7 +73,8 @@ Anmeldung
 Sheets
 : | Blatt | Deadline | Lösungen | Kommentare |
   |-------|----------|-----------|----------|
-  | *TBA* | *TBA* | *TBA* |  |
+  | Python-Tutorial | Keine | Keine | Noch nicht verfügbar  |
+  | Blatt 01 | 05.05., 08:00 Uhr | | Noch nicht verfügbar
 
 Allgemeines Format
 : - Ein Übungsblatt pro Woche
