@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-04-14
+2023-04-17
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -52,7 +52,7 @@ Level
 : Bachelor
 
 Sprache
-: Deutsch
+: Deutsch/Englisch
 
 Voraussetzungen
 : Empfohlen sind:
@@ -83,7 +83,7 @@ Allgemeines Format
   - Veröffentlichung: Freitags, 10:00 Uhr auf [MaMpf][mampf] und in der obigen Tabelle.
   - Abgabefrist: Freitags bis 08:00 Uhr
   - Abgabeprozedur siehe unten.
-  - Teamarbeit ist erlaubt und empfohlen mit bis zu 3 Personen pro Team.
+  - Teamarbeit ist erlaubt und empfohlen mit 2 Personen (max. 3) pro Team.
   - Lösungen können auf Deutsch oder Englisch verfasst werden.
   - Plagiate führen zu 0 Punkten für alle beteiligten Teams.
   - Musterlösungen werden auf [MaMpf][mampf] und in der obigen Tabelle veröffentlicht.
