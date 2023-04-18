@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-04-17
+2023-04-18
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -25,7 +25,7 @@ Organisatoren
   {:.note title="Kontakt"}
   
 Tutoren
-: - Leonard Benkendorf
+: - Leonard Benkendorff
   - Luca Lenz
 
 Erste Vorlesung
@@ -37,7 +37,8 @@ Veranstaltungszeiten und -räume
     - Donnerstag, 12:15 - 13:45, im Hörsaal West (HSW) im INF 252
   
   Tutorien
-  : - *TBA*
+  : - Mittwoch, 11:15 - 12:45, Seminarraum Statistik (INF 205)
+    - Donnerstag, 09:15 - 10:45, Seminarraum 2 (INF 205)
   
   Die Veranstaltungen finden in Präsenz statt.
   {:.note}
@@ -73,8 +74,8 @@ Anmeldung
 Sheets
 : | Blatt | Deadline | Lösungen | Kommentare |
   |-------|----------|-----------|----------|
-  | Python-Tutorial | Keine | Keine | Noch nicht verfügbar  |
-  | Blatt 01 | 05.05., 08:00 Uhr | | Noch nicht verfügbar
+  | [Python Tutorial][pythontut] | Keine | Keine | [Python_for_numerics.ipynb][pythonnb] |
+  | Blatt 01 | 05.05., 08:00 Uhr | | Noch nicht verfügbar |
 
 Allgemeines Format
 : - Ein Übungsblatt pro Woche
@@ -98,7 +99,7 @@ Abgabeprozedur
   - Die Programmieraufgaben müssen als **ein Jupyter Notebook** eingereicht werden.
   - Erzeugte Outputs wie Plots und Logging Outputs sollen in den Jupyter Notebooks enthalten sein.
   - Das PDF und das Jupyter Notebook müssen als eine .zip-Datei zusammengefügt werden.
-  - Die Dateien sind gemäß des Benennungsschemas \<Nachname1\>(\_\<Nachname2\>\_\<Nachname3\>)_\<Blattnr. (zweistellig!)\>\.ipynb/pdf/zip, also bspw. **Benkendorf_Lenz_Schrot_01.ipynb**, zu benennen.
+  - Die Dateien sind gemäß des Benennungsschemas \<Nachname1\>(\_\<Nachname2\>\_\<Nachname3\>)_\<Blattnr. (zweistellig!)\>\.ipynb/pdf/zip, also bspw. **Benkendorff_Lenz_Schrot_01.ipynb**, zu benennen.
   - Schreibt Eure(n) Namen an den Anfang der theoretischen Lösungen und an den Anfang der Jupyter Notebooks. Es reicht nicht aus, die Namen nur im Dateinamen zu haben.
   - Ladet Eure Lösung bis freitags um 08:00 Uhr auf [MaMpf][mampf] hoch.
   - Eine Anleitung zum Hochladen der Abgaben auf [MaMpf][mampf] findet Ihr [hier][subguide].
@@ -117,11 +118,11 @@ Inhalt
 : In den Tutorien präsentieren unsere Tutor:innen (Teile der) Lösungen zu den Übungsblättern und beantworten Fragen von Euch.
 
 Wann?
-: *TBA*
-  
+: 
   | Datum | Thema |
   |-------|-------|
-  | *TBA* | *TBA* |
+  | 03.05. | Fragen zum [Python Tutorial][pythontut] |
+  | 10./11.05. | Besprechung von Blatt 01 |
 
 Wir wollen sicherstellen, dass die Tutorien für Euch so effektiv wie möglich sind und passen das Format gerne noch an Eure Bedürfnisse an. Daher ist Feedback immer willkommen.
 {:.note}
@@ -172,6 +173,9 @@ Vorlesungsnotizen
 
 Other Materials
 : *Werden im Laufe des Semesters ergänzt."
+
+[pythontut]: https://heibox.uni-heidelberg.de/f/7a03c5db18bc4807a7a3/
+[pythonnb]: https://heibox.uni-heidelberg.de/f/3cf80d0732fd41e69a6d/?dl=1
 
 [tuts]: #tutorien
 [ws]: #collaborative-working-session
