@@ -20,6 +20,7 @@ sitemap: true
 Organisatoren
 : - [Prof. Dr. Ekaterina A. Kostina][ekaterina]
   - [Ihno Schrot][ihno]
+  - [Hridya Vinod Varma][varma]
   
   Bei Fragen zu diesem Kurs wendet Euch an [Ihno Schrot][ihno].
   {:.note title="Kontakt"}
@@ -169,6 +170,7 @@ Other Materials
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
+[varma]: mailto:hridya(dot)varma(at)uni-heidelberg(dot)de
 [leo]: mailto:benkendorff(at)stud(dot)uni-heidelberg(dot)de
 [luca]: mailto:luca(dot)lenz(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1693
