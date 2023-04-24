@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-04-18
+2023-04-24
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -25,8 +25,8 @@ Organisatoren
   {:.note title="Kontakt"}
   
 Tutoren
-: - Leonard Benkendorff
-  - Luca Lenz
+: - [Leonard Benkendorff][leo]
+  - [Luca Lenz][luca]
 
 Erste Vorlesung
 : Montag, 17.04.2023, 12:15, im Hörsaal West (HSW) im INF 252
@@ -37,17 +37,14 @@ Veranstaltungszeiten und -räume
     - Donnerstag, 12:15 - 13:45, im Hörsaal West (HSW) im INF 252
   
   Tutorien
-  : - Mittwoch, 11:15 - 12:45, Seminarraum Statistik (INF 205)
-    - Donnerstag, 09:15 - 10:45, Seminarraum 2 (INF 205)
+  : | Tutor              | Tag        | Uhrzeit       | Raum                   |
+    |--------------------|------------|---------------|------------------------|
+    | [Benkendorff][leo] | Mittwoch   | 11:45 - 12:45 | SR Statistik (INF 205) |
+    | [Lenz][luca]       | Donnerstag | 09:15 - 10:45 | SR 2 (INF 205)         |
+  
   
   Die Veranstaltungen finden in Präsenz statt.
   {:.note}
-
-<!-- Lecture and Tutorial Room
-: SR B in INF 205 (Mathematikon)
-  
-  We meet in person.
-  {:.note} -->
 
 Level 
 : Bachelor
@@ -60,11 +57,6 @@ Voraussetzungen
     - Analysis 1
     - Linear Algebra 1
     - Einführung in die Numerik
-    
-<!--   We will have programming exercises that have to be solved in Python, so it is beneficial if you have some experience with Python already, but we keep the exercises beginner-friendly, so that it is no problem if you have not used Python before.
-
-  You can of course still join the course if you are missing one of these requirements, but we recommend that you acquire the missing knowledge in parallel then.
-  {:.note} -->
   
 Anmeldung
 : Die Anmeldung zu diesem Kurs erfolgt über [MÜSLI][muesli].
@@ -81,7 +73,7 @@ Allgemeines Format
 : - Ein Übungsblatt pro Woche
   - Das erste Übungsblatt wird am 28.04.2023 veröffentlicht.
   - Es sind derzeit insgesamt 12 Übungsblätter mit insgesamt *TBA* Punkten geplant.
-  - Veröffentlichung: Freitags, 10:00 Uhr auf [MaMpf][mampf] und in der obigen Tabelle.
+  - Veröffentlichung: Freitags auf [MaMpf][mampf] und in der obigen Tabelle.
   - Abgabefrist: Freitags bis 08:00 Uhr
   - Abgabeprozedur siehe unten.
   - Teamarbeit ist erlaubt und empfohlen mit 2 Personen (max. 3) pro Team.
@@ -90,8 +82,8 @@ Allgemeines Format
   - Musterlösungen werden auf [MaMpf][mampf] und in der obigen Tabelle veröffentlicht.
   - Es wird Programmieraufgaben in **Python** geben.
 
-    Keine Sorge, wenn Ihr nur wenig Programmiererfahrung habt, die Aufgaben werden einsteigerfreundlich sein und es     wird ein Python-Tutorial zur Verfügung gestellt. 
-    {:.Hinweis}
+    Keine Sorge, wenn Ihr nur wenig Programmiererfahrung habt, die Aufgaben werden einsteigerfreundlich sein und es wird ein Python-Tutorial zur Verfügung gestellt. 
+    {:.note}
 
 Abgabeprozedur
 : - Sowohl die theoretischen als auch die Programmieraufgaben werden digital abgegeben.
@@ -164,13 +156,6 @@ Klausuranmeldung
 Vorlesungsnotizen
 : Die handschritftlichen Vorlesungsnotizen werden auf [MaMpf][mampf] veröffentlicht.
 
-<!-- Literature
-: _TBA_ -->
-
-<!--   - Nocedal, Wright: Numerical Optimization, Springer, 2006.
-  - Fletcher: Practical Methods of Optimization, Wiley, 2nd edition 1987.
-  - Ulbrich, Ulbrich: Nichtlineare Optimierung, Birkhäuser Verlag, 2012. (German) -->
-
 Other Materials
 : *Werden im Laufe des Semesters ergänzt."
 
@@ -184,6 +169,8 @@ Other Materials
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
+[leo]: mailto:benkendorff(at)stud(dot)uni-heidelberg(dot)de
+[luca]: mailto:luca(dot)lenz(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1693
 [mampf]: https://mampf.mathi.uni-heidelberg.de
 [subguide]: https://mampf.blog/zettelabgaben-fur-studierende/
