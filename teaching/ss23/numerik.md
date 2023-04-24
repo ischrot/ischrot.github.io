@@ -39,7 +39,7 @@ Veranstaltungszeiten und -räume
   Tutorien
   : | Tutor              | Tag        | Uhrzeit       | Raum                   |
     |--------------------|------------|---------------|------------------------|
-    | [Benkendorff][leo] | Mittwoch   | 11:45 - 12:45 | SR Statistik (INF 205) |
+    | [Benkendorff][leo] | Mittwoch   | 11:15 - 12:45 | SR Statistik (INF 205) |
     | [Lenz][luca]       | Donnerstag | 09:15 - 10:45 | SR 2 (INF 205)         |
   
   
