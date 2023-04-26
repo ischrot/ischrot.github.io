@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-04-14
+2023-04-26
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -20,9 +20,9 @@ sitemap: true
 Organizers
 : - [Prof. Dr. Ekaterina A. Kostina][ekaterina]
   - [Ihno Schrot][ihno]
-  - [Marta Sauter][marta]
+  - [Hridya Varma][hridya]
   
-  Please contact [Ihno Schrot][ihno] if you have questions regarding this seminar.
+  Please contact [Ihno Schrot][ihno] and [Hridya Varma][hridya] if you have questions regarding this seminar.
   {:.note title="Contact"}
 
 Kick-Off Meeting Date
@@ -55,12 +55,11 @@ Requirements
   {:.note}
   
 Registration
-: To participate in the seminar, please register for the seminar on [MÜSLI][muesli]. The number of participants is limited to 18.
+: To participate in the seminar, please send an email to [Ihno Schrot][ihno] and [Hridya Varma][hridya].
 
 ## Kick-Off Meeting
-The kick-off meeting takes place on *TBA*. Here, we 
+The kick-off meeting took place on April 17. Here, we 
   - discuss organizational matters,
-<!--   - form pairs if necessary, -->
   - **distribute** the topics,
   - discuss the schedule.
 
@@ -119,7 +118,11 @@ Further we expect
 
 | Date | Topic | Speaker(s) |
 |------|-------|------------|
-| 17.04. | Kick-off meetig | None |
+| April 17th | Kick-off meetig | None |
+| June 05th | CG Methods | Schulte |
+| June 12th | Penalty and Augmented Lagrangian Methods | Betschel |
+| June 19th | BFGS-SQP Method for Nonsmooth, Nonconvex, Constrained Optimization | Schnabel |
+| June 26th | Mirror Descent | Lan |
 
 
 <!-- | May 24th | Active set methods for NLPs with vanishing constraints | Laura |
@@ -246,7 +249,7 @@ Recommendations by topics
 [lit]: #literature
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
-[marta]: mailto:marta(dot)sauter(at)iwr(dot)uni-heidelberg(dot)de
+[hridya]: mailto:hridya(dot)varma(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1692
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
 [vpn]: https://www.urz.uni-heidelberg.de/en/service-catalogue/network/vpn-virtual-private-network
