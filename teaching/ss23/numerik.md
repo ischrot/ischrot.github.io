@@ -40,8 +40,7 @@ Veranstaltungszeiten und -räume
   Tutorien
   : | Tutor              | Tag        | Uhrzeit       | Raum                   |
     |--------------------|------------|---------------|------------------------|
-    | [Benkendorff][leo] | Mittwoch   | 11:15 - 12:45 | SR Statistik (INF 205) |
-    | [Lenz][luca]       | Donnerstag | 09:15 - 10:45 | SR 2 (INF 205)         |
+    | [Benkendorff][leo], [Lenz][luca]  | Mittwoch   | 11:15 - 12:45 | SR Statistik (INF 205) |
   
   
   Die Veranstaltungen finden in Präsenz statt.
@@ -115,7 +114,18 @@ Wann?
   | Datum | Thema |
   |-------|-------|
   | 03.05. | Fragen zum [Python Tutorial][pythontut] |
-  | 10./11.05. | Besprechung von Blatt 01 |
+  | 10.05. | Besprechung von Blatt 01 |
+  | 17.05. | Besprechung von Blatt 02 |
+  | 24.05. | Besprechung von Blatt 03 |
+  | 31.05. | Besprechung von Blatt 04 |
+  | 07.06. | Besprechung von Blatt 05 |
+  | 14.06. | Besprechung von Blatt 06 |
+  | 21.06. | Besprechung von Blatt 07 |
+  | 28.06. | Besprechung von Blatt 08 |
+  | 05.07. | Besprechung von Blatt 09 |
+  | 12.07. | Besprechung von Blatt 10 |
+  | 19.07. | Besprechung von Blatt 11 |
+  | 26.07. | Besprechung von Blatt 12 |
 
 Wir wollen sicherstellen, dass die Tutorien für Euch so effektiv wie möglich sind und passen das Format gerne noch an Eure Bedürfnisse an. Daher ist Feedback immer willkommen.
 {:.note}
