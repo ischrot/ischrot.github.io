@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-04-27
+2023-05-12
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -69,6 +69,7 @@ Sheets
   | [Python Tutorial][pythontut] | Keine | Keine | [Python_for_numerics.ipynb][pythonnb] |
   | [Blatt 01][sheet01] | 05.05., 08:00 Uhr | | |
   | [Blatt 02][sheet02] | 12.05., 08:00 Uhr | | |
+  | [Blatt 03][sheet03] | 19.05., 08:00 Uhr | | |
 
 Allgemeines Format
 : - Ein Übungsblatt pro Woche
@@ -175,6 +176,7 @@ Other Materials
 [pythonnb]: https://heibox.uni-heidelberg.de/f/3cf80d0732fd41e69a6d/?dl=1
 [sheet01]: https://heibox.uni-heidelberg.de/f/d8455918c79748a7a9a9/
 [sheet02]: https://heibox.uni-heidelberg.de/f/da31a5e28a5947f48d8a/
+[sheet03]: https://heibox.uni-heidelberg.de/f/9719f23eb3f941ec84f3/
 
 [tuts]: #tutorien
 [ws]: #collaborative-working-session
