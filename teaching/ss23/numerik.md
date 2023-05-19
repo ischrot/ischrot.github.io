@@ -71,6 +71,14 @@ Sheets
   | [Blatt 02][sheet02] | 12.05., 08:00 Uhr | | |
   | [Blatt 03][sheet03] | 19.05., 08:00 Uhr | | |
   | [Blatt 04][sheet04] | 26.05., 08:00 Uhr | | |
+  | Blatt 05 | 02.06., 08:00 Uhr | | |
+  | Blatt 06 | 09.06., 08:00 Uhr | | |
+  | Blatt 07 | 16.06., 08:00 Uhr | | |
+  | Blatt 08 | 23.06., 08:00 Uhr | | |
+  | Blatt 09 | 30.06., 08:00 Uhr | | |
+  | Blatt 10 | 07.07., 08:00 Uhr | | |
+  | Blatt 11 | 14.07., 08:00 Uhr | | |
+  | Blatt 12 | 21.07., 08:00 Uhr | | |
 
 Allgemeines Format
 : - Ein Übungsblatt pro Woche
@@ -117,10 +125,10 @@ Wann?
   | Datum | Thema |
   |-------|-------|
   | 03.05. | Fragen zum [Python Tutorial][pythontut] |
-  | 10.05. | Besprechung von Blatt 01 |
-  | 17.05. | Besprechung von Blatt 02 |
-  | 24.05. | Besprechung von Blatt 03 |
-  | 31.05. | Besprechung von Blatt 04 |
+  | 10.05. | Besprechung von [Blatt 01][sheet01] |
+  | 17.05. | Besprechung von [Blatt 02][sheet02] |
+  | 24.05. | Besprechung von [Blatt 03][sheet03] |
+  | 31.05. | Besprechung von [Blatt 04][sheet04] |
   | 07.06. | Besprechung von Blatt 05 |
   | 14.06. | Besprechung von Blatt 06 |
   | 21.06. | Besprechung von Blatt 07 |
