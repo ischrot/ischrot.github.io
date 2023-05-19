@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-05-12
+2023-05-19
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -70,11 +70,12 @@ Sheets
   | [Blatt 01][sheet01] | 05.05., 08:00 Uhr | | |
   | [Blatt 02][sheet02] | 12.05., 08:00 Uhr | | |
   | [Blatt 03][sheet03] | 19.05., 08:00 Uhr | | |
+  | [Blatt 04][sheet04] | 26.05., 08:00 Uhr | | |
 
 Allgemeines Format
 : - Ein Übungsblatt pro Woche
   - Das erste Übungsblatt wird am 28.04.2023 veröffentlicht.
-  - Es sind derzeit insgesamt 12 Übungsblätter mit insgesamt *TBA* Punkten geplant.
+  - Es sind derzeit insgesamt 12 Übungsblätter mit insgesamt 192 Punkten geplant.
   - Veröffentlichung: Freitags auf [MaMpf][mampf] und in der obigen Tabelle.
   - Abgabefrist: Freitags bis 08:00 Uhr
   - Abgabeprozedur siehe unten.
@@ -177,6 +178,7 @@ Other Materials
 [sheet01]: https://heibox.uni-heidelberg.de/f/d8455918c79748a7a9a9/
 [sheet02]: https://heibox.uni-heidelberg.de/f/da31a5e28a5947f48d8a/
 [sheet03]: https://heibox.uni-heidelberg.de/f/9719f23eb3f941ec84f3/
+[sheet04]: https://heibox.uni-heidelberg.de/f/4d715fa3bae349339c7b/
 
 [tuts]: #tutorien
 [ws]: #collaborative-working-session
