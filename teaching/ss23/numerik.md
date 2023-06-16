@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-06-08
+2023-06-16
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -74,7 +74,7 @@ Sheets
   | [Blatt 05][sheet05] | 02.06., 08:00 Uhr | | |
   | [Blatt 06][sheet06] | 09.06., 08:00 Uhr | | |
   | [Blatt 07][sheet07] | 16.06., 08:00 Uhr | | |
-  | Blatt 08 | 23.06., 08:00 Uhr | | |
+  | [Blatt 08][sheet08] | 23.06., 08:00 Uhr | | |
   | Blatt 09 | 30.06., 08:00 Uhr | | |
   | Blatt 10 | 07.07., 08:00 Uhr | | |
   | Blatt 11 | 14.07., 08:00 Uhr | | |
@@ -132,7 +132,7 @@ Wann?
   | 07.06. | Besprechung von [Blatt 05][sheet05] |
   | 14.06. | Besprechung von [Blatt 06][sheet06] |
   | 21.06. | Besprechung von [Blatt 07][sheet07] |
-  | 28.06. | Besprechung von Blatt 08 |
+  | 28.06. | Besprechung von [Blatt 08][sheet08] |
   | 05.07. | Besprechung von Blatt 09 |
   | 12.07. | Besprechung von Blatt 10 |
   | 19.07. | Besprechung von Blatt 11 |
@@ -190,6 +190,7 @@ Other Materials
 [sheet05]: https://heibox.uni-heidelberg.de/f/7faf6e80c0b94ebd91ef/
 [sheet06]: https://heibox.uni-heidelberg.de/f/25522b6d115244899775/
 [sheet07]: https://heibox.uni-heidelberg.de/f/a740a653ed534c3799b8/
+[sheet08]: https://heibox.uni-heidelberg.de/f/8cdd0a578c8043429f42/
 
 [tuts]: #tutorien
 [ws]: #collaborative-working-session
