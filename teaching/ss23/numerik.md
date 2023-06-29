@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-06-24
+2023-06-29
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -22,7 +22,7 @@ Organisatoren
   - [Ihno Schrot][ihno]
   - [Hridya Vinod Varma][varma]
   
-  Bei Fragen zu diesem Kurs wendet Euch an [Ihno Schrot][ihno].
+  Bei Fragen zu diesem Kurs wendet Euch an [Hridya Vinod Varma][varma].
   {:.note title="Kontakt"}
   
 Tutoren
