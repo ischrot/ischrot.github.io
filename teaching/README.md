@@ -2,19 +2,21 @@
 layout: page
 title: Teaching
 description: >
-  Here you find information about the courses I am organising.
+  Here you find information about the courses organised by our group.
 hide_description: false
 sitemap: true
 permalink: /teaching/
 ---
 
-2023-03-28
+2023-06-29
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
 {:toc}
 
 ## Courses
+
+From the winter term 2023/2024 I will no longer be organising our courses. However, you can still find information about our group's courses on my website. 
 
 ### Summer Term 2023
 
