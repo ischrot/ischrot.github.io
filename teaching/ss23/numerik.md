@@ -19,8 +19,8 @@ sitemap: true
 
 Organisatoren
 : - [Prof. Dr. Ekaterina A. Kostina][ekaterina]
-  - [Ihno Schrot][ihno]
   - [Hridya Vinod Varma][varma]
+  - [Ihno Schrot][ihno]
   
   Bei Fragen zu diesem Kurs wendet Euch an [Hridya Vinod Varma][varma].
   {:.note title="Kontakt"}
@@ -146,7 +146,7 @@ Wir wollen sicherstellen, dass die Tutorien für Euch so effektiv wie möglich s
 Zulassungsvoraussetzung
 : - Mindestens 50% der Punkte in den theoretischen Aufgaben und 50% der Punkte in den Programmieraufgaben.
   
-  Falls Du eine alte Zulassung hast, kontaktiere [mich][ihno] so bald wie möglich.
+  Falls Du eine alte Zulassung hast, kontaktiere [mich][varma] so bald wie möglich.
   {:.note}
   
 Prüfungsformat
