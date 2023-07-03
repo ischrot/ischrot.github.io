@@ -160,18 +160,15 @@ Prüfungsformat
     Bitte 15 Minuten vor Beginn der Klausur vor Ort sein!
     {:.note title="Important"}
 
-  - 120min schriftliche Klausur
-
-<!--   - The exam is not an open book exam. In fact, you are not allowed to bring any materials into the exam, i.e. you are not allowed to use cheat sheets or similar.
-  - [Exam Preparation Sheet][exprep] In this document you find general information about the exam and materials for the exam preparation including a list of the most relevant exercises and a list of questions. -->
+  - 120 Minuten schriftliche Klausur
+  - Die Klausur besteht aus theoretischen und programmierungs-basierten Teilen aber du wirst keinen Code auf Papier schreiben müssen.
+  - Es sind keine Hilfsmittel (z.B. Taschenrechner, Bücher, Notizen) erlaubt.
 
 Klausuranmeldung
-: *Wird im Laufe des Semesters bekanntgegeben.*
-
-<!-- - There won't be a dedicated registration for the first exam. Instead, everyone who has passed the admission requirements for the exam, will be registered for the first exam.
-  - For the second exam, everyone who has failed the first exam or missed the exam due to illness - in this case a doctor's note is required! - or who have sent [me][ihno] an email before the first exam stating that they only want to take the second exam, will be automatically registered.
-  - Note that there will be no more exam dates than these two (16.02, 14.04). This means that if you miss the second exam due to illness, you won't have another chance to take the exam this semester.
-  - If you plan to miss an exam for which you have been registered, please send [me][ihno] an email as soon as possible. -->
+: - Klausuranmeldung geschiet automatisch für alle Studierenden, die die Zulassungsvoraussetzungen erfüllen. Falls Du nicht an der ersten Klausur teilnehmen möchtest, bitte schreib [mir][varma] eine E-mail sobald wie möglich.
+  - Für die zweite Klausur werden alle Studierenden automatisch angemeldet, die die erste Klausur nicht bestanden haben, wegen Krankheit an der ersten Klausur nicht teilnehmen konnten oder sich bei [mir][varma] für die erste Klausur abgemeldet haben. Im Krankheitsfall wird eine ärztliche Krankschreibung benötigt.
+  - Es wird neben den beiden Klausuren (27.07., *TBA*) keinen weiteren Prüfungstermin geben.
+  - Falls du eine Prüfung, für die du angemeldet bist, nicht antreten möchtest, schreib [mir][varma] bitte so bald wie möglich eine E-mail.
 
 ## Vorlesungsnotizen und weitere Materialien
 
