@@ -157,8 +157,8 @@ Prüfungsformat
     | 1. | 27.07.2023 | *TBA* |
     | 2. | *TBA*| *TBA* |
 
-<!--     Please arrive 15min earlier!
-    {:.note title="Important"} -->
+    Bitte 15 Minuten vor Beginn der Klausur vor Ort sein!
+    {:.note title="Important"}
 
   - 120min schriftliche Klausur
 
