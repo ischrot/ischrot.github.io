@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-07-03
+2023-07-04
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -154,7 +154,7 @@ Prüfungsformat
 
     | Klausur | Datum | Räume |
     |------|------|------|
-    | 1. | 27.07.2023 | Hörsaal West (HSW) im INF 252 |
+    | 1. | 27.07.2023 (12:00 - 14:00) | Hörsaal West (HSW) im INF 252 |
     | 2. | *TBA*| *TBA* |
 
     Bitte 15 Minuten vor Beginn der Klausur vor Ort sein!
