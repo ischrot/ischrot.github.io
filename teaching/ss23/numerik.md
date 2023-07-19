@@ -165,10 +165,11 @@ Prüfungsformat
   - Es sind keine Hilfsmittel (z.B. Taschenrechner, Bücher, Notizen) erlaubt.
 
 Klausuranmeldung
-: - Klausuranmeldung geschiet automatisch für alle Studierenden, die die Zulassungsvoraussetzungen erfüllen. Falls Du nicht an der ersten Klausur teilnehmen möchtest, bitte schreib [mir][varma] eine E-mail sobald wie möglich.
+: - Klausuranmeldung geschieht automatisch für alle Studierenden, die die Zulassungsvoraussetzungen erfüllen. Falls Du nicht an der ersten Klausur teilnehmen möchtest, schreib [mir][varma] bitte eine E-mail sobald wie möglich.
   - Für die zweite Klausur werden alle Studierenden automatisch angemeldet, die die erste Klausur nicht bestanden haben, wegen Krankheit an der ersten Klausur nicht teilnehmen konnten oder sich bei [mir][varma] für die erste Klausur abgemeldet haben. Im Krankheitsfall wird eine ärztliche Krankschreibung benötigt.
   - Es wird neben den beiden Klausuren (27.07., *TBA*) keinen weiteren Prüfungstermin geben.
   - Falls du eine Prüfung, für die du angemeldet bist, nicht antreten möchtest, schreib [mir][varma] bitte so bald wie möglich eine E-mail.
+  - Der [Fragenkatalog][fragenkatalog] und die Liste der [wichtigsten Übungsaufgaben][importantexercises] stehen jetzt zur Prüfungsvorbereitung zur Verfügung.
 
 ## Vorlesungsnotizen und weitere Materialien
 
@@ -192,6 +193,8 @@ Other Materials
 [sheet10]: https://heibox.uni-heidelberg.de/f/bdcd32ef6d864d00b067/
 [sheet11]: https://heibox.uni-heidelberg.de/f/424d6209aacd44e9a644/
 [sheet12]: https://heibox.uni-heidelberg.de/f/62ac276b22eb45c5b450/
+[fragenkatalog]: https://heibox.uni-heidelberg.de/f/87ec061248d04bbc9835/
+[importantexercises]: https://heibox.uni-heidelberg.de/f/e6ce041ceba64742aa8c/
 
 [tuts]: #tutorien
 [ws]: #collaborative-working-session
