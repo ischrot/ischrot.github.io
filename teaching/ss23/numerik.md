@@ -167,7 +167,7 @@ Prüfungsformat
 Klausuranmeldung
 : - Klausuranmeldung geschieht automatisch für alle Studierenden, die die Zulassungsvoraussetzungen erfüllen. Falls Du nicht an der ersten Klausur teilnehmen möchtest, schreib [mir][varma] bitte eine E-mail sobald wie möglich.
   - Für die zweite Klausur werden alle Studierenden automatisch angemeldet, die die erste Klausur nicht bestanden haben, wegen Krankheit an der ersten Klausur nicht teilnehmen konnten oder sich bei [mir][varma] für die erste Klausur abgemeldet haben. Im Krankheitsfall wird eine ärztliche Krankschreibung benötigt.
-  - Es wird neben den beiden Klausuren (27.07., *TBA*) keinen weiteren Prüfungstermin geben.
+  - Es wird neben den beiden Klausuren (27.07., 10.10.) keinen weiteren Prüfungstermin geben.
   - Falls du eine Prüfung, für die du angemeldet bist, nicht antreten möchtest, schreib [mir][varma] bitte so bald wie möglich eine E-mail.
   - Der [Fragenkatalog][fragenkatalog] und die Liste der [wichtigsten Übungsaufgaben][importantexercises] stehen jetzt zur Prüfungsvorbereitung zur Verfügung.
 
