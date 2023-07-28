@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-07-24
+2023-07-28
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -203,7 +203,7 @@ Other Materials
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
-[varma]: mailto:hridya(dot)varma(at)uni-heidelberg(dot)de
+[varma]: mailto:hridya(dot)varma(at)iwr(dot)uni-heidelberg(dot)de
 [leo]: mailto:benkendorff(at)stud(dot)uni-heidelberg(dot)de
 [luca]: mailto:luca(dot)lenz(at)stud(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1693
