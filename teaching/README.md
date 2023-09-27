@@ -69,7 +69,7 @@ when I am supervising your thesis.
 
 The guidelines can be found [here][guidelines].
 
-[semws2324] ws23_24/seminar.md
+[semws2324]: ws23_24/seminar.md
 [num]: ss23/numerik.md
 [semss23]: ss23/seminar.md
 [node]: ws22_23/node.md
