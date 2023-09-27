@@ -8,7 +8,7 @@ sitemap: true
 permalink: /teaching/
 ---
 
-2023-06-29
+2023-09-27
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -18,6 +18,11 @@ permalink: /teaching/
 
 From the winter term 2023/2024 I will no longer be organising our courses. However, you can still find information about our group's courses on my website. 
 
+### Winter Term 2023/24
+
+In the winter term 2023/24 our workgroup offers the following courses at Heidelberg University: 
+  - [Seminar on Mathematical Modelling in Biology][semws2324]
+
 ### Summer Term 2023
 
 In the summer term 2023 our workgroup offers the following courses at Heidelberg University: 
@@ -26,7 +31,7 @@ In the summer term 2023 our workgroup offers the following courses at Heidelberg
 
 ### Winter Term 2022/23
 
-In the winter term 2023 our workgroup offers the following courses at Heidelberg University: 
+In the winter term 2022/23 our workgroup offers the following courses at Heidelberg University: 
   - [Numerical Optimization with Differential Equations][node]
   - [Seminar on Special Topics in Continuous Optimization and Optimal Control][sem23]
   
@@ -64,6 +69,7 @@ when I am supervising your thesis.
 
 The guidelines can be found [here][guidelines].
 
+[semws2324] ws23_24/seminar.md
 [num]: ss23/numerik.md
 [semss23]: ss23/seminar.md
 [node]: ws22_23/node.md
