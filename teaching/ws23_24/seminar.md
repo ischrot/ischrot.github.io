@@ -25,17 +25,9 @@ Organizers
   Please contact [Hridya Varma][hridya] if you have questions regarding this seminar.
   {:.note title="Contact"}
 
-Kick-Off Meeting Date
-: Monday, October 16, 14:15, in *TBA* (INF 205)
-
-Date
-: Mondays, 14:15 - 15:45
-
-Room
-: *TBA* in INF 205 
-  
-  We meet in person.
-  {:.note}
+Meetings
+: We will meet in person on Mondays 14:15 - 15:45 in *TBA* (INF 205)
+: The **kick-off meeting** will be on October 16, 2023
 
 Level:
 : Master students, advanced Bachelor students
@@ -50,7 +42,7 @@ Recommended Background
     - Ordinary Differential Equations
     - Partial Differential Equations
 
-  You can get a feeling whether you have the necessary background for the seminar by skimming through the given topics and literature. It is important that you are able to understand the topics very well in order to explain them to your peers. So if you are able to read and understand the given literature, you should be good to go :)
+You can get a feeling whether you have the necessary background for the seminar by skimming through the given topics and literature. It is important that you are able to understand the topics very well in order to explain them to your peers. So if you are able to read and understand the given literature, you should be good to go :)
   {:.note}
   
 Registration
@@ -61,7 +53,7 @@ The kick-off meeting will take place on October 16, 2023. Here, we will explain 
 
 ## Topics
 
-Below you can find a tentative list of the topics that we offer along with *some literature suggestions (TO DO)*. We plan to have 8 presentations on 8 different topics. After the kick-off meeting on October 16, 2023, you will have one week to look into the offered topics and send your top 3 preferences along with a short note on your mathematical background to [Hridya Varma][hridya]. Please send the e-mail by 10:00 on Monday October 23, 2023. We will try to distribute the topics according to your preferences and keeping in mind your mathematical background. You will be assigned a topic on October 25, 2023.
+Below you can find a tentative list of the topics that we offer along with *some literature suggestions (TO DO)*. We plan to have 8 presentations on 8 different topics. 
 
 1. Single-species and interacting population models in ecology
 2. Integro-difference equations in spatial ecology
@@ -74,6 +66,8 @@ Below you can find a tentative list of the topics that we offer along with *some
 
 This list may be updated once again before the kick-off meeting, so please watch out for any changes.
 {:.note}
+
+After the kick-off meeting on October 16, 2023, you will have one week to look into the offered topics and send your top 3 preferred topics along with a short note on your mathematical background to [Hridya Varma][hridya]. Please send the e-mail by 10:00 on Monday October 23, 2023. We will then try to distribute the topics according to your preferences keeping in mind your mathematical background. You will be assigned a topic by October 25, 2023.
 
 ## Goals of the Seminar
 - Explore the world of mathematical modelling in biology
