@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-07-28
+2023-09-27
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -155,7 +155,7 @@ Prüfungsformat
     | Klausur | Datum | Räume |
     |------|------|------|
     | 1. | 27.07.2023 (12:00 - 14:00) | Hörsaal West (HSW) im INF 252 |
-    | 2. | 10.10.2023 (10:00 - 12:00) | *TBA* |
+    | 2. | 10.10.2023 (10:00 - 12:00) | SR Statistik (2. OG) im INF 205  |
 
     Bitte 15 Minuten vor Beginn der Klausur vor Ort sein!
     {:.note title="Important"}
