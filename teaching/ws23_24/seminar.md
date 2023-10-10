@@ -53,7 +53,7 @@ The kick-off meeting will take place on October 16, 2023. Here, we will explain 
 
 ## Topics
 
-Below you can find a tentative list of the topics that we offer along with *some literature suggestions (TO DO)*. We plan to have 8 presentations on 8 different topics. 
+Below you can find a tentative list of the topics that we offer along with some [literature suggestions][lit]. We plan to have 8 presentations on 8 different topics. 
 
 1. Single-species and interacting population models in ecology
 2. Integro-difference equations in spatial ecology
@@ -97,13 +97,15 @@ In order to complete the seminar successfully, you have to:
 | January 15, 2024 | Modelling chemical reactions and gene regulatory networks | *TBA* |
 | January 22, 2024 | Reaction-diffusion models for biological pattern formation | *TBA* |
 | January 29, 2024 | Cellular automata approach to biological modelling | *TBA* |
-| February 5, 2024 | Population genetics and adaptive dynamics | *TBA* |
+| February 5, 2024 | Evolutionary game theory | *TBA* |
 
 ## Grading
 
 We primarly rate your talks based on [this rubric][rubric].
 
-## Literature Suggestions
+## Literature
+
+Here you will find some literature suggestions. These are only meant to be used as a starting point. We expect you to identify further literature as necessary on your own.
 
 1. Single-species and interacting population models in ecology
 : - Müller, Johannes, and Christina Kuttler. "Methods and models in mathematical biology." *Lecture Notes on Mathematical Modelling in Life Sciences, Springer, Berlin* (2015) - Chapter 2 (Mathematical Ecology)
@@ -137,7 +139,9 @@ We primarly rate your talks based on [this rubric][rubric].
 : - Sigmund, Karl. "Introduction to evolutionary game theory." *Evolutionary game dynamics* 69 (2011): 1-26.
   - Hammerstein, Peter, and Reinhard Selten. "Game theory and evolutionary biology." *Handbook of game theory with economic applications* 2 (1994): 929-993.
 
+Please remember that the goal of this seminar is not to present all the contents of the literature. This is unrealistic and will make it difficult for your audience to understand your talk. The literature is meant to help you get a good understanding of the topic, so that you can summarize your learnings and present it to your peers in a way they can understand.
 
+[lit]: #literature
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
 [hridya]: mailto:hridya(dot)varma(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1742
