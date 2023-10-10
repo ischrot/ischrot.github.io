@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-09-27
+2023-10-10
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -62,7 +62,7 @@ Below you can find a tentative list of the topics that we offer along with *some
 5. Modelling chemical reactions and gene regulatory networks
 6. Reaction-diffusion models for biological pattern formation
 7. Cellular automata approach to biological modelling
-8. Population genetics and adaptive dynamics
+8. Evolutionary game theory
 
 This list may be updated once again before the kick-off meeting, so please watch out for any changes.
 {:.note}
@@ -102,6 +102,40 @@ In order to complete the seminar successfully, you have to:
 ## Grading
 
 We primarly rate your talks based on [this rubric][rubric].
+
+## Literature Suggestions
+
+# Single-species and interacting population models in ecology
+: - Müller, Johannes, and Christina Kuttler. "Methods and models in mathematical biology." *Lecture Notes on Mathematical Modelling in Life Sciences, Springer, Berlin* (2015) - Chapter 2 (Mathematical Ecology)
+
+# Integro-difference equations in spatial ecology
+: - Lutscher, Frithjof. *Integrodifference equations in spatial ecology*. Cham, Switzerland: Springer International Publishing, 2019 - Chapters 2, 3, 4, 5.
+
+# Delay differential equations and their applications in biology
+: - Hadeler, K. P. "Delay equations in biology." *Functional Differential Equations and Approximation of Fixed Points: Proceedings, Bonn, July 1978*. Berlin, Heidelberg: Springer Berlin Heidelberg, 2006. 136-156.
+  - Ruan, Shigui. "Delay differential equations in single species dynamics." *Delay differential equations and applications* 205 (2006): 477-517.
+
+# Compartmental models in mathematical epidemiology
+: - Brauer, Fred. "Compartmental models in epidemiology." *Mathematical epidemiology* (2008): 19-79.
+  - Hadeler, Karl Peter, Michael C. Mackey, and Angela Stevens. *Topics in mathematical biology*. Berlin: Springer, 2017 - Chapter 6 (Epidemic models)
+
+# Modelling chemical reactions and gene regulatory networks
+: - Müller, Johannes, and Christina Kuttler. "Methods and models in mathematical biology." *Lecture Notes on Mathematical Modelling in Life Sciences, Springer, Berlin* (2015) - Sections 5.1 and 5.2 in Chapter 5 (Reaction Kinetics).
+  - Edelstein-Keshet, Leah. *Mathematical models in biology*. Society for Industrial and Applied Mathematics, 2005 - Chapter 7 (Models for Molecular Events).
+
+# Reaction-diffusion models for biological pattern formation
+: - Maini, Philip K., and Thomas E. Woolley. "The Turing model for biological pattern formation." *The dynamics of biological systems* (2019): 189-204.
+  - Kondo, Shigeru, and Takashi Miura. "Reaction-diffusion model as a framework for understanding biological pattern formation." *Science* 329.5999 (2010): 1616-1620.
+  - Edelstein-Keshet, Leah. *Mathematical models in biology*. Society for Industrial and Applied Mathematics, 2005 - Chapter 11 (Models for Development and Pattern Formation in Biological Systems).
+
+# Cellular automata approach to biological modelling
+: - Ermentrout, G. Bard, and Leah Edelstein-Keshet. "Cellular automata approaches to biological modelling." *Journal of theoretical biology* 160.1 (1993): 97-133.
+  - Hadeler, Karl-Peter, and Johannes Müller. *Cellular automata: analysis and applications*. Heidelberg: Springer, 2017.
+  - Deutsch, Andreas, and Sabine Dormann. *Cellular Automaton Modeling of Biological Pattern Formation*. Birkhäuser Boston, 2005.
+
+# Evolutionary game theory
+: - Sigmund, Karl. "Introduction to evolutionary game theory." *Evolutionary game dynamics* 69 (2011): 1-26.
+  - Hammerstein, Peter, and Reinhard Selten. "Game theory and evolutionary biology." *Handbook of game theory with economic applications* 2 (1994): 929-993.
 
 
 [ekaterina]: mailto:ekaterina(dot)kostina(at)iwr(dot)uni-heidelberg(dot)de
