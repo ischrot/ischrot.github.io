@@ -27,7 +27,7 @@ Organizers
 
 Meetings
 : We will meet in person on Mondays 14:15 - 15:45 in *TBA* (INF 205)
-: The **kick-off meeting** will be on October 16, 2023
+: The **kick-off meeting** will be on October 16, 2023 in room 1/414 (INF 205)
 
 Level:
 : Master students, advanced Bachelor students
