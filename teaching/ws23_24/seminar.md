@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-10-10
+2023-10-11
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -107,6 +107,9 @@ We primarly rate your talks based on [this rubric][rubric].
 
 Here you will find some literature suggestions. These are only meant to be used as a starting point. We expect you to identify further literature as necessary on your own.
 
+You can find all the following literature online when you are connected to the university network. Alternatively, you can also find them in this [heiBOX folder][heibox]. The password for this folder will be shared at the kick-off meeting.
+{:.note}
+
 1. Single-species and interacting population models in ecology
 : - Müller, Johannes, and Christina Kuttler. "Methods and models in mathematical biology." *Lecture Notes on Mathematical Modelling in Life Sciences, Springer, Berlin* (2015) - Chapter 2 (Mathematical Ecology)
 
@@ -146,7 +149,7 @@ Please remember that the goal of this seminar is not to present all the contents
 [hridya]: mailto:hridya(dot)varma(at)iwr(dot)uni-heidelberg(dot)de
 [muesli]: https://muesli.mathi.uni-heidelberg.de/lecture/view/1742
 [rubric]: https://www.bsu.edu/-/media/www/departmentalcontent/math/pdfs/cp%20rubric.pdf?la=en
-[vpn]: https://www.urz.uni-heidelberg.de/en/service-catalogue/network/vpn-virtual-private-network
+[heibox]: https://heibox.uni-heidelberg.de/d/cd753378fbce4b18bc27/
 
 
 
