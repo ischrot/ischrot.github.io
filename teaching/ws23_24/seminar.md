@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-10-11
+2023-10-12
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -63,9 +63,6 @@ Below you can find a tentative list of the topics that we offer along with some 
 6. Reaction-diffusion models for biological pattern formation
 7. Cellular automata approach to biological modelling
 8. Evolutionary game theory
-
-This list may be updated once again before the kick-off meeting, so please watch out for any changes.
-{:.note}
 
 After the kick-off meeting on October 16, 2023, you will have one week to look into the offered topics and send your top 3 preferred topics along with a short note on your mathematical background to [Hridya Varma][hridya]. Please send the e-mail by 10:00 on Monday October 23, 2023. We will then try to distribute the topics according to your preferences keeping in mind your mathematical background. You will be assigned a topic by October 25, 2023.
 
