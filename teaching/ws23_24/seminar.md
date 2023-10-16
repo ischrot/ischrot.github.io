@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-10-12
+2023-10-16
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -26,7 +26,7 @@ Organizers
   {:.note title="Contact"}
 
 Meetings
-: We will meet in person on Mondays 14:15 - 15:45 in *TBA* (INF 205)
+: We will meet in person on Mondays 14:15 - 15:45 in SR 1 (INF 205)
 : The **kick-off meeting** will be on October 16, 2023 in room 1/414 (INF 205)
 
 Level:
