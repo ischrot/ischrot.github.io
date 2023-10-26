@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-10-23
+2023-10-26
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -87,13 +87,13 @@ In order to complete the seminar successfully, you have to:
 | October 23, 2023 | Deadline to send your topic preferences |  |
 | October 25, 2023 | Distribution of the topics |  |
 | November 27, 2023 | 5-minute pitch session | everyone |
-| December 4, 2023 | Single-species and interacting population models in ecology | *TBA* |
+| December 4, 2023 | Single-species and interacting population models in ecology | - |
 | December 11, 2023 | Integro-difference equations in spatial ecology | Nico Haaf |
-| December 18, 2023 | Delay differential equations in biology | *TBA* |
+| December 18, 2023 | Delay differential equations in biology | - |
 | January 8, 2024 | Compartmental models in mathematical epidemiology | Julian Trebels |
 | January 15, 2024 | Modelling chemical reactions and gene regulatory networks | Cicely Nguyen |
-| January 22, 2024 | Reaction-diffusion models for biological pattern formation | Leonie Boland |
-| January 29, 2024 | Cellular automata approach to biological modelling | *TBA* |
+| January 22, 2024 | Reaction-diffusion models for biological pattern formation | - |
+| January 29, 2024 | Cellular automata approach to biological modelling | - |
 | February 5, 2024 | Evolutionary game theory | Timo Weber |
 
 ## Grading
