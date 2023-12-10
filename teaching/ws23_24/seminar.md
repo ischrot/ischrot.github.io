@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2023-10-26
+2023-12-10
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -88,7 +88,7 @@ In order to complete the seminar successfully, you have to:
 | October 25, 2023 | Distribution of the topics |  |
 | November 27, 2023 | 5-minute pitch session | everyone |
 | December 4, 2023 | Single-species and interacting population models in ecology | - |
-| December 11, 2023 | Integro-difference equations in spatial ecology | Nico Haaf |
+| December ~~11~~ 18, 2023 | Integro-difference equations in spatial ecology | Nico Haaf |
 | December 18, 2023 | Delay differential equations in biology | - |
 | January 8, 2024 | Compartmental models in mathematical epidemiology | Julian Trebels |
 | January 15, 2024 | Modelling chemical reactions and gene regulatory networks | Cicely Nguyen |
