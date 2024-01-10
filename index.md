@@ -10,15 +10,15 @@ sitemap: false
 2024-01-10
 {:.note title="Last modified at"}
 
-# Welcome to my personal website!
+## Welcome to my personal website!
 Here you find information on
 - my [teaching][teaching],
 - my [research][research].
 
-# Contact
+## Contact
 You can contact me via [email][ihno] or visit me at my office (1/408) in the Mathematikon of Heidelberg University.
 
-# Important shortlinks:
+## Important shortlinks:
 - [Teaching main page][teaching]
 - [Research][research]
 - Teaching -> [Seminar on Mathematical Modelling in Biology (WS23/24)][num]
