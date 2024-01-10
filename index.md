@@ -2,7 +2,7 @@
 layout: page
 title: Main Page
 description: >
-  Welcome to the homepage of Ihno Schrot
+  Welcome to the website of Ihno Schrot
 hide_description: false
 sitemap: false
 ---
@@ -18,8 +18,6 @@ Here you find information on
 # Contact
 You can contact me via [email][ihno] or visit me at my office (1/408) in the Mathematikon of Heidelberg University.
 
-**You find most information regarding my [teaching here][teaching].**
-
 # Important shortlinks:
 - [Teaching main page][teaching]
 - [Research][research]
@@ -30,8 +28,8 @@ You can contact me via [email][ihno] or visit me at my office (1/408) in the Mat
 
 [teaching]: /teaching/README.md
 [research]: /research/README.md
-[ihno]: mailto:ihno (dot) schrot (at) uni-heidelberg (dot) de
-[num]: /teaching/ws2324/seminar.md
+[ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
+[num]: /teaching/ws23_24/seminar.md
 [guide]: /teaching/supervision_guidelines.md
 [license]: LICENSE.md
 [notice]: NOTICE.md
