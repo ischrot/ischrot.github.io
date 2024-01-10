@@ -14,8 +14,7 @@ permalink: /research/
 0. I need this empty list to make the TOC work
 {:toc}
 
-## Cooperation Partners
-
+## Research Projects
 ### MORFAE Project
 Currently I am working within the collaborative project on *Modeling, optimization and control of networked vehicles and vehicle fleets with heterogeneous drive technologies in real time (MORFAE)* which is part of the BMBF program "Mathematics for Innovations". Within this project I am working primarily on Multi-Level Iteration Schemes for Nonlinear Model Predictive Control. My collaboration partners are
   - [Prof. Dr. Ekaterina A. Kostina][ekaterina], [Prof. Dr. Dr. h. c. mult. Hans Georg Bock][georg], [Dr. Andreas Sommer][andreas_sommer], Julian Niederer (Heidelberg University)
@@ -33,10 +32,9 @@ Previously, I have worked with
 on Real-Time Iterations for Nonlinear Model Predictive Control of Semilinear Parabolic PDEs.
 
 ### Cellular Automata in the Modeling of Infections
-At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][cordula] on Cellular Automata in the Modeling of Infections. This work resulted in my Bachelor thesis and a [conference contribution][mathmod].
+At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][cordula] on Cellular Automata in the Modeling of Infections. This work resulted in my [Bachelor thesis][ba_internal] and a [conference contribution][mathmod].
 
 ## Publications
-
 ### Articles
   - [I. Schrot. *Konzeption eines projektbasierten Übungsbetriebs für ein Modul im Masterstudiengang Mathematik mit Forschendem Lernen als Leitmotiv.* HINT. Heidelberg Inspirations for Innovative Teaching 4.1 (2023): 121-148.][hint]
 
@@ -63,3 +61,4 @@ At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][
 [morfae_talk]: https://slides.com/ischrot/rti_mli_morfae_workshop/fullscreen
 [hint]: https://doi.org/10.11588/hint.2023.1.101930
 [mathmod]: http://dx.doi.org/10.11128/arep.55.a55236
+[ba_internal]: #bachelor-thesis
