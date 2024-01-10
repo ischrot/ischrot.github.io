@@ -15,7 +15,7 @@ permalink: /research/
 {:toc}
 
 ## Research Projects
-### MORFAE Project
+### Modeling, Optimization and Control of Networked Vehicles and Vehicle Fleets with Heterogeneous Drive Technologies in Real Time
 Currently I am working within the collaborative project on *Modeling, optimization and control of networked vehicles and vehicle fleets with heterogeneous drive technologies in real time (MORFAE)* which is part of the BMBF program "Mathematics for Innovations". Within this project I am working primarily on Multi-Level Iteration Schemes for Nonlinear Model Predictive Control. My collaboration partners are
   - [Prof. Dr. Ekaterina A. Kostina][ekaterina], [Prof. Dr. Dr. h. c. mult. Hans Georg Bock][georg], [Dr. Andreas Sommer][andreas_sommer], Julian Niederer (Heidelberg University)
   - [Prof. Dr. Andreas Potschka][andreas], [Dr. Christoph Hansknecht][christoph] (Technical University Clausthal)
