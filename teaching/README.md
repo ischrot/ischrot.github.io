@@ -8,7 +8,7 @@ sitemap: true
 permalink: /teaching/
 ---
 
-2023-09-27
+2024-01-11
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -16,7 +16,8 @@ permalink: /teaching/
 
 ## Courses
 
-From the winter term 2023/2024 I will no longer be organising our courses. However, you can still find information about our group's courses on my website. 
+As of the winter term 2023/2024, I will no longer be organizing our courses. However, you can still find information about our group's courses on my website.
+  {:.note}
 
 ### Winter Term 2023/24
 
@@ -56,7 +57,7 @@ Usually I do not directly provide topics or supervise theses. However, our workg
 
 ### [Supervision Guidelines][guidelines]
 
-As part of a course on *Supervising Theses* in which I participated in order to acquire the *Baden-Württemberg-Zertifikat für Hochschuldidaktik* (= Higher Education Didactics Certificate Baden-Württemberg) I am currently developing guidelines for supervising theses. 
+As part of a course on *Supervising Theses* in which I participated in order to acquire the *Baden-Württemberg-Zertifikat für Hochschuldidaktik* (= Higher Education Didactics Certificate Baden-Württemberg) I have developed guidelines for supervising theses. 
 
 **These are my personal guidelines, i.e. if you are supervised by someone else your supervisor might have different expectations and habits!** But, even if your thesis is not actually supervised by me, I believe that these guidelines can give you ideas how to structure the cooperation with your supervisor. Especially, they include some information about how and when to approach us if you would like to write your thesis with us.
 
