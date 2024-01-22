@@ -19,7 +19,7 @@ sitemap: false
 - [NOTICE][notice]
 
 ## Contact
-You can contact me via [email][ihno] or visit me at my office (1/408) in the Mathematikon of Heidelberg University.
+You can contact me via [email][ihno] or visit me at my office (1/408) in the Mathematikon at Heidelberg University.
 
 [teaching]: /teaching/README.md
 [research]: /research/README.md
