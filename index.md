@@ -12,9 +12,9 @@ sitemap: false
 
 ## Important shortlinks:
 - [Teaching][teaching]
+  - [Seminar on Mathematical Modelling in Biology (WS23/24)][sem]
+  - [Supervision Guidelines][guide]
 - [Research][research]
-- Teaching - [Seminar on Mathematical Modelling in Biology (WS23/24)][num]
-- Teaching - [Supervision Guidelines][guide]
 - [LICENSE][license]
 - [NOTICE][notice]
 
@@ -24,7 +24,7 @@ You can contact me via [email][ihno] or visit me at my office (1/408) in the Mat
 [teaching]: /teaching/README.md
 [research]: /research/README.md
 [ihno]: mailto:ihno(dot)schrot(at)uni-heidelberg(dot)de
-[num]: /teaching/ws23_24/seminar.md
+[sem]: /teaching/ws23_24/seminar.md
 [guide]: /teaching/supervision_guidelines.md
 [license]: LICENSE.md
 [notice]: NOTICE.md
