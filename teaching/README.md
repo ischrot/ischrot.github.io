@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 description: >
-  Here you find information about the courses organised by our group.
+  Here you find information about the courses organized by our group.
 hide_description: false
 sitemap: true
 permalink: /teaching/
