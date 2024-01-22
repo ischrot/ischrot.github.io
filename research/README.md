@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: >
-  Here you will soon find information about my research.
+  Here you find information about my research.
 hide_description: false
 sitemap: true
 permalink: /research/
