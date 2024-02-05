@@ -9,7 +9,7 @@ sitemap: true
 
 <!-- invert_sidebar: true -->
 
-2024-01-15
+2024-02-05
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -94,7 +94,7 @@ In order to complete the seminar successfully, you have to:
 | ~~January 15, 2024~~ <br> **January 29, 2024** | Modelling chemical reactions and gene regulatory networks | Cicely Nguyen |
 | January 22, 2024 | Reaction-diffusion models for biological pattern formation | - |
 | January 29, 2024 | Cellular automata approach to biological modelling | - |
-| February 5, 2024 | Evolutionary game theory | Timo Weber |
+| ~~February 5, 2024~~ <br> **February 12, 2024** | Evolutionary game theory | Timo Weber |
 
 ## Grading
 
