@@ -8,7 +8,7 @@ sitemap: true
 permalink: /research/
 ---
 
-2024-01-10
+2025-03-30
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -56,7 +56,7 @@ At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][
 [christoph]: https://www.mathematik.tu-clausthal.de/en/about-us/research-groups/continuous-optimization/staff/dr-christoph-hansknecht/
 [bosch]: https://www.bosch.com/
 [karl]: https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/profil/fachgebiet-optimization-based-control/team/karl-worthmann
-[manuel]: https://www.tu-ilmenau.de/deq
+[manuel]: https://www.tu-chemnitz.de/mathematik/jpnuma/index.php
 [cordula]: https://www.tu-braunschweig.de/ipde/personal/creisch
 [morfae_talk]: https://slides.com/ischrot/rti_mli_morfae_workshop/fullscreen
 [hint]: https://doi.org/10.11588/hint.2023.1.101930
