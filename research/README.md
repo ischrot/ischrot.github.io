@@ -25,7 +25,8 @@ Currently I am working within the collaborative project on *Modeling, optimizati
 Previously, I have worked with
   - [Prof. Dr. Ekaterina A. Kostina][ekaterina] (Heidelberg University)
   - [Prof. Dr. Andreas Potschka][andreas] (Technical University Clausthal)
-  - [Prof. Dr. Karl Worthmann][karl], [Jun. Prof. Dr. Manuel Schaller][manuel] (Technical University Ilmenau)
+  - [Prof. Dr. Karl Worthmann][karl] (Technical University Ilmenau)
+  - [Jun. Prof. Dr. Manuel Schaller][manuel] (Technical University Chemnitz)
 
 on the stability of inexact NMPC for a class of semilinear parabolic partial differential equations.
 
@@ -74,5 +75,5 @@ At a workshop for the [MORFAE project][morfae_internal] I have given a talk abou
 [ba_internal]: #bachelor-thesis
 [phd_thesis]: https://doi.org/10.11588/heidok.00036802
 [phd_thesis_internal]: #phd-thesis
-[morfae_internal]: #modeling,-optimization-and-control-of-networked-vehicles-and-vehicle-fleets-with-heterogeneous-drive-technologies-in-real-time
+[morfae_internal]: #modeling-optimization-and-control-of-networked-vehicles-and-vehicle-fleets-with-heterogeneous-drive-technologies-in-real-time
 [phd_defense]: https://slides.com/ischrot/phd_defense
