@@ -8,7 +8,7 @@ sitemap: true
 permalink: /research/
 ---
 
-2025-03-30
+2025-07-10
 {:.note title="Last modified at"}
 
 0. I need this empty list to make the TOC work
@@ -21,25 +21,35 @@ Currently I am working within the collaborative project on *Modeling, optimizati
   - [Prof. Dr. Andreas Potschka][andreas], [Dr. Christoph Hansknecht][christoph] (Technical University Clausthal)
   - [Robert Bosch GmbH][bosch]
 
-At a workshop for this project I have given a talk about Real-Time Iterations and Multi-Level Iterations. The [slides][morfae_talk] are available online.
-
-### Real-Time Iterations for Nonlinear Model Predictive Control of Semilinear Parabolic PDEs
+### Stability of Inexact NMPC for a Class of Semilinear Parabolic Partial Differential Equations
 Previously, I have worked with
   - [Prof. Dr. Ekaterina A. Kostina][ekaterina] (Heidelberg University)
   - [Prof. Dr. Andreas Potschka][andreas] (Technical University Clausthal)
   - [Prof. Dr. Karl Worthmann][karl], [Jun. Prof. Dr. Manuel Schaller][manuel] (Technical University Ilmenau)
 
-on Real-Time Iterations for Nonlinear Model Predictive Control of Semilinear Parabolic PDEs.
+on the stability of inexact NMPC for a class of semilinear parabolic partial differential equations.
 
 ### Cellular Automata in the Modeling of Infections
 At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][cordula] on Cellular Automata in the Modeling of Infections. This work resulted in my [Bachelor thesis][ba_internal] and a [conference contribution][mathmod].
 
 ## Publications
+
+### PhD Thesis
+  - [I. Schrot, *Efficient Numerical Methods for Nonlinear Model Predictive Control with Applications in Adaptive Cruise Control*, Heidelberg University, 2025.][phd_thesis]
+
 ### Articles
   - [I. Schrot. *Konzeption eines projektbasierten Übungsbetriebs für ein Modul im Masterstudiengang Mathematik mit Forschendem Lernen als Leitmotiv.* HINT. Heidelberg Inspirations for Innovative Teaching 4.1 (2023): 121-148.][hint]
 
 ### Conference Proceedings
   - [C. Reisch, I. Schrot: *Hierarchies of Modeling Infections: Comparison of Reaction-Diffusion System and Cellular Automaton*, ARGESIM Report 55, 49-50, Proc. MathMod2018, Wien, 2018.][mathmod]
+
+## Talks
+
+### PhD Defense
+On July 3rd, 2025, I have defended my [PhD thesis][phd_thesis_internal]. The [slides][phd_defense] are available online.
+
+### MORFAE Workshop
+At a workshop for the [MORFAE project][morfae_internal] I have given a talk about Real-Time Iterations and Multi-Level Iterations. The [slides][morfae_talk] are available online.
 
 ## Theses
 
@@ -62,3 +72,7 @@ At the end of my Bachelor's studies I worked together with [Dr. Cordula Reisch][
 [hint]: https://doi.org/10.11588/hint.2023.1.101930
 [mathmod]: http://dx.doi.org/10.11128/arep.55.a55236
 [ba_internal]: #bachelor-thesis
+[phd_thesis]: https://doi.org/10.11588/heidok.00036802
+[phd_thesis_internal]: #phd-thesis
+[morfae_internal]: #modeling,-optimization-and-control-of-networked-vehicles-and-vehicle-fleets-with-heterogeneous-drive-technologies-in-real-time
+[phd_defense]: https://slides.com/ischrot/phd_defense
